@@ -3,7 +3,7 @@ name: Upload SC7 static files
 on:
   push:
     branches:
-    - main
+    - master
 
 jobs:
   deploy:
