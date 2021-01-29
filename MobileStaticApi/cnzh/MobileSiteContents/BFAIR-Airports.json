@@ -1,0 +1,881 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "BFAIR-ADL",
+            "Value": "阿德莱德"
+        },
+        {
+            "Key": "BFAIR-AKL",
+            "Value": "奥克兰"
+        },
+        {
+            "Key": "BFAIR-AU",
+            "Value": "澳大利亚"
+        },
+        {
+            "Key": "BFAIR-AVV",
+            "Value": "墨尔本（阿瓦隆机场）"
+        },
+        {
+            "Key": "BFAIR-AYQ",
+            "Value": "艾尔斯岩"
+        },
+        {
+            "Key": "BFAIR-BKK",
+            "Value": "曼谷"
+        },
+        {
+            "Key": "BFAIR-BLR",
+            "Value": "印度班加罗尔"
+        },
+        {
+            "Key": "BFAIR-BMV",
+            "Value": "邦美蜀市"
+        },
+        {
+            "Key": "BFAIR-BNE",
+            "Value": "布里斯班"
+        },
+        {
+            "Key": "BFAIR-BNK",
+            "Value": "巴利纳拜伦"
+        },
+        {
+            "Key": "BFAIR-BOM",
+            "Value": "印度孟买"
+        },
+        {
+            "Key": "BFAIR-BQB",
+            "Value": "巴瑟尔顿玛格丽特河 (Busselton Margaret River)"
+        },
+        {
+            "Key": "BFAIR-CAN",
+            "Value": "广州"
+        },
+        {
+            "Key": "BFAIR-CBR",
+            "Value": "堪培拉"
+        },
+        {
+            "Key": "BFAIR-CCU",
+            "Value": "印度加尔各答"
+        },
+        {
+            "Key": "BFAIR-CGK",
+            "Value": "雅加达"
+        },
+        {
+            "Key": "BFAIR-CGO",
+            "Value": "郑州"
+        },
+        {
+            "Key": "BFAIR-CHC",
+            "Value": "基督城"
+        },
+        {
+            "Key": "BFAIR-CK",
+            "Value": "库克群岛"
+        },
+        {
+            "Key": "BFAIR-CMB",
+            "Value": "科伦坡"
+        },
+        {
+            "Key": "BFAIR-CN",
+            "Value": "中国"
+        },
+        {
+            "Key": "BFAIR-CNS",
+            "Value": "凯恩斯"
+        },
+        {
+            "Key": "BFAIR-CNX",
+            "Value": "清迈"
+        },
+        {
+            "Key": "BFAIR-CRK",
+            "Value": "克拉克"
+        },
+        {
+            "Key": "BFAIR-CSX",
+            "Value": "长沙"
+        },
+        {
+            "Key": "BFAIR-CTS",
+            "Value": "札幌 (新千岁)"
+        },
+        {
+            "Key": "BFAIR-CXR",
+            "Value": "芽庄"
+        },
+        {
+            "Key": "BFAIR-DAD",
+            "Value": "岘港"
+        },
+        {
+            "Key": "BFAIR-DDI",
+            "Value": "白日梦岛"
+        },
+        {
+            "Key": "BFAIR-DEL",
+            "Value": "德里"
+        },
+        {
+            "Key": "BFAIR-DLI",
+            "Value": "Da Lat"
+        },
+        {
+            "Key": "BFAIR-DPS",
+            "Value": "巴厘岛（登巴萨）"
+        },
+        {
+            "Key": "BFAIR-DRW",
+            "Value": "达尔文"
+        },
+        {
+            "Key": "BFAIR-DUD",
+            "Value": "但尼丁"
+        },
+        {
+            "Key": "BFAIR-FJ",
+            "Value": "斐济"
+        },
+        {
+            "Key": "BFAIR-FUK",
+            "Value": "福冈"
+        },
+        {
+            "Key": "BFAIR-HAK",
+            "Value": "海口"
+        },
+        {
+            "Key": "BFAIR-HAN",
+            "Value": "河内"
+        },
+        {
+            "Key": "BFAIR-HAP",
+            "Value": "长岛"
+        },
+        {
+            "Key": "BFAIR-HBA",
+            "Value": "霍巴特"
+        },
+        {
+            "Key": "BFAIR-HDY",
+            "Value": "Hat Yai"
+        },
+        {
+            "Key": "BFAIR-HFE",
+            "Value": "合肥"
+        },
+        {
+            "Key": "BFAIR-HGH",
+            "Value": "杭州（上海）"
+        },
+        {
+            "Key": "BFAIR-HIS",
+            "Value": "海曼岛"
+        },
+        {
+            "Key": "BFAIR-HK",
+            "Value": "中国香港特别行政区"
+        },
+        {
+            "Key": "BFAIR-HKG",
+            "Value": "香港"
+        },
+        {
+            "Key": "BFAIR-HKT",
+            "Value": "普吉"
+        },
+        {
+            "Key": "BFAIR-HNL",
+            "Value": "火奴鲁鲁"
+        },
+        {
+            "Key": "BFAIR-HPH",
+            "Value": "海防"
+        },
+        {
+            "Key": "BFAIR-HTI",
+            "Value": "汉密尔顿岛"
+        },
+        {
+            "Key": "BFAIR-HUI",
+            "Value": "順化"
+        },
+        {
+            "Key": "BFAIR-HVB",
+            "Value": "赫维湾"
+        },
+        {
+            "Key": "BFAIR-ICN",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-ID",
+            "Value": "印度尼西亚"
+        },
+        {
+            "Key": "BFAIR-IN",
+            "Value": "Republic of India"
+        },
+        {
+            "Key": "BFAIR-JLM",
+            "Value": "Canberra (Jolimont Bus Station)"
+        },
+        {
+            "Key": "BFAIR-JP",
+            "Value": "日本"
+        },
+        {
+            "Key": "BFAIR-KCZ",
+            "Value": "高知"
+        },
+        {
+            "Key": "BFAIR-KH",
+            "Value": "柬埔寨"
+        },
+        {
+            "Key": "BFAIR-KHH",
+            "Value": "高雄"
+        },
+        {
+            "Key": "BFAIR-KIX",
+            "Value": "大阪 (关西)"
+        },
+        {
+            "Key": "BFAIR-KMI",
+            "Value": "宫崎"
+        },
+        {
+            "Key": "BFAIR-KMJ",
+            "Value": "熊本"
+        },
+        {
+            "Key": "BFAIR-KNO",
+            "Value": "新棉兰国际机场"
+        },
+        {
+            "Key": "BFAIR-KOJ",
+            "Value": "鹿儿岛"
+        },
+        {
+            "Key": "BFAIR-KR",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-KUL",
+            "Value": "吉隆坡"
+        },
+        {
+            "Key": "BFAIR-KWE",
+            "Value": "贵阳"
+        },
+        {
+            "Key": "BFAIR-LK",
+            "Value": "斯里兰卡"
+        },
+        {
+            "Key": "BFAIR-LOP",
+            "Value": "龙目岛"
+        },
+        {
+            "Key": "BFAIR-LST",
+            "Value": "朗塞斯顿"
+        },
+        {
+            "Key": "BFAIR-MAA",
+            "Value": "印度金奈"
+        },
+        {
+            "Key": "BFAIR-MCY",
+            "Value": "阳光海岸"
+        },
+        {
+            "Key": "BFAIR-MEL",
+            "Value": "墨尔本 (泰勒马林)"
+        },
+        {
+            "Key": "BFAIR-MES",
+            "Value": "棉兰"
+        },
+        {
+            "Key": "BFAIR-MFM",
+            "Value": "澳门"
+        },
+        {
+            "Key": "BFAIR-MKY",
+            "Value": "麦凯"
+        },
+        {
+            "Key": "BFAIR-MM",
+            "Value": "缅甸"
+        },
+        {
+            "Key": "BFAIR-MNL",
+            "Value": "马尼拉"
+        },
+        {
+            "Key": "BFAIR-MO",
+            "Value": "中国澳门特别行政区"
+        },
+        {
+            "Key": "BFAIR-MY",
+            "Value": "马来西亚"
+        },
+        {
+            "Key": "BFAIR-MYJ",
+            "Value": "松山"
+        },
+        {
+            "Key": "BFAIR-NAN",
+            "Value": "纳迪"
+        },
+        {
+            "Key": "BFAIR-NGB",
+            "Value": "宁波"
+        },
+        {
+            "Key": "BFAIR-NGO",
+            "Value": "名古屋 (中部)"
+        },
+        {
+            "Key": "BFAIR-NGS",
+            "Value": "长崎"
+        },
+        {
+            "Key": "BFAIR-NPE",
+            "Value": "内皮尔"
+        },
+        {
+            "Key": "BFAIR-NPL",
+            "Value": "新普利茅斯"
+        },
+        {
+            "Key": "BFAIR-NRT",
+            "Value": "东京 (成田)"
+        },
+        {
+            "Key": "BFAIR-NSN",
+            "Value": "尼尔森"
+        },
+        {
+            "Key": "BFAIR-NTL",
+            "Value": "纽卡斯尔"
+        },
+        {
+            "Key": "BFAIR-NZ",
+            "Value": "新西兰"
+        },
+        {
+            "Key": "BFAIR-OIT",
+            "Value": "大分"
+        },
+        {
+            "Key": "BFAIR-OKA",
+            "Value": "冲绳 (那霸)"
+        },
+        {
+            "Key": "BFAIR-OOL",
+            "Value": "黄金海岸"
+        },
+        {
+            "Key": "BFAIR-PEK",
+            "Value": "北京"
+        },
+        {
+            "Key": "BFAIR-PEN",
+            "Value": "槟城"
+        },
+        {
+            "Key": "BFAIR-PER",
+            "Value": "珀斯"
+        },
+        {
+            "Key": "BFAIR-PH",
+            "Value": "菲律宾"
+        },
+        {
+            "Key": "BFAIR-PKU",
+            "Value": "Pekanbaru"
+        },
+        {
+            "Key": "BFAIR-PLM",
+            "Value": "Palembang"
+        },
+        {
+            "Key": "BFAIR-PMR",
+            "Value": "北帕默斯顿"
+        },
+        {
+            "Key": "BFAIR-PNH",
+            "Value": "金边"
+        },
+        {
+            "Key": "BFAIR-PPP",
+            "Value": "圣灵群岛海岸"
+        },
+        {
+            "Key": "BFAIR-PQC",
+            "Value": "富国"
+        },
+        {
+            "Key": "BFAIR-PVG",
+            "Value": "上海"
+        },
+        {
+            "Key": "BFAIR-PXU",
+            "Value": "Pleiku"
+        },
+        {
+            "Key": "BFAIR-RAR",
+            "Value": "拉罗汤加"
+        },
+        {
+            "Key": "BFAIR-REP",
+            "Value": "暹粒"
+        },
+        {
+            "Key": "BFAIR-RGN",
+            "Value": "仰光"
+        },
+        {
+            "Key": "BFAIR-SG",
+            "Value": "新加坡"
+        },
+        {
+            "Key": "BFAIR-SGN",
+            "Value": "胡志明市"
+        },
+        {
+            "Key": "BFAIR-SHI",
+            "Value": "宫古 (下地岛)"
+        },
+        {
+            "Key": "BFAIR-SIN",
+            "Value": "新加坡"
+        },
+        {
+            "Key": "BFAIR-SUB",
+            "Value": "泗水"
+        },
+        {
+            "Key": "BFAIR-SWA",
+            "Value": "汕头\/揭阳"
+        },
+        {
+            "Key": "BFAIR-SYD",
+            "Value": "悉尼"
+        },
+        {
+            "Key": "BFAIR-SYO",
+            "Value": "庄内"
+        },
+        {
+            "Key": "BFAIR-SYX",
+            "Value": "三亚凤凰国际机场"
+        },
+        {
+            "Key": "BFAIR-TAK",
+            "Value": "高松"
+        },
+        {
+            "Key": "BFAIR-TBB",
+            "Value": "绥和"
+        },
+        {
+            "Key": "BFAIR-TH",
+            "Value": "泰国"
+        },
+        {
+            "Key": "BFAIR-THD",
+            "Value": "清化"
+        },
+        {
+            "Key": "BFAIR-TJQ",
+            "Value": "勿里洞<br \/>"
+        },
+        {
+            "Key": "BFAIR-TPE",
+            "Value": "台北"
+        },
+        {
+            "Key": "BFAIR-TRZ",
+            "Value": "印度蒂鲁吉拉伯利"
+        },
+        {
+            "Key": "BFAIR-TSV",
+            "Value": "汤斯维尔"
+        },
+        {
+            "Key": "BFAIR-TW",
+            "Value": "中国台湾"
+        },
+        {
+            "Key": "BFAIR-UIH",
+            "Value": "归仁"
+        },
+        {
+            "Key": "BFAIR-US",
+            "Value": "美国"
+        },
+        {
+            "Key": "BFAIR-VCA",
+            "Value": "芹苴"
+        },
+        {
+            "Key": "BFAIR-VCL",
+            "Value": "茱莱"
+        },
+        {
+            "Key": "BFAIR-VDH",
+            "Value": "洞海"
+        },
+        {
+            "Key": "BFAIR-VII",
+            "Value": "荣市"
+        },
+        {
+            "Key": "BFAIR-VIZ",
+            "Value": "墨尔本"
+        },
+        {
+            "Key": "BFAIR-VN",
+            "Value": "越南"
+        },
+        {
+            "Key": "BFAIR-WLG",
+            "Value": "惠灵顿"
+        },
+        {
+            "Key": "BFAIR-WSY",
+            "Value": "圣灵群岛海岸 - 艾尔利海滩"
+        },
+        {
+            "Key": "BFAIR-WUH",
+            "Value": "武汉市"
+        },
+        {
+            "Key": "BFAIR-XUZ",
+            "Value": "徐州"
+        },
+        {
+            "Key": "BFAIR-ZQN",
+            "Value": "皇后镇"
+        },
+        {
+            "Key": "terminalInfo-ADL-1",
+            "Value": "国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-ADL-1-short",
+            "Value": "国内"
+        },
+        {
+            "Key": "terminalInfo-ADL-D",
+            "Value": "国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-ADL-D-short",
+            "Value": "国内"
+        },
+        {
+            "Key": "terminalInfo-ADL-I",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-ADL-I-short",
+            "Value": "国际"
+        },
+        {
+            "Key": "terminalInfo-AKL-D",
+            "Value": "国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-AKL-D-short",
+            "Value": "国内"
+        },
+        {
+            "Key": "terminalInfo-AKL-I",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-AKL-I-short",
+            "Value": "国际"
+        },
+        {
+            "Key": "terminalInfo-BKK-I",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-BKK-I-short",
+            "Value": "国际"
+        },
+        {
+            "Key": "terminalInfo-BNE-D",
+            "Value": "国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-BNE-D-short",
+            "Value": "国内"
+        },
+        {
+            "Key": "terminalInfo-BNE-I",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-BNE-I-short",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-CNS-D",
+            "Value": "国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-CNS-D-short",
+            "Value": "国内"
+        },
+        {
+            "Key": "terminalInfo-CNS-I",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-CNS-I-short",
+            "Value": "国际"
+        },
+        {
+            "Key": "terminalInfo-DPS-I",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-DPS-I-short",
+            "Value": "国际"
+        },
+        {
+            "Key": "terminalInfo-DRW-D",
+            "Value": "国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-DRW-D-short",
+            "Value": "国内"
+        },
+        {
+            "Key": "terminalInfo-DRW-I",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-DRW-I-short",
+            "Value": "国际"
+        },
+        {
+            "Key": "terminalInfo-HKG-2",
+            "Value": "2 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-HKG-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-HKT-1",
+            "Value": "1 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-HKT-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-HKT-I",
+            "Value": "1 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-HKT-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-HNL-M",
+            "Value": "主航站楼"
+        },
+        {
+            "Key": "terminalInfo-HNL-M-short",
+            "Value": "主航站楼"
+        },
+        {
+            "Key": "terminalInfo-KIX-1",
+            "Value": "1 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-KIX-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-KIX-I",
+            "Value": "1 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-KIX-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1",
+            "Value": "国内航站楼 T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1-short",
+            "Value": "T1 国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-MEL-2",
+            "Value": "国际航站楼 T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-4",
+            "Value": "国内航站楼 T4"
+        },
+        {
+            "Key": "terminalInfo-MEL-4-short",
+            "Value": "T4 国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-MEL-D",
+            "Value": "国内航站楼 T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-D-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MNL-I",
+            "Value": "1 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-MNL-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-NRT-2",
+            "Value": "2 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-NRT-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-NRT-3",
+            "Value": "3 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-NRT-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-OOL-D",
+            "Value": "国内航站楼 T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-D-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-I",
+            "Value": "国际航站楼 T2"
+        },
+        {
+            "Key": "terminalInfo-OOL-I-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-PER-1",
+            "Value": "国际航站楼 T1"
+        },
+        {
+            "Key": "terminalInfo-PER-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-PER-2",
+            "Value": "T4 国内航站楼"
+        },
+        {
+            "Key": "terminalInfo-PER-2-short",
+            "Value": "T4"
+        },
+        {
+            "Key": "terminalInfo-PER-3",
+            "Value": "国内航站楼 T3"
+        },
+        {
+            "Key": "terminalInfo-PER-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-PER-4",
+            "Value": "国内航站楼 T4"
+        },
+        {
+            "Key": "terminalInfo-PER-4-short",
+            "Value": "T4"
+        },
+        {
+            "Key": "terminalInfo-SGN-D",
+            "Value": "1 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-SGN-D-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SGN-I",
+            "Value": "国际航站楼"
+        },
+        {
+            "Key": "terminalInfo-SGN-I-short",
+            "Value": "国际"
+        },
+        {
+            "Key": "terminalInfo-SIN-1",
+            "Value": "1 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-SIN-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SUB-2",
+            "Value": "2 号航站楼"
+        },
+        {
+            "Key": "terminalInfo-SUB-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-1",
+            "Value": "国际航站楼 T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-2",
+            "Value": "国内航站楼 T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-3",
+            "Value": "国内航站楼 T3"
+        },
+        {
+            "Key": "terminalInfo-SYD-3-short",
+            "Value": "T3"
+        }
+    ],
+    "Promotions": null
+}

@@ -1,0 +1,171 @@
+{
+   "informationCenter":[
+      {
+         "ColumnName":"网络，票价&行李",
+         "Links":[
+            {
+               "Label":"航班時間表",
+              "URL": "https://www.jetstar.com/hk/zh/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":"機票及配套",
+              "URL": "https://www.jetstar.com/hk/zh/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":"托運行李",
+               "URL": "https://www.jetstar.com/hk/zh/flights/baggage/checked-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"手提行李",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/carry-on-baggage-what-can-i-bring-on-board",
+               "Updated":"False"
+            },
+            {
+               "Label":"手續費明細",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/fees-and-charges",
+               "Updated":"False"
+            },
+            {
+               "Label":"團體預訂",
+               "URL": "https://www.jetstar.com/hk/zh/flights/group-bookings",
+               "Updated":"False"
+            },
+            
+            {
+               "Label":"大件行李",
+               "URL": "https://www.jetstar.com/hk/zh/flights/baggage/oversized-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"危險物品",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/what-cant-i-carry-on-board-prohibited-items",
+               "Updated":"False"
+            },
+            {
+               "Label":"行李服務",
+               "URL": "https://www.jetstar.com/hk/zh/contact-us/lost-damaged-and-delayed-baggage",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"机场&机上",
+         "Links":[
+            {
+               "Label":"登機辦理",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/checking-in",
+               "Updated":"False"
+            },
+            {
+               "Label":"航班轉接",
+               "URL": "http://agenthub.jetstar.com/hk/zh/agentinfo/planning-and-booking/flight-connections",
+               "Updated":"False"
+            },
+            {
+               "Label":"Interline and codeshare",
+               "URL": "http://www.jetstar.com//~/_media/Tradesite/Interline_and_codeshare_CHS.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"經濟艙",
+               "URL": "https://www.jetstar.com/hk/zh/flights/economy",
+               "Updated":"False"
+            },
+            {
+               "Label":"商務艙",
+               "URL": "https://www.jetstar.com/hk/zh/flights/business-class",
+               "Updated":"False"
+            },
+            {
+               "Label":"座位安排",
+               "URL": "https://www.jetstar.com/hk/zh/flights/seats",
+               "Updated":"False"
+            },
+            {
+               "Label":"機場與航站",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/airports-and-terminals",
+               "Updated":"False"
+            },
+            {
+               "Label":"開始登機",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/when-to-get-to-the-airport-for-domestic-flights",
+               "Updated":"False"
+            },
+            {
+               "Label":"餐飲服務",
+               "URL": "https://www.jetstar.com/hk/zh/flights/food-and-drinks",
+               "Updated":"False"
+            },
+            {
+               "Label":"機上娛樂",
+               "URL": "https://www.jetstar.com/hk/zh/flights/entertainment",
+               "Updated":"False"
+            },
+            {
+               "Label":"其他額外服務",
+               "URL": "https://www.jetstar.com/hk/zh/flights/comfort-packs",
+               "Updated":"False"
+            },
+            {
+               "Label":"貴賓室",
+               "URL": "https://www.jetstar.com/hk/zh/help/tags/lounges",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"新闻&旅行政策",
+         "Links":[
+           {
+               "Label":"機上健康",
+               "URL": "https://www.jetstar.com/hk/zh/fly-well",
+               "Updated":"False"
+            },
+            {
+               "Label":"特別協助",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/specific-assistance",
+               "Updated":"False"
+            },
+            {
+               "Label":"單獨旅行的兒童",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/independent-travellers-and-accompanying-passengers",
+               "Updated":"False"
+            }
+         ]
+      },
+      
+   ],
+   "footer":[
+      {
+         "Label":"聯絡我們",
+         "URL": "https://www.jetstar.com/hk/zh/contact-us"
+      },
+      {
+         "Label":"客戶保證",
+         "URL": "https://www.jetstar.com/hk/zh/customer-guarantee"
+      },
+      {
+         "Label":"隱私權政策",
+         "URL": "https://www.jetstar.com/hk/zh/privacy-policy"
+      },
+      {
+         "Label":"使用條款",
+         "URL": "http://www.jetstar.com/hk/zh/terms of use"
+      },
+      {
+         "Label":"條款及細則",
+         "URL": "http://www.jetstar.com/hk/zh/terms and conditions"
+      }
+   ],
+   "banners":[
+      {
+         "Name":"MREC",
+         "Image":"\/\/www.jetstar.com\/cn\/zh\/agentinfo\/\/~\/_media\/Tradesite\/Banners\/flex_bundle_7kg_edited.png?bc=White",
+         "Caption":"Banner",
+         "URL":"\/\/www.jetstar.com\/cn\/zh\/flights\/baggage\/7kg-carry-on-baggage"
+      }
+   ]
+}

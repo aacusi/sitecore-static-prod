@@ -1,0 +1,99 @@
+{
+   "informationCenter":[
+      {
+         "ColumnName":"Destinations and fares",
+         "Links":[
+            {
+               "Label":"Jetstar destinations",
+               "URL":"http:/www.jetstar.com/hk/en/destinations",
+               "Updated":"False"
+            },
+            {
+               "Label":"Flex",
+               "URL":"http:/www.jetstar.com/hk/en/flexibiz",
+               "Updated":"False"
+            },
+            {
+               "Label":"Fares and bundles",
+               "URL":"http:/www.jetstar.com/hk/en/help/articles/economy-bundles-whats-included",
+               "Updated":"False"
+            },
+            {
+               "Label":"Hotels",
+               "URL":"https:/www.agoda.com/jetstarsg",
+               "Updated":"False"
+            },
+            {
+               "Label":"About Jetstar",
+               "URL":"http:/www.jetstar.com/hk/en/about-us",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Check-in and booking",
+         "Links":[
+            {
+               "Label":"Web check-in",
+               "URL":"https:/book.jetstar.com/retrievebooking.aspx?action=showcheckin&culture=en-ca",
+               "Updated":"False"
+            },
+            {
+               "Label":"Manage booking",
+               "URL":"https:/booknow.jetstar.com/login.aspx?culture=en-CA",
+               "Updated":"False"
+            },
+            {
+               "Label":"Jetstar app",
+               "URL":"http:/www.jetstar.com/hk/en/jetstar-app",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"News and contact",
+         "Links":[
+            {
+               "Label":"Medical clearance",
+               "URL":"http:/www.jetstar.com/hk/en/help/articles/travel-advice",
+               "Updated":"False"
+            },
+            {
+               "Label":"Flexible Bundle",
+               "URL":"http:/jetstar.com/hk/en/flexibiz",
+               "Updated":"False"
+            }
+         ]
+      }
+   ],
+   "footer":[
+      {
+      "Label": "Contact us",
+      "URL": "https://www.jetstar.com/hk/en/contact-us"
+    },
+    {
+      "Label": "Customer Guarantee",
+      "URL": "https://www.jetstar.com/hk/en/customer-guarantee"
+    },
+    {
+      "Label": "Privacy policy",
+      "URL": "https://www.jetstar.com/hk/en/privacy-policy"
+    },
+    {
+      "Label": "Website Terms of use",
+      "URL": "https://www.jetstar.com/hk/en/terms-of-use"
+    },
+    {
+      "Label": "Terms & Conditions of Carriage",
+      "URL": "https://www.jetstar.com/hk/en/conditions-of-carriage-jq"
+    }
+   ],
+   "banners":[
+      {
+         "Name":"VIDEO",
+         "Image":"/www.jetstar.com/hk/en/businessagentinfo/~/_media/Tradesite/Banners/flex_bundle.png?bc=White",
+         "Caption":"",
+         "URL":"/www.jetstar.com/au/en/businesshubvideo"
+      }
+   ]
+}

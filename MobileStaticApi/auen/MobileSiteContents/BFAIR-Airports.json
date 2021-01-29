@@ -1,0 +1,881 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "BFAIR-ADL",
+            "Value": "Adelaide"
+        },
+        {
+            "Key": "BFAIR-AKL",
+            "Value": "Auckland"
+        },
+        {
+            "Key": "BFAIR-AU",
+            "Value": "Australia"
+        },
+        {
+            "Key": "BFAIR-AVV",
+            "Value": "Melbourne (Avalon)"
+        },
+        {
+            "Key": "BFAIR-AYQ",
+            "Value": "Ayers Rock"
+        },
+        {
+            "Key": "BFAIR-BKK",
+            "Value": "Bangkok"
+        },
+        {
+            "Key": "BFAIR-BLR",
+            "Value": "Bengaluru"
+        },
+        {
+            "Key": "BFAIR-BMV",
+            "Value": "Buon Ma Thuot"
+        },
+        {
+            "Key": "BFAIR-BNE",
+            "Value": "Brisbane"
+        },
+        {
+            "Key": "BFAIR-BNK",
+            "Value": "Ballina Byron"
+        },
+        {
+            "Key": "BFAIR-BOM",
+            "Value": "Mumbai"
+        },
+        {
+            "Key": "BFAIR-BQB",
+            "Value": "Busselton Margaret River"
+        },
+        {
+            "Key": "BFAIR-CAN",
+            "Value": "Guangzhou"
+        },
+        {
+            "Key": "BFAIR-CBR",
+            "Value": "Canberra"
+        },
+        {
+            "Key": "BFAIR-CCU",
+            "Value": "Kolkata"
+        },
+        {
+            "Key": "BFAIR-CGK",
+            "Value": "Jakarta"
+        },
+        {
+            "Key": "BFAIR-CGO",
+            "Value": "Zhengzhou"
+        },
+        {
+            "Key": "BFAIR-CHC",
+            "Value": "Christchurch"
+        },
+        {
+            "Key": "BFAIR-CK",
+            "Value": "Cook Islands"
+        },
+        {
+            "Key": "BFAIR-CMB",
+            "Value": "Colombo"
+        },
+        {
+            "Key": "BFAIR-CN",
+            "Value": "China"
+        },
+        {
+            "Key": "BFAIR-CNS",
+            "Value": "Cairns"
+        },
+        {
+            "Key": "BFAIR-CNX",
+            "Value": "Chiang Mai"
+        },
+        {
+            "Key": "BFAIR-CRK",
+            "Value": "Clark"
+        },
+        {
+            "Key": "BFAIR-CSX",
+            "Value": "Changsha"
+        },
+        {
+            "Key": "BFAIR-CTS",
+            "Value": "Sapporo (New Chitose)"
+        },
+        {
+            "Key": "BFAIR-CXR",
+            "Value": "Nha Trang"
+        },
+        {
+            "Key": "BFAIR-DAD",
+            "Value": "Da Nang"
+        },
+        {
+            "Key": "BFAIR-DDI",
+            "Value": "Daydream Island"
+        },
+        {
+            "Key": "BFAIR-DEL",
+            "Value": "Delhi"
+        },
+        {
+            "Key": "BFAIR-DLI",
+            "Value": "Da Lat"
+        },
+        {
+            "Key": "BFAIR-DPS",
+            "Value": "Bali (Denpasar)"
+        },
+        {
+            "Key": "BFAIR-DRW",
+            "Value": "Darwin"
+        },
+        {
+            "Key": "BFAIR-DUD",
+            "Value": "Dunedin"
+        },
+        {
+            "Key": "BFAIR-FJ",
+            "Value": "Fiji"
+        },
+        {
+            "Key": "BFAIR-FUK",
+            "Value": "Fukuoka"
+        },
+        {
+            "Key": "BFAIR-HAK",
+            "Value": "Haikou"
+        },
+        {
+            "Key": "BFAIR-HAN",
+            "Value": "Hanoi"
+        },
+        {
+            "Key": "BFAIR-HAP",
+            "Value": "Long Island"
+        },
+        {
+            "Key": "BFAIR-HBA",
+            "Value": "Hobart"
+        },
+        {
+            "Key": "BFAIR-HDY",
+            "Value": "Hat Yai"
+        },
+        {
+            "Key": "BFAIR-HFE",
+            "Value": "Hefei"
+        },
+        {
+            "Key": "BFAIR-HGH",
+            "Value": "Hangzhou (Shanghai)"
+        },
+        {
+            "Key": "BFAIR-HIS",
+            "Value": "Hayman Island"
+        },
+        {
+            "Key": "BFAIR-HK",
+            "Value": "Hong Kong SAR, China"
+        },
+        {
+            "Key": "BFAIR-HKG",
+            "Value": "Hong Kong"
+        },
+        {
+            "Key": "BFAIR-HKT",
+            "Value": "Phuket"
+        },
+        {
+            "Key": "BFAIR-HNL",
+            "Value": "Honolulu"
+        },
+        {
+            "Key": "BFAIR-HPH",
+            "Value": "Hai Phong"
+        },
+        {
+            "Key": "BFAIR-HTI",
+            "Value": "Hamilton Island"
+        },
+        {
+            "Key": "BFAIR-HUI",
+            "Value": "Hue"
+        },
+        {
+            "Key": "BFAIR-HVB",
+            "Value": "Hervey Bay"
+        },
+        {
+            "Key": "BFAIR-ICN",
+            "Value": "Seoul (Incheon)"
+        },
+        {
+            "Key": "BFAIR-ID",
+            "Value": "Indonesia"
+        },
+        {
+            "Key": "BFAIR-IN",
+            "Value": "Republic of India"
+        },
+        {
+            "Key": "BFAIR-JLM",
+            "Value": "Canberra (Jolimont Bus Station)"
+        },
+        {
+            "Key": "BFAIR-JP",
+            "Value": "Japan"
+        },
+        {
+            "Key": "BFAIR-KCZ",
+            "Value": "Kochi"
+        },
+        {
+            "Key": "BFAIR-KH",
+            "Value": "Cambodia"
+        },
+        {
+            "Key": "BFAIR-KHH",
+            "Value": "Kaohsiung"
+        },
+        {
+            "Key": "BFAIR-KIX",
+            "Value": "Osaka (Kansai)"
+        },
+        {
+            "Key": "BFAIR-KMI",
+            "Value": "Miyazaki"
+        },
+        {
+            "Key": "BFAIR-KMJ",
+            "Value": "Kumamoto"
+        },
+        {
+            "Key": "BFAIR-KNO",
+            "Value": "Medan (Kuala Namu International Airport)"
+        },
+        {
+            "Key": "BFAIR-KOJ",
+            "Value": "Kagoshima"
+        },
+        {
+            "Key": "BFAIR-KR",
+            "Value": "Korea, Republic of"
+        },
+        {
+            "Key": "BFAIR-KUL",
+            "Value": "Kuala Lumpur"
+        },
+        {
+            "Key": "BFAIR-KWE",
+            "Value": "Guiyang"
+        },
+        {
+            "Key": "BFAIR-LK",
+            "Value": "Sri Lanka"
+        },
+        {
+            "Key": "BFAIR-LOP",
+            "Value": "Lombok"
+        },
+        {
+            "Key": "BFAIR-LST",
+            "Value": "Launceston"
+        },
+        {
+            "Key": "BFAIR-MAA",
+            "Value": "Chennai"
+        },
+        {
+            "Key": "BFAIR-MCY",
+            "Value": "Sunshine Coast"
+        },
+        {
+            "Key": "BFAIR-MEL",
+            "Value": "Melbourne (Tullamarine)"
+        },
+        {
+            "Key": "BFAIR-MES",
+            "Value": "Medan"
+        },
+        {
+            "Key": "BFAIR-MFM",
+            "Value": "Macau"
+        },
+        {
+            "Key": "BFAIR-MKY",
+            "Value": "Mackay"
+        },
+        {
+            "Key": "BFAIR-MM",
+            "Value": "Myanmar"
+        },
+        {
+            "Key": "BFAIR-MNL",
+            "Value": "Manila"
+        },
+        {
+            "Key": "BFAIR-MO",
+            "Value": "Macau SAR, China"
+        },
+        {
+            "Key": "BFAIR-MY",
+            "Value": "Malaysia"
+        },
+        {
+            "Key": "BFAIR-MYJ",
+            "Value": "Matsuyama"
+        },
+        {
+            "Key": "BFAIR-NAN",
+            "Value": "Nadi"
+        },
+        {
+            "Key": "BFAIR-NGB",
+            "Value": "Ningbo"
+        },
+        {
+            "Key": "BFAIR-NGO",
+            "Value": "Nagoya (Chubu)"
+        },
+        {
+            "Key": "BFAIR-NGS",
+            "Value": "Nagasaki"
+        },
+        {
+            "Key": "BFAIR-NPE",
+            "Value": "Napier"
+        },
+        {
+            "Key": "BFAIR-NPL",
+            "Value": "New Plymouth"
+        },
+        {
+            "Key": "BFAIR-NRT",
+            "Value": "Tokyo (Narita)"
+        },
+        {
+            "Key": "BFAIR-NSN",
+            "Value": "Nelson"
+        },
+        {
+            "Key": "BFAIR-NTL",
+            "Value": "Newcastle - Port Stephens"
+        },
+        {
+            "Key": "BFAIR-NZ",
+            "Value": "New Zealand"
+        },
+        {
+            "Key": "BFAIR-OIT",
+            "Value": "Oita"
+        },
+        {
+            "Key": "BFAIR-OKA",
+            "Value": "Okinawa (Naha)"
+        },
+        {
+            "Key": "BFAIR-OOL",
+            "Value": "Gold Coast"
+        },
+        {
+            "Key": "BFAIR-PEK",
+            "Value": "Beijing"
+        },
+        {
+            "Key": "BFAIR-PEN",
+            "Value": "Penang"
+        },
+        {
+            "Key": "BFAIR-PER",
+            "Value": "Perth"
+        },
+        {
+            "Key": "BFAIR-PH",
+            "Value": "Philippines"
+        },
+        {
+            "Key": "BFAIR-PKU",
+            "Value": "Pekanbaru"
+        },
+        {
+            "Key": "BFAIR-PLM",
+            "Value": "Palembang"
+        },
+        {
+            "Key": "BFAIR-PMR",
+            "Value": "Palmerston North"
+        },
+        {
+            "Key": "BFAIR-PNH",
+            "Value": "Phnom Penh"
+        },
+        {
+            "Key": "BFAIR-PPP",
+            "Value": "Whitsunday Coast"
+        },
+        {
+            "Key": "BFAIR-PQC",
+            "Value": "Phu Quoc"
+        },
+        {
+            "Key": "BFAIR-PVG",
+            "Value": "Shanghai"
+        },
+        {
+            "Key": "BFAIR-PXU",
+            "Value": "Pleiku"
+        },
+        {
+            "Key": "BFAIR-RAR",
+            "Value": "Rarotonga"
+        },
+        {
+            "Key": "BFAIR-REP",
+            "Value": "Siem Reap"
+        },
+        {
+            "Key": "BFAIR-RGN",
+            "Value": "Yangon"
+        },
+        {
+            "Key": "BFAIR-SG",
+            "Value": "Singapore"
+        },
+        {
+            "Key": "BFAIR-SGN",
+            "Value": "Ho Chi Minh City"
+        },
+        {
+            "Key": "BFAIR-SHI",
+            "Value": "Miyako (Shimojishima)"
+        },
+        {
+            "Key": "BFAIR-SIN",
+            "Value": "Singapore"
+        },
+        {
+            "Key": "BFAIR-SUB",
+            "Value": "Surabaya"
+        },
+        {
+            "Key": "BFAIR-SWA",
+            "Value": "Shantou \/ Jieyang"
+        },
+        {
+            "Key": "BFAIR-SYD",
+            "Value": "Sydney"
+        },
+        {
+            "Key": "BFAIR-SYO",
+            "Value": "Shonai"
+        },
+        {
+            "Key": "BFAIR-SYX",
+            "Value": "Sanya"
+        },
+        {
+            "Key": "BFAIR-TAK",
+            "Value": "Takamatsu"
+        },
+        {
+            "Key": "BFAIR-TBB",
+            "Value": "Tuy Hoa"
+        },
+        {
+            "Key": "BFAIR-TH",
+            "Value": "Thailand"
+        },
+        {
+            "Key": "BFAIR-THD",
+            "Value": "Thanh Hoa"
+        },
+        {
+            "Key": "BFAIR-TJQ",
+            "Value": "Belitung"
+        },
+        {
+            "Key": "BFAIR-TPE",
+            "Value": "Taipei"
+        },
+        {
+            "Key": "BFAIR-TRZ",
+            "Value": "Tiruchirappalli"
+        },
+        {
+            "Key": "BFAIR-TSV",
+            "Value": "Townsville"
+        },
+        {
+            "Key": "BFAIR-TW",
+            "Value": "Taiwan, China"
+        },
+        {
+            "Key": "BFAIR-UIH",
+            "Value": "Qui Nhon"
+        },
+        {
+            "Key": "BFAIR-US",
+            "Value": "USA"
+        },
+        {
+            "Key": "BFAIR-VCA",
+            "Value": "Can Tho"
+        },
+        {
+            "Key": "BFAIR-VCL",
+            "Value": "Chu Lai"
+        },
+        {
+            "Key": "BFAIR-VDH",
+            "Value": "Dong Hoi"
+        },
+        {
+            "Key": "BFAIR-VII",
+            "Value": "Vinh"
+        },
+        {
+            "Key": "BFAIR-VIZ",
+            "Value": "Melbourne (all airports)"
+        },
+        {
+            "Key": "BFAIR-VN",
+            "Value": "Vietnam"
+        },
+        {
+            "Key": "BFAIR-WLG",
+            "Value": "Wellington"
+        },
+        {
+            "Key": "BFAIR-WSY",
+            "Value": "Whitsunday Coast - Airlie Beach"
+        },
+        {
+            "Key": "BFAIR-WUH",
+            "Value": "Wuhan"
+        },
+        {
+            "Key": "BFAIR-XUZ",
+            "Value": "Xuzhou"
+        },
+        {
+            "Key": "BFAIR-ZQN",
+            "Value": "Queenstown"
+        },
+        {
+            "Key": "terminalInfo-ADL-1",
+            "Value": "Domestic Terminal"
+        },
+        {
+            "Key": "terminalInfo-ADL-1-short",
+            "Value": "Dom"
+        },
+        {
+            "Key": "terminalInfo-ADL-D",
+            "Value": "Domestic Terminal\u0009"
+        },
+        {
+            "Key": "terminalInfo-ADL-D-short",
+            "Value": "Dom\u0009"
+        },
+        {
+            "Key": "terminalInfo-ADL-I",
+            "Value": "International Terminal\u0009"
+        },
+        {
+            "Key": "terminalInfo-ADL-I-short",
+            "Value": "Int'l\u0009"
+        },
+        {
+            "Key": "terminalInfo-AKL-D",
+            "Value": "Domestic Terminal\u0009"
+        },
+        {
+            "Key": "terminalInfo-AKL-D-short",
+            "Value": "Dom\u0009"
+        },
+        {
+            "Key": "terminalInfo-AKL-I",
+            "Value": "International Terminal\u0009"
+        },
+        {
+            "Key": "terminalInfo-AKL-I-short",
+            "Value": "Int'l\u0009"
+        },
+        {
+            "Key": "terminalInfo-BKK-I",
+            "Value": "International Terminal\u0009"
+        },
+        {
+            "Key": "terminalInfo-BKK-I-short",
+            "Value": "Int'l\u0009"
+        },
+        {
+            "Key": "terminalInfo-BNE-D",
+            "Value": "Domestic Terminal"
+        },
+        {
+            "Key": "terminalInfo-BNE-D-short",
+            "Value": "Dom\u0009"
+        },
+        {
+            "Key": "terminalInfo-BNE-I",
+            "Value": "International Terminal"
+        },
+        {
+            "Key": "terminalInfo-BNE-I-short",
+            "Value": "Int'l\u0009"
+        },
+        {
+            "Key": "terminalInfo-CNS-D",
+            "Value": "Domestic Terminal"
+        },
+        {
+            "Key": "terminalInfo-CNS-D-short",
+            "Value": "Dom\u0009"
+        },
+        {
+            "Key": "terminalInfo-CNS-I",
+            "Value": "International Terminal"
+        },
+        {
+            "Key": "terminalInfo-CNS-I-short",
+            "Value": "Int'l\u0009"
+        },
+        {
+            "Key": "terminalInfo-DPS-I",
+            "Value": "International Terminal\u0009"
+        },
+        {
+            "Key": "terminalInfo-DPS-I-short",
+            "Value": "Int'l\u0009"
+        },
+        {
+            "Key": "terminalInfo-DRW-D",
+            "Value": "Domestic Terminal"
+        },
+        {
+            "Key": "terminalInfo-DRW-D-short",
+            "Value": "Dom\u0009"
+        },
+        {
+            "Key": "terminalInfo-DRW-I",
+            "Value": "International Terminal"
+        },
+        {
+            "Key": "terminalInfo-DRW-I-short",
+            "Value": "Int'l\u0009"
+        },
+        {
+            "Key": "terminalInfo-HKG-2",
+            "Value": "Terminal 2\u0009"
+        },
+        {
+            "Key": "terminalInfo-HKG-2-short",
+            "Value": "T2\u0009"
+        },
+        {
+            "Key": "terminalInfo-HKT-1",
+            "Value": "Terminal 1\u0009"
+        },
+        {
+            "Key": "terminalInfo-HKT-1-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-HKT-I",
+            "Value": "Terminal 1\u0009"
+        },
+        {
+            "Key": "terminalInfo-HKT-I-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-HNL-M",
+            "Value": "Main Terminal\u0009"
+        },
+        {
+            "Key": "terminalInfo-HNL-M-short",
+            "Value": "Main\u0009"
+        },
+        {
+            "Key": "terminalInfo-KIX-1",
+            "Value": "Terminal 1\u0009"
+        },
+        {
+            "Key": "terminalInfo-KIX-1-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-KIX-I",
+            "Value": "Terminal 1\u0009"
+        },
+        {
+            "Key": "terminalInfo-KIX-I-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-MEL-1",
+            "Value": "Domestic Terminal T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-MEL-2",
+            "Value": "International Terminal T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-2-short",
+            "Value": "T2\u0009"
+        },
+        {
+            "Key": "terminalInfo-MEL-4",
+            "Value": "Domestic Terminal T4"
+        },
+        {
+            "Key": "terminalInfo-MEL-4-short",
+            "Value": "T4\u0009"
+        },
+        {
+            "Key": "terminalInfo-MEL-D",
+            "Value": "Domestic Terminal T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-D-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MNL-I",
+            "Value": "Terminal 1\u0009"
+        },
+        {
+            "Key": "terminalInfo-MNL-I-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-NRT-2",
+            "Value": "Terminal 2\u0009"
+        },
+        {
+            "Key": "terminalInfo-NRT-2-short",
+            "Value": "T2\u0009"
+        },
+        {
+            "Key": "terminalInfo-NRT-3",
+            "Value": "Terminal 3"
+        },
+        {
+            "Key": "terminalInfo-NRT-3-short",
+            "Value": "T3\u0009"
+        },
+        {
+            "Key": "terminalInfo-OOL-D",
+            "Value": "Domestic Terminal T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-D-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-OOL-I",
+            "Value": "International Terminal T2"
+        },
+        {
+            "Key": "terminalInfo-OOL-I-short",
+            "Value": "T2\u0009"
+        },
+        {
+            "Key": "terminalInfo-PER-1",
+            "Value": "International Terminal T1"
+        },
+        {
+            "Key": "terminalInfo-PER-1-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-PER-2",
+            "Value": "Domestic Terminal T4"
+        },
+        {
+            "Key": "terminalInfo-PER-2-short",
+            "Value": "T4\u0009"
+        },
+        {
+            "Key": "terminalInfo-PER-3",
+            "Value": "Domestic Terminal T3"
+        },
+        {
+            "Key": "terminalInfo-PER-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-PER-4",
+            "Value": "Domestic Terminal T4"
+        },
+        {
+            "Key": "terminalInfo-PER-4-short",
+            "Value": "T4\u0009"
+        },
+        {
+            "Key": "terminalInfo-SGN-D",
+            "Value": "Terminal 1\u0009"
+        },
+        {
+            "Key": "terminalInfo-SGN-D-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-SGN-I",
+            "Value": "International Terminal"
+        },
+        {
+            "Key": "terminalInfo-SGN-I-short",
+            "Value": "Int'l\u0009"
+        },
+        {
+            "Key": "terminalInfo-SIN-1",
+            "Value": "Terminal 1\u0009"
+        },
+        {
+            "Key": "terminalInfo-SIN-1-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-SUB-2",
+            "Value": "Terminal 2\u0009"
+        },
+        {
+            "Key": "terminalInfo-SUB-2-short",
+            "Value": "T2\u0009"
+        },
+        {
+            "Key": "terminalInfo-SYD-1",
+            "Value": "International Terminal T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-1-short",
+            "Value": "T1\u0009"
+        },
+        {
+            "Key": "terminalInfo-SYD-2",
+            "Value": "Domestic Terminal T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-2-short",
+            "Value": "T2\u0009"
+        },
+        {
+            "Key": "terminalInfo-SYD-3",
+            "Value": "Domestic Terminal T3"
+        },
+        {
+            "Key": "terminalInfo-SYD-3-short",
+            "Value": "T3\u0009"
+        }
+    ],
+    "Promotions": null
+}

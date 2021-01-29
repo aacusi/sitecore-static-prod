@@ -1,0 +1,881 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "BFAIR-ADL",
+            "Value": "애들레이드"
+        },
+        {
+            "Key": "BFAIR-AKL",
+            "Value": "오클랜드"
+        },
+        {
+            "Key": "BFAIR-AU",
+            "Value": "호주"
+        },
+        {
+            "Key": "BFAIR-AVV",
+            "Value": "멜버른(아발론)"
+        },
+        {
+            "Key": "BFAIR-AYQ",
+            "Value": "에어즈 락"
+        },
+        {
+            "Key": "BFAIR-BKK",
+            "Value": "방콕"
+        },
+        {
+            "Key": "BFAIR-BLR",
+            "Value": "인도 벵갈루루"
+        },
+        {
+            "Key": "BFAIR-BMV",
+            "Value": "부온마투옷"
+        },
+        {
+            "Key": "BFAIR-BNE",
+            "Value": "브리즈번"
+        },
+        {
+            "Key": "BFAIR-BNK",
+            "Value": "발리나 바이런"
+        },
+        {
+            "Key": "BFAIR-BOM",
+            "Value": "인도 뭄바이"
+        },
+        {
+            "Key": "BFAIR-BQB",
+            "Value": "버셀턴 마가렛 리버"
+        },
+        {
+            "Key": "BFAIR-CAN",
+            "Value": "광저우"
+        },
+        {
+            "Key": "BFAIR-CBR",
+            "Value": "캔버라"
+        },
+        {
+            "Key": "BFAIR-CCU",
+            "Value": "인도 콜카타"
+        },
+        {
+            "Key": "BFAIR-CGK",
+            "Value": "자카르타"
+        },
+        {
+            "Key": "BFAIR-CGO",
+            "Value": "Zhengzhou"
+        },
+        {
+            "Key": "BFAIR-CHC",
+            "Value": "크라이스트처치"
+        },
+        {
+            "Key": "BFAIR-CK",
+            "Value": "쿡 아일랜드"
+        },
+        {
+            "Key": "BFAIR-CMB",
+            "Value": "콜롬보"
+        },
+        {
+            "Key": "BFAIR-CN",
+            "Value": "중국"
+        },
+        {
+            "Key": "BFAIR-CNS",
+            "Value": "케언스"
+        },
+        {
+            "Key": "BFAIR-CNX",
+            "Value": "Chiang Mai"
+        },
+        {
+            "Key": "BFAIR-CRK",
+            "Value": "클락"
+        },
+        {
+            "Key": "BFAIR-CSX",
+            "Value": "창사"
+        },
+        {
+            "Key": "BFAIR-CTS",
+            "Value": "삿포로"
+        },
+        {
+            "Key": "BFAIR-CXR",
+            "Value": "냐짱"
+        },
+        {
+            "Key": "BFAIR-DAD",
+            "Value": "다낭"
+        },
+        {
+            "Key": "BFAIR-DDI",
+            "Value": "데이드림 아일랜드"
+        },
+        {
+            "Key": "BFAIR-DEL",
+            "Value": "델리"
+        },
+        {
+            "Key": "BFAIR-DLI",
+            "Value": "Da Lat"
+        },
+        {
+            "Key": "BFAIR-DPS",
+            "Value": "발리(덴파사)"
+        },
+        {
+            "Key": "BFAIR-DRW",
+            "Value": "다윈"
+        },
+        {
+            "Key": "BFAIR-DUD",
+            "Value": "더니든"
+        },
+        {
+            "Key": "BFAIR-FJ",
+            "Value": "피지"
+        },
+        {
+            "Key": "BFAIR-FUK",
+            "Value": "후쿠오카"
+        },
+        {
+            "Key": "BFAIR-HAK",
+            "Value": "하이커우"
+        },
+        {
+            "Key": "BFAIR-HAN",
+            "Value": "하노이"
+        },
+        {
+            "Key": "BFAIR-HAP",
+            "Value": "롱 아일랜드"
+        },
+        {
+            "Key": "BFAIR-HBA",
+            "Value": "호바트"
+        },
+        {
+            "Key": "BFAIR-HDY",
+            "Value": "Hat Yai"
+        },
+        {
+            "Key": "BFAIR-HFE",
+            "Value": "허페이"
+        },
+        {
+            "Key": "BFAIR-HGH",
+            "Value": "항저우(상하이)"
+        },
+        {
+            "Key": "BFAIR-HIS",
+            "Value": "헤이먼 아일랜드"
+        },
+        {
+            "Key": "BFAIR-HK",
+            "Value": "홍콩 특별 행정구, 중국"
+        },
+        {
+            "Key": "BFAIR-HKG",
+            "Value": "홍콩"
+        },
+        {
+            "Key": "BFAIR-HKT",
+            "Value": "푸껫"
+        },
+        {
+            "Key": "BFAIR-HNL",
+            "Value": "호놀룰루"
+        },
+        {
+            "Key": "BFAIR-HPH",
+            "Value": "하이퐁"
+        },
+        {
+            "Key": "BFAIR-HTI",
+            "Value": "해밀턴 아일랜드"
+        },
+        {
+            "Key": "BFAIR-HUI",
+            "Value": "후에"
+        },
+        {
+            "Key": "BFAIR-HVB",
+            "Value": "허비 베이"
+        },
+        {
+            "Key": "BFAIR-ICN",
+            "Value": "서울 (인천)"
+        },
+        {
+            "Key": "BFAIR-ID",
+            "Value": "인도네시아"
+        },
+        {
+            "Key": "BFAIR-IN",
+            "Value": "Republic of India"
+        },
+        {
+            "Key": "BFAIR-JLM",
+            "Value": "Canberra (Jolimont Bus Station)"
+        },
+        {
+            "Key": "BFAIR-JP",
+            "Value": "일본"
+        },
+        {
+            "Key": "BFAIR-KCZ",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-KH",
+            "Value": "캄보디아"
+        },
+        {
+            "Key": "BFAIR-KHH",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-KIX",
+            "Value": "오사카(간사이)"
+        },
+        {
+            "Key": "BFAIR-KMI",
+            "Value": "미야자키"
+        },
+        {
+            "Key": "BFAIR-KMJ",
+            "Value": "구마모토"
+        },
+        {
+            "Key": "BFAIR-KNO",
+            "Value": "메단 (콸라 나무 국제공항)"
+        },
+        {
+            "Key": "BFAIR-KOJ",
+            "Value": "가고시마"
+        },
+        {
+            "Key": "BFAIR-KR",
+            "Value": "대한민국"
+        },
+        {
+            "Key": "BFAIR-KUL",
+            "Value": "쿠알라룸푸르"
+        },
+        {
+            "Key": "BFAIR-KWE",
+            "Value": "구이양"
+        },
+        {
+            "Key": "BFAIR-LK",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-LOP",
+            "Value": "롬복"
+        },
+        {
+            "Key": "BFAIR-LST",
+            "Value": "론서스턴"
+        },
+        {
+            "Key": "BFAIR-MAA",
+            "Value": "인도 첸나이"
+        },
+        {
+            "Key": "BFAIR-MCY",
+            "Value": "선샤인코스트"
+        },
+        {
+            "Key": "BFAIR-MEL",
+            "Value": "멜버른(툴라마린)"
+        },
+        {
+            "Key": "BFAIR-MES",
+            "Value": "메단"
+        },
+        {
+            "Key": "BFAIR-MFM",
+            "Value": "마카오"
+        },
+        {
+            "Key": "BFAIR-MKY",
+            "Value": "매카이"
+        },
+        {
+            "Key": "BFAIR-MM",
+            "Value": "미얀마"
+        },
+        {
+            "Key": "BFAIR-MNL",
+            "Value": "마닐라"
+        },
+        {
+            "Key": "BFAIR-MO",
+            "Value": "마카오 특별 행정구, 중국"
+        },
+        {
+            "Key": "BFAIR-MY",
+            "Value": "말레이시아"
+        },
+        {
+            "Key": "BFAIR-MYJ",
+            "Value": "마츠야마"
+        },
+        {
+            "Key": "BFAIR-NAN",
+            "Value": "나디"
+        },
+        {
+            "Key": "BFAIR-NGB",
+            "Value": "닝보"
+        },
+        {
+            "Key": "BFAIR-NGO",
+            "Value": "나고야"
+        },
+        {
+            "Key": "BFAIR-NGS",
+            "Value": "나가사키"
+        },
+        {
+            "Key": "BFAIR-NPE",
+            "Value": "네이피어"
+        },
+        {
+            "Key": "BFAIR-NPL",
+            "Value": "뉴 플리머스"
+        },
+        {
+            "Key": "BFAIR-NRT",
+            "Value": "도쿄(나리타)"
+        },
+        {
+            "Key": "BFAIR-NSN",
+            "Value": "넬슨"
+        },
+        {
+            "Key": "BFAIR-NTL",
+            "Value": "뉴캐슬"
+        },
+        {
+            "Key": "BFAIR-NZ",
+            "Value": "뉴질랜드"
+        },
+        {
+            "Key": "BFAIR-OIT",
+            "Value": "오이타"
+        },
+        {
+            "Key": "BFAIR-OKA",
+            "Value": "오키나와 (나하)"
+        },
+        {
+            "Key": "BFAIR-OOL",
+            "Value": "골드 코스트"
+        },
+        {
+            "Key": "BFAIR-PEK",
+            "Value": "베이징"
+        },
+        {
+            "Key": "BFAIR-PEN",
+            "Value": "페낭"
+        },
+        {
+            "Key": "BFAIR-PER",
+            "Value": "퍼스"
+        },
+        {
+            "Key": "BFAIR-PH",
+            "Value": "필리핀"
+        },
+        {
+            "Key": "BFAIR-PKU",
+            "Value": "Pekanbaru"
+        },
+        {
+            "Key": "BFAIR-PLM",
+            "Value": "Palembang"
+        },
+        {
+            "Key": "BFAIR-PMR",
+            "Value": "파머스톤 노스"
+        },
+        {
+            "Key": "BFAIR-PNH",
+            "Value": "프놈펜"
+        },
+        {
+            "Key": "BFAIR-PPP",
+            "Value": "휫선데이 코스트"
+        },
+        {
+            "Key": "BFAIR-PQC",
+            "Value": "푸꼭"
+        },
+        {
+            "Key": "BFAIR-PVG",
+            "Value": "상하이"
+        },
+        {
+            "Key": "BFAIR-PXU",
+            "Value": "Pleiku"
+        },
+        {
+            "Key": "BFAIR-RAR",
+            "Value": "Rarotonga"
+        },
+        {
+            "Key": "BFAIR-REP",
+            "Value": "시엠리아프"
+        },
+        {
+            "Key": "BFAIR-RGN",
+            "Value": "양곤"
+        },
+        {
+            "Key": "BFAIR-SG",
+            "Value": "싱가포르"
+        },
+        {
+            "Key": "BFAIR-SGN",
+            "Value": "호찌민시"
+        },
+        {
+            "Key": "BFAIR-SHI",
+            "Value": "시모지시마"
+        },
+        {
+            "Key": "BFAIR-SIN",
+            "Value": "싱가포르"
+        },
+        {
+            "Key": "BFAIR-SUB",
+            "Value": "수라바야"
+        },
+        {
+            "Key": "BFAIR-SWA",
+            "Value": "산터우\/제양"
+        },
+        {
+            "Key": "BFAIR-SYD",
+            "Value": "시드니"
+        },
+        {
+            "Key": "BFAIR-SYO",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-SYX",
+            "Value": "싼야"
+        },
+        {
+            "Key": "BFAIR-TAK",
+            "Value": "다카마쓰"
+        },
+        {
+            "Key": "BFAIR-TBB",
+            "Value": "뚜이호아"
+        },
+        {
+            "Key": "BFAIR-TH",
+            "Value": "태국"
+        },
+        {
+            "Key": "BFAIR-THD",
+            "Value": "타인호아"
+        },
+        {
+            "Key": "BFAIR-TJQ",
+            "Value": "벨리퉁<br \/>"
+        },
+        {
+            "Key": "BFAIR-TPE",
+            "Value": "타이베이"
+        },
+        {
+            "Key": "BFAIR-TRZ",
+            "Value": "인도 티루치아랄리"
+        },
+        {
+            "Key": "BFAIR-TSV",
+            "Value": "타운즈빌"
+        },
+        {
+            "Key": "BFAIR-TW",
+            "Value": "대만, 중국"
+        },
+        {
+            "Key": "BFAIR-UIH",
+            "Value": "꾸이년"
+        },
+        {
+            "Key": "BFAIR-US",
+            "Value": "미국"
+        },
+        {
+            "Key": "BFAIR-VCA",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-VCL",
+            "Value": "추라이"
+        },
+        {
+            "Key": "BFAIR-VDH",
+            "Value": "동허이"
+        },
+        {
+            "Key": "BFAIR-VII",
+            "Value": "빈"
+        },
+        {
+            "Key": "BFAIR-VIZ",
+            "Value": "멜버른"
+        },
+        {
+            "Key": "BFAIR-VN",
+            "Value": "베트남"
+        },
+        {
+            "Key": "BFAIR-WLG",
+            "Value": "웰링턴"
+        },
+        {
+            "Key": "BFAIR-WSY",
+            "Value": "휫선데이 코스트 - 에얼리 비치"
+        },
+        {
+            "Key": "BFAIR-WUH",
+            "Value": "Wuhan"
+        },
+        {
+            "Key": "BFAIR-XUZ",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-ZQN",
+            "Value": "퀸스타운"
+        },
+        {
+            "Key": "terminalInfo-ADL-1",
+            "Value": "국내선 터미널"
+        },
+        {
+            "Key": "terminalInfo-ADL-1-short",
+            "Value": "국내선"
+        },
+        {
+            "Key": "terminalInfo-ADL-D",
+            "Value": "국내선 터미널"
+        },
+        {
+            "Key": "terminalInfo-ADL-D-short",
+            "Value": "국내선"
+        },
+        {
+            "Key": "terminalInfo-ADL-I",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-ADL-I-short",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-AKL-D",
+            "Value": "국내선 터미널"
+        },
+        {
+            "Key": "terminalInfo-AKL-D-short",
+            "Value": "국내선"
+        },
+        {
+            "Key": "terminalInfo-AKL-I",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-AKL-I-short",
+            "Value": "국제선"
+        },
+        {
+            "Key": "terminalInfo-BKK-I",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-BKK-I-short",
+            "Value": "국제선"
+        },
+        {
+            "Key": "terminalInfo-BNE-D",
+            "Value": "국내선 터미널"
+        },
+        {
+            "Key": "terminalInfo-BNE-D-short",
+            "Value": "국내선"
+        },
+        {
+            "Key": "terminalInfo-BNE-I",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-BNE-I-short",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-CNS-D",
+            "Value": "국내선 터미널"
+        },
+        {
+            "Key": "terminalInfo-CNS-D-short",
+            "Value": "국내선"
+        },
+        {
+            "Key": "terminalInfo-CNS-I",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-CNS-I-short",
+            "Value": "국제선"
+        },
+        {
+            "Key": "terminalInfo-DPS-I",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-DPS-I-short",
+            "Value": "국제선"
+        },
+        {
+            "Key": "terminalInfo-DRW-D",
+            "Value": "국내선 터미널"
+        },
+        {
+            "Key": "terminalInfo-DRW-D-short",
+            "Value": "국내선"
+        },
+        {
+            "Key": "terminalInfo-DRW-I",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-DRW-I-short",
+            "Value": "국제선"
+        },
+        {
+            "Key": "terminalInfo-HKG-2",
+            "Value": "제 2 터미널"
+        },
+        {
+            "Key": "terminalInfo-HKG-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-HKT-1",
+            "Value": "제 1 터미널"
+        },
+        {
+            "Key": "terminalInfo-HKT-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-HKT-I",
+            "Value": "제 1 터미널"
+        },
+        {
+            "Key": "terminalInfo-HKT-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-HNL-M",
+            "Value": "주 터미널"
+        },
+        {
+            "Key": "terminalInfo-HNL-M-short",
+            "Value": "주"
+        },
+        {
+            "Key": "terminalInfo-KIX-1",
+            "Value": "제 1 터미널"
+        },
+        {
+            "Key": "terminalInfo-KIX-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-KIX-I",
+            "Value": "제 1 터미널"
+        },
+        {
+            "Key": "terminalInfo-KIX-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1",
+            "Value": "국내선 터미널 T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1-short",
+            "Value": "국내선 터미널 T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-2",
+            "Value": "국제선 터미널 T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-4",
+            "Value": "국내선 터미널 T4"
+        },
+        {
+            "Key": "terminalInfo-MEL-4-short",
+            "Value": "국내선 터미널 T4"
+        },
+        {
+            "Key": "terminalInfo-MEL-D",
+            "Value": "국내선 터미널 T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-D-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MNL-I",
+            "Value": "제 1 터미널"
+        },
+        {
+            "Key": "terminalInfo-MNL-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-NRT-2",
+            "Value": "제 2 터미널"
+        },
+        {
+            "Key": "terminalInfo-NRT-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-NRT-3",
+            "Value": "제 3 터미널"
+        },
+        {
+            "Key": "terminalInfo-NRT-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-OOL-D",
+            "Value": "국내선 터미널 T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-D-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-I",
+            "Value": "국제선 터미널 T2"
+        },
+        {
+            "Key": "terminalInfo-OOL-I-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-PER-1",
+            "Value": "국제선 터미널 T1"
+        },
+        {
+            "Key": "terminalInfo-PER-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-PER-2",
+            "Value": "국내선 터미널 T4"
+        },
+        {
+            "Key": "terminalInfo-PER-2-short",
+            "Value": "T4"
+        },
+        {
+            "Key": "terminalInfo-PER-3",
+            "Value": "국내선 터미널 T3"
+        },
+        {
+            "Key": "terminalInfo-PER-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-PER-4",
+            "Value": "국내선 터미널 T4"
+        },
+        {
+            "Key": "terminalInfo-PER-4-short",
+            "Value": "T4"
+        },
+        {
+            "Key": "terminalInfo-SGN-D",
+            "Value": "제 1 터미널"
+        },
+        {
+            "Key": "terminalInfo-SGN-D-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SGN-I",
+            "Value": "국제선 터미널"
+        },
+        {
+            "Key": "terminalInfo-SGN-I-short",
+            "Value": "국제선"
+        },
+        {
+            "Key": "terminalInfo-SIN-1",
+            "Value": "제 1 터미널"
+        },
+        {
+            "Key": "terminalInfo-SIN-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SUB-2",
+            "Value": "제 2 터미널"
+        },
+        {
+            "Key": "terminalInfo-SUB-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-1",
+            "Value": "국제선 터미널 T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-2",
+            "Value": "국내선 터미널 T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-3",
+            "Value": "국내선 터미널 T3"
+        },
+        {
+            "Key": "terminalInfo-SYD-3-short",
+            "Value": "T3"
+        }
+    ],
+    "Promotions": null
+}

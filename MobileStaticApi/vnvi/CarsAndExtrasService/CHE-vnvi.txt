@@ -1,0 +1,18 @@
+[
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/Avis-Budget.jpg",
+    "ShortDescription": "Thuê Xe với Avis/Budget & Kiếm điểm Khách hàng Thường xuyên của Qantas. Đặt chỗ Ngay bây giờ. Thuê xe ôtô, xe dẫn động 4 bánh (4WD), xe tải, xe tiện ích hoặc xe buýt ở Úc từ Avis/Budget. Đặt chỗ thuê xe quốc tế tại sân bay hoặc trong thành phố.",
+    "ButtonLabel": "Điều khoản sử dụng",
+    "DropDownField": "Quý khách sẽ được Jetstar dẫn trở lại trang web của Tập đoàn Avis Budget. Trang web này do Tập đoàn Avis Budget sở hữu và điều hành. Bất kỳ quan hệ nào quý khách có với Tập đoàn Avis Budget đều là duy nhất giữa quý khách và Tập đoàn Avis Budget. Jetstar sẽ không chịu trách nhiệm về các nội dung trong bất kỳ tài liệu nào hay việc thúc đẩy của bên thứ ba hoặc có nghĩa vụ đối với bất kỳ mất mát hoặc thiệt hại trực tiếp hoặc gián tiếp mà quý khách (hoặc bất kỳ bên thứ ba nào) phải chịu do tiếp cận, sử dụng, tin cậy vào hoặc giao dịch với bên thứ ba. Jetstar bao gồm bất kỳ liên kết, tài liệu quảng cáo Tập đoàn Avis Budget, việc thúc đẩy đổi hướng nào đến trang web này không có nghĩa Jetstar hay hiệp hội nào khác tán thành với bên thứ ba.",
+    "LinkURL": "https://book1.carrental.com/dcweb/app?service=page/MOBILEStep1&pid=Jetstar&locale=en&inited=false&mobile=true",
+    "ShowThirdPartyAlert": true
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/AgodaLogo.jpg",
+    "ShortDescription": "Agoda Company Pte Ltd (www.agoda.com) là công ty đặt chỗ khách sạn trực tuyến hàng đầu ở Châu Á, công ty chuyên bảo đảm giá khách sạn giảm giá thấp nhất. Agoda.com thuộc Tập đoàn Priceline (Nasdaq:PCLN). Mạng lưới của Agoda bao gồm hơn 170.000 khách sạn trên khắp thế giới. Đội ngũ nhân viên đa quốc gia với hơn 1.000 chuyên gia được tìm kiếm trên khắp thế giới cung cấp dịch vụ đặt phòng hạng nhất duy nhất kết hợp kiến thức địa phương và kết nối địa phương để cung cấp giá vé khách sạn tốt nhất cho cả hành khách đi công tác và thư giãn.",
+    "ButtonLabel": "Điều kiện áp dụng",
+    "DropDownField": "Jetstar sẽ đổi hướng quý khách đến trang web Agoda. Trang web này do Agoda sở hữu và điều hành. Bất kỳ giao dịch nào quý vị thực hiện với Agoda đều chỉ giữa quý khách và Agoda. Jetstar sẽ không chịu trách nhiệm về các nội dung trong bất kỳ tài liệu nào hay việc thúc đẩy của bên thứ ba hoặc có nghĩa vụ đối với bất kỳ mất mát hoặc thiệt hại trực tiếp hoặc gián tiếp mà quý khách (hoặc bất kỳ bên thứ ba nào) phải chịu do tiếp cận, sử dụng, tin cậy vào hoặc giao dịch với bên thứ ba. Việc đưa bất kỳ liên kết, tài liệu quảng cáo Agoda hoặc việc tăng cường chuyển hướng nào đến trang web này bởi Jetstar không có nghĩa Jetstar xác nhận bất kỳ sự liên kết nào với bên thứ ba.",
+    "LinkURL": "http://www.agoda.com/vi-vn/index.html?cid=1649676",
+    "ShowThirdPartyAlert": true
+  }
+]

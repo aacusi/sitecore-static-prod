@@ -1,0 +1,16 @@
+[
+  {
+    "HasLandingPage": false,
+    "LandingPageCTAText": "",
+    "LandingPageCTAURL": "",
+    "LandingPageImage": "",
+    "LandingPageText": "",
+    "LandingPageTitle": "",
+    "PromotionEndDate": "0001-01-01T00:00:00+00:00",
+    "PromotionStartDate": "0001-01-01T00:00:00+00:00",
+    "PromotionalPanelImage": "https://www.jetstar.com/MobileStaticApi/cnzh/NativeApplicationMarketingService/MobilePromotionsService-PromotionalPanelImage-L2/extraservice_mobile_1500x900_CN2.jpg",
+    "PromotionalPanelImageCTAText": "了解详情",
+    "PromotionalPanelImageTermsAndConditions": "",
+    "PromotionalPanelURL": "https:\/\/book.jetstar.com\/RetrieveBooking.aspx"
+  }
+] 

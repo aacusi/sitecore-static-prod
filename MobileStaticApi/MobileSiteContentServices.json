@@ -1,0 +1,1358 @@
+{
+  "TravelAlerts": {
+    "au/en": [
+      "https://www.jetstar.com/en-au/apiservices/travelalerts"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/en-hk/apiservices/travelalerts"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/en-jm/apiservices/travelalerts"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/zh-HK/apiservices/travelalerts"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/zh-tw/apiservices/travelalerts"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/en-ID/apiservices/travelalerts"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/id-ID/apiservices/travelalerts"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/ja-JP/apiservices/travelalerts"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/ko-kr/apiservices/travelalerts"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/en-MY/apiservices/travelalerts"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/en-nz/apiservices/travelalerts"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/en-sg/apiservices/travelalerts"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/zh-SG/apiservices/travelalerts"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/en-zw/apiservices/travelalerts"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/vi-VN/apiservices/travelalerts"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/en-za/apiservices/travelalerts"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/zh-cn/apiservices/travelalerts"
+    ]
+  },
+  "PageContents": {
+    "au/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/hken/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/idid/PageContents/conditions-of-carriage-GK.html"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja//PageContents/conditions-of-carriage-GK.html"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/krko/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/myen/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/nzen/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/myen/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/sgen/PageContents/conditions-of-carriage.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/about-us_our-company.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/about-us_our-fleet.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/about-us_our-awards.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/what-we-offer_our-guarantees_customer-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/what-we-offer_our-guarantees_price-beat-guarantee.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/privacy-policy.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/terms-of-use.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/planning-and-booking_fares_fare-rules.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/planning-and-booking_baggage_checked-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/planning-and-booking_baggage_carry-on-baggage.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/planning-and-booking_checking-in_international.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/planning-and-booking_checking-in_web-check-in.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/planning-and-booking_fares_fees-and-charges.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/planning-and-booking_in-flight-health.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/contact-us.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/childrensupervision.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/my-jetstar-terms-and-conditions.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/mobile_faq.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/mobile_special-offers-important-information.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/conditions-of-carriage-JQ.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/conditions-of-carriage-3K.html",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/PageContents/conditions-of-carriage-BL.html",
+      "https://www.jetstar.com/MobileStaticApi/auen/PageContents/conditions-of-carriage-GK.html",
+      "https://www.jetstar.com/MobileStaticApi/jpja/PageContents/conditions-of-carriage-EN.html",
+      "https://www.jetstar.com/MobileStaticApi/vnen/PageContents/quick-links_conditions-of-carriage.html"
+    ]
+  },
+  "MobileSiteContents": {
+    "au/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/CultureSpecificValues.json",
+      "https://www.jetstar.com/en-au/apiservices/dotrezkvp/persi?addDefineTag=false"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/hken/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/jpen/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/hkzh/MobileSiteContents/ZHTWSpecificValues.json"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/iden//MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/idid/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/jpja//MobileSiteContents/CultureSpecificValues.json",
+      "https://www.jetstar.com/ja-jp/apiservices/dotrezkvp/persi?addDefineTag=false"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/krko/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/myen/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/nzen/MobileSiteContents/CultureSpecificValues.json",
+      "https://www.jetstar.com/en-nz/apiservices/dotrezkvp/persi?addDefineTag=false"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/sgen/MobileSiteContents/CultureSpecificValues.json",
+      "https://www.jetstar.com/en-sg/apiservices/dotrezkvp/persi?addDefineTag=false"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/sgzh/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/then/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/vnvi/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/auen/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/vnen/MobileSiteContents/CultureSpecificValues.json"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BF01-Search.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BF02-Select.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BF03-Passengers.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BF04-Extras.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BF05-Seats.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BF06-Payment.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BF07-Confirmation.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/AJ.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BFAIR-Airports.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/BFCT-Countries.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/DG.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/FS.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/GL-Site.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/GL-Error.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/GL-Ancillary.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/HP.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/MCI.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/MJ.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/MT.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/SSO.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/App.json",
+      "https://www.jetstar.com/MobileStaticApi/cnzh/MobileSiteContents/CultureSpecificValues.json"
+    ]
+  },
+  "SpecialOffersService": {
+    "au/en": [
+      "https://www.jetstar.com/en-AU/apiservices/offers/mobile"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/en-HK/apiservices/offers/mobile"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/MobileStaticApi/jpen/SpecialOffersService/mobile.json"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/zh-HK/apiservices/offers/mobile"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/zh-TW/apiservices/offers/mobile"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/en-ID/apiservices/offers/mobile"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/id-ID/apiservices/offers/mobile"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/ja-JP/apiservices/offers/mobile"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/MobileStaticApi/krko/SpecialOffersService/mobile.json"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/en-MY/apiservices/offers/mobile"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/en-NZ/apiservices/offers/mobile"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/en-SG/apiservices/offers/mobile"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/zh-SG/apiservices/offers/mobile"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/en-TH/apiservices/offers/mobile"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/vi-VN/apiservices/offers/mobile"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/en-VN/apiservices/offers/mobile"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/zh-CN/apiservices/offers/mobile"
+    ]
+  },
+  "DestinationService": {
+    "au/en": [],
+    "hk/en": [],
+    "jp/en": [],
+    "ph/en": [],
+    "hk/zh": [],
+    "tw/zh": [],
+    "id/en": [],
+    "id/id": [],
+    "jp/ja": [
+      "https://www.jetstar.com/MobileStaticApi/jpja//DestinationService/MobileDestinationService.json"
+    ],
+    "kr/ko": [],
+    "my/en": [],
+    "my/ms": [],
+    "nz/en": [],
+    "sg/en": [],
+    "sg/zh": [],
+    "th/th": [],
+    "th/en": [],
+    "vn/vi": [],
+    "vn/en": [],
+    "cn/zh": []
+  },
+  "DestinationImages": {
+    "au/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/MobileStaticApi/auen/DestinationImages/GetImages.json"
+    ]
+  },
+  "ContactUsService": {
+    "au/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/ContactUsService/PhoneNumbers-HKZH.json"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/ContactUsService/PhoneNumbers-HKZH.json"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/MobileStaticApi/idid/ContactUsService/PhoneNumbers-IDID.json"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/MobileStaticApi/jpja/ContactUsService/PhoneNumbers-JPJA.json"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/MobileStaticApi/krko/ContactUsService/PhoneNumbers-KRKO.json"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/MobileStaticApi/sgzh/ContactUsService/PhoneNumbers-SGZH.json"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/MobileStaticApi/vnvi/ContactUsService/PhoneNumbers-VNVI.json"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/ContactUsService/PhoneNumbers-AUEN.json"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/MobileStaticApi/sgzh/ContactUsService/PhoneNumbers-SGZH.json"
+    ]
+  },
+  "CompactSearchService": {
+    "au/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/CompactSearchService/LoadLocationService.json"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/MobileStaticApi/hken/CompactSearchService/LoadLocationService.json"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/CompactSearchService/LoadLocationService.json"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/CompactSearchService/LoadLocationService.json"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/CompactSearchService/LoadLocationService.json"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/MobileStaticApi/iden/CompactSearchService/LoadLocationService.json"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/MobileStaticApi/idid/CompactSearchService/LoadLocationService.json"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/MobileStaticApi/jpja/CompactSearchService/LoadLocationService.json"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/MobileStaticApi/krko/CompactSearchService/LoadLocationService.json"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/MobileStaticApi/myen/CompactSearchService/LoadLocationService.json"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/MobileStaticApi/nzen/CompactSearchService/LoadLocationService.json"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/MobileStaticApi/sgen/CompactSearchService/LoadLocationService.json"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/MobileStaticApi/sgzh/CompactSearchService/LoadLocationService.json"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/MobileStaticApi/then/CompactSearchService/LoadLocationService.json"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/MobileStaticApi/vnvi/CompactSearchService/LoadLocationService.json"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/MobileStaticApi/vnen/CompactSearchService/LoadLocationService.json"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/MobileStaticApi/cnzh/CompactSearchService/LoadLocationService.json"
+    ]
+  },
+  "NativeApplicationMarketingService": {
+    "au/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/MobileStaticApi/hken/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/MobileStaticApi/jpen/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/MobileStaticApi/twzh/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/MobileStaticApi/iden/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/MobileStaticApi/idid/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/MobileStaticApi/jpja//NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/MobileStaticApi/krko/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/MobileStaticApi/myen/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/MobileStaticApi/nzen/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/MobileStaticApi/sgen/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/MobileStaticApi/sgzh/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/MobileStaticApi/then/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/MobileStaticApi/vnvi/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/MobileStaticApi/vnen/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/MobileStaticApi/cnzh/NativeApplicationMarketingService/MobilePromotionsService.json"
+    ]
+  },
+  "CarsAndExtrasService": {
+    "au/en": [
+      "https://www.jetstar.com/MobileStaticApi/auen/CarsAndExtrasService/CHE-auen.txt"
+    ],
+    "hk/en": [
+      "https://www.jetstar.com/MobileStaticApi/hken/CarsAndExtrasService/CHE-hken.txt"
+    ],
+    "jp/en": [
+      "https://www.jetstar.com/MobileStaticApi/jpen/CarsAndExtrasService/CHE-jpen.txt"
+    ],
+    "ph/en": [],
+    "hk/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/CarsAndExtrasService/CHE-hkzh.txt"
+    ],
+    "tw/zh": [
+      "https://www.jetstar.com/MobileStaticApi/hkzh/CarsAndExtrasService/CHE-hkzh.txt"
+    ],
+    "id/en": [
+      "https://www.jetstar.com/MobileStaticApi/iden/CarsAndExtrasService/CHE-iden2.txt"
+    ],
+    "id/id": [
+      "https://www.jetstar.com/MobileStaticApi/idid/CarsAndExtrasService/CHE-idid.txt"
+    ],
+    "jp/ja": [
+      "https://www.jetstar.com/MobileStaticApi/jpja/CarsAndExtrasService/CHE-jpja.txt"
+    ],
+    "kr/ko": [
+      "https://www.jetstar.com/MobileStaticApi/krko/CarsAndExtrasService/CHE-krko.txt"
+    ],
+    "my/en": [
+      "https://www.jetstar.com/MobileStaticApi/myen/CarsAndExtrasService/CHE-myen.txt"
+    ],
+    "my/ms": [],
+    "nz/en": [
+      "https://www.jetstar.com/MobileStaticApi/nzen/CarsAndExtrasService/CHE-nzen.txt"
+    ],
+    "sg/en": [
+      "https://www.jetstar.com/MobileStaticApi/sgen/CarsAndExtrasService/CHE-sgen.txt"
+    ],
+    "sg/zh": [
+      "https://www.jetstar.com/MobileStaticApi/sgzh/CarsAndExtrasService/CHE-sgzh.txt"
+    ],
+    "th/th": [],
+    "th/en": [
+      "https://www.jetstar.com/MobileStaticApi/then/CarsAndExtrasService/CHE-then.txt"
+    ],
+    "vn/vi": [
+      "https://www.jetstar.com/MobileStaticApi/vnvi/CarsAndExtrasService/CHE-vnvi.txt"
+    ],
+    "vn/en": [
+      "https://www.jetstar.com/MobileStaticApi/vnen/CarsAndExtrasService/CHE-vnen.txt"
+    ],
+    "cn/zh": [
+      "https://www.jetstar.com/MobileStaticApi/cnzh/CarsAndExtrasService/CHE-cnzh.txt"
+    ]
+  },
+  "MealsService": {
+    "au/en": [],
+    "hk/en": [],
+    "jp/en": [],
+    "ph/en": [],
+    "hk/zh": [],
+    "tw/zh": [],
+    "id/en": [],
+    "id/id": [],
+    "jp/ja": [],
+    "kr/ko": [],
+    "my/en": [],
+    "my/ms": [],
+    "nz/en": [],
+    "sg/en": [],
+    "sg/zh": [],
+    "th/th": [],
+    "th/en": [],
+    "vn/vi": [],
+    "vn/en": [],
+    "cn/zh": []
+  }
+}

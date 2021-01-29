@@ -1,0 +1,469 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "DG-TJQ",
+            "Value": "Belitung<br \/>"
+        },
+        {
+            "Key": "DG-ADL",
+            "Value": "Adelaide"
+        },
+        {
+            "Key": "DG-AKL",
+            "Value": "Auckland"
+        },
+        {
+            "Key": "DG-AVV",
+            "Value": "Melbourne"
+        },
+        {
+            "Key": "DG-AYQ",
+            "Value": "Ayers Rock"
+        },
+        {
+            "Key": "DG-BKK",
+            "Value": "Bangkok"
+        },
+        {
+            "Key": "DG-BLR",
+            "Value": "Bengaluru"
+        },
+        {
+            "Key": "DG-BMV",
+            "Value": "Buôn Ma Thuột"
+        },
+        {
+            "Key": "DG-BNE",
+            "Value": "Brisbane"
+        },
+        {
+            "Key": "DG-BNK",
+            "Value": "Ballina Byron"
+        },
+        {
+            "Key": "DG-BOM",
+            "Value": "Mumbai"
+        },
+        {
+            "Key": "DG-BQB",
+            "Value": "Busselton Margaret River"
+        },
+        {
+            "Key": "DG-CAN",
+            "Value": "Quảng Châu"
+        },
+        {
+            "Key": "DG-CBR",
+            "Value": "Canberra"
+        },
+        {
+            "Key": "DG-CCU",
+            "Value": "Kolkata"
+        },
+        {
+            "Key": "DG-CGK",
+            "Value": "Jakarta"
+        },
+        {
+            "Key": "DG-CGO",
+            "Value": "Zhengzhou"
+        },
+        {
+            "Key": "DG-CHC",
+            "Value": "Christchurch"
+        },
+        {
+            "Key": "DG-CMB",
+            "Value": "Colombo"
+        },
+        {
+            "Key": "DG-CNS",
+            "Value": "Cairns"
+        },
+        {
+            "Key": "DG-CNX",
+            "Value": "Chiang Mai"
+        },
+        {
+            "Key": "DG-CRK",
+            "Value": "Clark"
+        },
+        {
+            "Key": "DG-CSX",
+            "Value": "Changsha"
+        },
+        {
+            "Key": "DG-CTS",
+            "Value": "Sapporo (New Chitose)"
+        },
+        {
+            "Key": "DG-CXR",
+            "Value": "Nha Trang"
+        },
+        {
+            "Key": "DG-DAD",
+            "Value": "Đà Nẵng"
+        },
+        {
+            "Key": "DG-DDI",
+            "Value": "Đảo Daydream"
+        },
+        {
+            "Key": "DG-DEL",
+            "Value": "Delhi"
+        },
+        {
+            "Key": "DG-DLI",
+            "Value": "Da Lat"
+        },
+        {
+            "Key": "DG-DPS",
+            "Value": "Denpasar"
+        },
+        {
+            "Key": "DG-DRW",
+            "Value": "Darwin"
+        },
+        {
+            "Key": "DG-DUD",
+            "Value": "Dunedin"
+        },
+        {
+            "Key": "DG-FUK",
+            "Value": "Fukuoka"
+        },
+        {
+            "Key": "DG-HAK",
+            "Value": "Haikou"
+        },
+        {
+            "Key": "DG-HAN",
+            "Value": "Hà Nội"
+        },
+        {
+            "Key": "DG-HAP",
+            "Value": "Đảo Long"
+        },
+        {
+            "Key": "DG-HBA",
+            "Value": "Hobart"
+        },
+        {
+            "Key": "DG-HDY",
+            "Value": "Hat Yai"
+        },
+        {
+            "Key": "DG-HFE",
+            "Value": "Hợp Phì"
+        },
+        {
+            "Key": "DG-HGH",
+            "Value": "Hangzhou"
+        },
+        {
+            "Key": "DG-HIS",
+            "Value": "Đảo Hayman"
+        },
+        {
+            "Key": "DG-HKG",
+            "Value": "Hong Kong"
+        },
+        {
+            "Key": "DG-HKT",
+            "Value": "Phuket"
+        },
+        {
+            "Key": "DG-HNL",
+            "Value": "Honolulu"
+        },
+        {
+            "Key": "DG-HPH",
+            "Value": "Hải Phòng"
+        },
+        {
+            "Key": "DG-HTI",
+            "Value": "Đảo Hamilton"
+        },
+        {
+            "Key": "DG-HUI",
+            "Value": "Huế"
+        },
+        {
+            "Key": "DG-ICN",
+            "Value": ""
+        },
+        {
+            "Key": "DG-JLM",
+            "Value": "Canberra (Jolimont Bus Station)"
+        },
+        {
+            "Key": "DG-KCZ",
+            "Value": "Kochi"
+        },
+        {
+            "Key": "DG-KHH",
+            "Value": "Cao Hùng"
+        },
+        {
+            "Key": "DG-KIX",
+            "Value": "Osaka"
+        },
+        {
+            "Key": "DG-KMI",
+            "Value": "Miyazaki"
+        },
+        {
+            "Key": "DG-KMJ",
+            "Value": "Kumamoto"
+        },
+        {
+            "Key": "DG-KNO",
+            "Value": "Medan"
+        },
+        {
+            "Key": "DG-KOJ",
+            "Value": "Kagoshima"
+        },
+        {
+            "Key": "DG-KUL",
+            "Value": "Kuala Lumpur"
+        },
+        {
+            "Key": "DG-KWE",
+            "Value": "Guiyang"
+        },
+        {
+            "Key": "DG-LOP",
+            "Value": "Lombok"
+        },
+        {
+            "Key": "DG-LST",
+            "Value": "Launceston"
+        },
+        {
+            "Key": "DG-MAA",
+            "Value": "Chennai"
+        },
+        {
+            "Key": "DG-MCY",
+            "Value": "Sunshine Coast"
+        },
+        {
+            "Key": "DG-MEL",
+            "Value": "Melbourne"
+        },
+        {
+            "Key": "DG-MFM",
+            "Value": "Ma Cao"
+        },
+        {
+            "Key": "DG-MKY",
+            "Value": "Mackay"
+        },
+        {
+            "Key": "DG-MNL",
+            "Value": "Manila"
+        },
+        {
+            "Key": "DG-MYJ",
+            "Value": "Matsuyama"
+        },
+        {
+            "Key": "DG-NAN",
+            "Value": "Fiji - Nadi"
+        },
+        {
+            "Key": "DG-NGO",
+            "Value": "Nagoya"
+        },
+        {
+            "Key": "DG-NGS",
+            "Value": "Nagasaki"
+        },
+        {
+            "Key": "DG-NPE",
+            "Value": "Napier"
+        },
+        {
+            "Key": "DG-NPL",
+            "Value": "New Plymouth"
+        },
+        {
+            "Key": "DG-NRT",
+            "Value": "Tokyo"
+        },
+        {
+            "Key": "DG-NSN",
+            "Value": "Nelson"
+        },
+        {
+            "Key": "DG-NTL",
+            "Value": "Newcastle"
+        },
+        {
+            "Key": "DG-OIT",
+            "Value": "Oita"
+        },
+        {
+            "Key": "DG-OKA",
+            "Value": "Naha"
+        },
+        {
+            "Key": "DG-OOL",
+            "Value": "Gold Coast"
+        },
+        {
+            "Key": "DG-PEK",
+            "Value": "Bắc Kinh"
+        },
+        {
+            "Key": "DG-PEN",
+            "Value": "Penang"
+        },
+        {
+            "Key": "DG-PER",
+            "Value": "Perth"
+        },
+        {
+            "Key": "DG-PKU",
+            "Value": "Pekanbaru"
+        },
+        {
+            "Key": "DG-PLM",
+            "Value": "Palembang"
+        },
+        {
+            "Key": "DG-PMR",
+            "Value": "Palmerston North"
+        },
+        {
+            "Key": "DG-PNH",
+            "Value": "Phnom Penh"
+        },
+        {
+            "Key": "DG-PPP",
+            "Value": "Whitsunday Coast"
+        },
+        {
+            "Key": "DG-PQC",
+            "Value": "Phú Quốc"
+        },
+        {
+            "Key": "DG-PVG",
+            "Value": "Shanghai"
+        },
+        {
+            "Key": "DG-PXU",
+            "Value": "Pleiku"
+        },
+        {
+            "Key": "DG-RAR",
+            "Value": "Rarotonga"
+        },
+        {
+            "Key": "DG-REP",
+            "Value": "Siem Reap"
+        },
+        {
+            "Key": "DG-RGN",
+            "Value": "Yangon"
+        },
+        {
+            "Key": "DG-SGN",
+            "Value": "Thành phố Hồ Chí Minh"
+        },
+        {
+            "Key": "DG-SHI",
+            "Value": "Miyako (Shimojishima)"
+        },
+        {
+            "Key": "DG-SIN",
+            "Value": "Singapore"
+        },
+        {
+            "Key": "DG-SUB",
+            "Value": "Surabaya"
+        },
+        {
+            "Key": "DG-SWA",
+            "Value": "Sán Đầu"
+        },
+        {
+            "Key": "DG-SYD",
+            "Value": "Sydney"
+        },
+        {
+            "Key": "DG-SYO",
+            "Value": "Shonai"
+        },
+        {
+            "Key": "DG-SYX",
+            "Value": "Sanya"
+        },
+        {
+            "Key": "DG-TAK",
+            "Value": "Takamatsu"
+        },
+        {
+            "Key": "DG-TBB",
+            "Value": "Tuy H&ograve;a"
+        },
+        {
+            "Key": "DG-THD",
+            "Value": "Thanh Hóa"
+        },
+        {
+            "Key": "DG-TPE",
+            "Value": "Đài Bắc"
+        },
+        {
+            "Key": "DG-TRZ",
+            "Value": "Tiruchirappalli"
+        },
+        {
+            "Key": "DG-TSV",
+            "Value": "Townsville"
+        },
+        {
+            "Key": "DG-UIH",
+            "Value": "Quy Nhơn"
+        },
+        {
+            "Key": "DG-VCA",
+            "Value": "Cần Thơ"
+        },
+        {
+            "Key": "DG-VCL",
+            "Value": "Chu Lai"
+        },
+        {
+            "Key": "DG-VDH",
+            "Value": "Đồng Hới"
+        },
+        {
+            "Key": "DG-VII",
+            "Value": "Vinh"
+        },
+        {
+            "Key": "DG-VIZ",
+            "Value": "Melbourne"
+        },
+        {
+            "Key": "DG-WLG",
+            "Value": "Wellington"
+        },
+        {
+            "Key": "DG-WUH",
+            "Value": "Wuhan"
+        },
+        {
+            "Key": "DG-XUZ",
+            "Value": " Từ Châu"
+        },
+        {
+            "Key": "DG-ZQN",
+            "Value": "Queenstown"
+        }
+    ],
+    "Promotions": null
+}

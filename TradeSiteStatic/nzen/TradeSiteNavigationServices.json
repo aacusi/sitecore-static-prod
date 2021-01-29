@@ -1,0 +1,59 @@
+{
+   "informationCenter":[
+      {
+         "ColumnName":"Agent tools",
+         "Links":[
+            {
+               "Label":"Agent Hub new look user guide",
+               "URL":"http://www.jetstar.com/_/media/files/agenthub/Agent-Hub-User-Guide-SG",
+               "Updated":"False"
+            },
+            {
+               "Label":"Manage your agency profile",
+               "URL":"http://www.jetstar.com/_/media/Files/Agenthub/Manage_Agency_Profile_EN",
+               "Updated":"False"
+            },
+            {
+               "Label":"Manage your bookings",
+               "URL":"http://www.jetstar.com/_/media/Files/Agenthub/Manage-Bookings",
+               "Updated":"False"
+            },
+            {
+               "Label":"For more information visit the Travel Agent Information Centre",
+               "URL":"http://www.jetstar.com/au/en/travel-agents/information-centre",
+               "Updated":"False"
+            }
+         ]
+      }
+   ],
+   "footer":[
+      {
+         "Label":"Contact us",
+         "URL":"https://www.jetstar.com/nz/en/contact-us"
+      },
+      {
+         "Label":"Customer Guarantee",
+         "URL":"https://www.jetstar.com/nz/en/customer-guarantee"
+      },
+      {
+         "Label":"Privacy policy",
+         "URL":"https://www.jetstar.com/nz/en/privacy-policy"
+      },
+      {
+         "Label":"Website Terms of use",
+         "URL":"https://www.jetstar.com/nz/en/terms-of-use"
+      },
+      {
+         "Label":"Terms & Conditions of Carriage",
+         "URL":"https://www.jetstar.com/nz/en/conditions-of-carriage-jq"
+      }
+   ],
+   "banners":[
+      {
+         "Name":"MREC",
+         "Image":"//www.jetstar.com/nz/en/agentinfo//~/_media/Tradesite/Banners/flex_bundle_7kg_edited.png?bc=White",
+         "Caption":"Banner",
+         "URL":"//www.jetstar.com/nz/en/flights/baggage/7kg-carry-on-baggage"
+      }
+   ]
+}

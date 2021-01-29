@@ -1,0 +1,469 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "DG-TJQ",
+            "Value": "벨리퉁<br \/>"
+        },
+        {
+            "Key": "DG-ADL",
+            "Value": "애들레이드"
+        },
+        {
+            "Key": "DG-AKL",
+            "Value": "오클랜드"
+        },
+        {
+            "Key": "DG-AVV",
+            "Value": "멜버른"
+        },
+        {
+            "Key": "DG-AYQ",
+            "Value": "에어즈 록"
+        },
+        {
+            "Key": "DG-BKK",
+            "Value": "방콕"
+        },
+        {
+            "Key": "DG-BLR",
+            "Value": "인도 벵갈루루"
+        },
+        {
+            "Key": "DG-BMV",
+            "Value": "부온 마 투옷"
+        },
+        {
+            "Key": "DG-BNE",
+            "Value": "브리즈번"
+        },
+        {
+            "Key": "DG-BNK",
+            "Value": "발리나 바이런"
+        },
+        {
+            "Key": "DG-BOM",
+            "Value": "인도 뭄바이"
+        },
+        {
+            "Key": "DG-BQB",
+            "Value": "버셀턴 마가렛 리버"
+        },
+        {
+            "Key": "DG-CAN",
+            "Value": "광저우"
+        },
+        {
+            "Key": "DG-CBR",
+            "Value": "캔버라"
+        },
+        {
+            "Key": "DG-CCU",
+            "Value": "인도 콜카타"
+        },
+        {
+            "Key": "DG-CGK",
+            "Value": "자카르타"
+        },
+        {
+            "Key": "DG-CGO",
+            "Value": "Zhengzhou"
+        },
+        {
+            "Key": "DG-CHC",
+            "Value": "크라이스트처치"
+        },
+        {
+            "Key": "DG-CMB",
+            "Value": "콜롬보"
+        },
+        {
+            "Key": "DG-CNS",
+            "Value": "케언스"
+        },
+        {
+            "Key": "DG-CNX",
+            "Value": "Chiang Mai"
+        },
+        {
+            "Key": "DG-CRK",
+            "Value": "클락"
+        },
+        {
+            "Key": "DG-CSX",
+            "Value": "창사"
+        },
+        {
+            "Key": "DG-CTS",
+            "Value": "삿포로"
+        },
+        {
+            "Key": "DG-CXR",
+            "Value": "냐짱"
+        },
+        {
+            "Key": "DG-DAD",
+            "Value": "다낭"
+        },
+        {
+            "Key": "DG-DDI",
+            "Value": "데이드림 아일랜드"
+        },
+        {
+            "Key": "DG-DEL",
+            "Value": "델리"
+        },
+        {
+            "Key": "DG-DLI",
+            "Value": "Da Lat"
+        },
+        {
+            "Key": "DG-DPS",
+            "Value": "덴파사"
+        },
+        {
+            "Key": "DG-DRW",
+            "Value": "다윈"
+        },
+        {
+            "Key": "DG-DUD",
+            "Value": "더니든"
+        },
+        {
+            "Key": "DG-FUK",
+            "Value": "후쿠오카현"
+        },
+        {
+            "Key": "DG-HAK",
+            "Value": "하이커우"
+        },
+        {
+            "Key": "DG-HAN",
+            "Value": "하노이"
+        },
+        {
+            "Key": "DG-HAP",
+            "Value": "롱 아일랜드"
+        },
+        {
+            "Key": "DG-HBA",
+            "Value": "호바트"
+        },
+        {
+            "Key": "DG-HDY",
+            "Value": "Hat Yai"
+        },
+        {
+            "Key": "DG-HFE",
+            "Value": "허페이"
+        },
+        {
+            "Key": "DG-HGH",
+            "Value": "항저우"
+        },
+        {
+            "Key": "DG-HIS",
+            "Value": "헤이먼 아일랜드"
+        },
+        {
+            "Key": "DG-HKG",
+            "Value": "홍콩"
+        },
+        {
+            "Key": "DG-HKT",
+            "Value": "푸껫"
+        },
+        {
+            "Key": "DG-HNL",
+            "Value": "호놀룰루"
+        },
+        {
+            "Key": "DG-HPH",
+            "Value": "하이퐁"
+        },
+        {
+            "Key": "DG-HTI",
+            "Value": "해밀턴 아일랜드"
+        },
+        {
+            "Key": "DG-HUI",
+            "Value": "후에"
+        },
+        {
+            "Key": "DG-ICN",
+            "Value": "서울 (인천)"
+        },
+        {
+            "Key": "DG-JLM",
+            "Value": "Canberra (Jolimont Bus Station)"
+        },
+        {
+            "Key": "DG-KCZ",
+            "Value": ""
+        },
+        {
+            "Key": "DG-KHH",
+            "Value": ""
+        },
+        {
+            "Key": "DG-KIX",
+            "Value": "오사카"
+        },
+        {
+            "Key": "DG-KMI",
+            "Value": "미야자키"
+        },
+        {
+            "Key": "DG-KMJ",
+            "Value": "구마모토"
+        },
+        {
+            "Key": "DG-KNO",
+            "Value": "메단"
+        },
+        {
+            "Key": "DG-KOJ",
+            "Value": "가고시마"
+        },
+        {
+            "Key": "DG-KUL",
+            "Value": "쿠알라룸푸르"
+        },
+        {
+            "Key": "DG-KWE",
+            "Value": "구이양"
+        },
+        {
+            "Key": "DG-LOP",
+            "Value": "롬복"
+        },
+        {
+            "Key": "DG-LST",
+            "Value": "론서스턴"
+        },
+        {
+            "Key": "DG-MAA",
+            "Value": "인도 첸나이"
+        },
+        {
+            "Key": "DG-MCY",
+            "Value": "선샤인코스트"
+        },
+        {
+            "Key": "DG-MEL",
+            "Value": "멜버른"
+        },
+        {
+            "Key": "DG-MFM",
+            "Value": "마카오"
+        },
+        {
+            "Key": "DG-MKY",
+            "Value": "매카이"
+        },
+        {
+            "Key": "DG-MNL",
+            "Value": "마닐라"
+        },
+        {
+            "Key": "DG-MYJ",
+            "Value": "마쓰야마"
+        },
+        {
+            "Key": "DG-NAN",
+            "Value": "피지 - 나디"
+        },
+        {
+            "Key": "DG-NGO",
+            "Value": "나고야"
+        },
+        {
+            "Key": "DG-NGS",
+            "Value": "나가사키"
+        },
+        {
+            "Key": "DG-NPE",
+            "Value": "네이피어"
+        },
+        {
+            "Key": "DG-NPL",
+            "Value": "뉴 플리머스"
+        },
+        {
+            "Key": "DG-NRT",
+            "Value": "도쿄"
+        },
+        {
+            "Key": "DG-NSN",
+            "Value": "넬슨"
+        },
+        {
+            "Key": "DG-NTL",
+            "Value": "뉴캐슬"
+        },
+        {
+            "Key": "DG-OIT",
+            "Value": "오이타"
+        },
+        {
+            "Key": "DG-OKA",
+            "Value": "나하"
+        },
+        {
+            "Key": "DG-OOL",
+            "Value": "골드 코스트"
+        },
+        {
+            "Key": "DG-PEK",
+            "Value": "베이징"
+        },
+        {
+            "Key": "DG-PEN",
+            "Value": "페낭"
+        },
+        {
+            "Key": "DG-PER",
+            "Value": "퍼스"
+        },
+        {
+            "Key": "DG-PKU",
+            "Value": "Pekanbaru"
+        },
+        {
+            "Key": "DG-PLM",
+            "Value": "Palembang"
+        },
+        {
+            "Key": "DG-PMR",
+            "Value": "파머스톤 노스"
+        },
+        {
+            "Key": "DG-PNH",
+            "Value": "프놈펜"
+        },
+        {
+            "Key": "DG-PPP",
+            "Value": "휫선데이 코스트"
+        },
+        {
+            "Key": "DG-PQC",
+            "Value": "푸 꾸옥"
+        },
+        {
+            "Key": "DG-PVG",
+            "Value": "상하이"
+        },
+        {
+            "Key": "DG-PXU",
+            "Value": "Pleiku"
+        },
+        {
+            "Key": "DG-RAR",
+            "Value": "Rarotonga"
+        },
+        {
+            "Key": "DG-REP",
+            "Value": "시엠리아프"
+        },
+        {
+            "Key": "DG-RGN",
+            "Value": "양곤"
+        },
+        {
+            "Key": "DG-SGN",
+            "Value": "호찌민시"
+        },
+        {
+            "Key": "DG-SHI",
+            "Value": "시모지시마"
+        },
+        {
+            "Key": "DG-SIN",
+            "Value": "싱가포르"
+        },
+        {
+            "Key": "DG-SUB",
+            "Value": "수라바야"
+        },
+        {
+            "Key": "DG-SWA",
+            "Value": "산터우"
+        },
+        {
+            "Key": "DG-SYD",
+            "Value": "시드니"
+        },
+        {
+            "Key": "DG-SYO",
+            "Value": ""
+        },
+        {
+            "Key": "DG-SYX",
+            "Value": "싼야"
+        },
+        {
+            "Key": "DG-TAK",
+            "Value": "다카마쓰"
+        },
+        {
+            "Key": "DG-TBB",
+            "Value": "뚜이호아"
+        },
+        {
+            "Key": "DG-THD",
+            "Value": "타인호아"
+        },
+        {
+            "Key": "DG-TPE",
+            "Value": "타이베이"
+        },
+        {
+            "Key": "DG-TRZ",
+            "Value": "인도 티루치아랄리"
+        },
+        {
+            "Key": "DG-TSV",
+            "Value": "타운즈빌"
+        },
+        {
+            "Key": "DG-UIH",
+            "Value": "꾸이년"
+        },
+        {
+            "Key": "DG-VCA",
+            "Value": ""
+        },
+        {
+            "Key": "DG-VCL",
+            "Value": "추라이"
+        },
+        {
+            "Key": "DG-VDH",
+            "Value": "동허이"
+        },
+        {
+            "Key": "DG-VII",
+            "Value": "빈"
+        },
+        {
+            "Key": "DG-VIZ",
+            "Value": "멜버른"
+        },
+        {
+            "Key": "DG-WLG",
+            "Value": "웰링턴"
+        },
+        {
+            "Key": "DG-WUH",
+            "Value": "Wuhan"
+        },
+        {
+            "Key": "DG-XUZ",
+            "Value": ""
+        },
+        {
+            "Key": "DG-ZQN",
+            "Value": "퀸스타운"
+        }
+    ],
+    "Promotions": null
+}

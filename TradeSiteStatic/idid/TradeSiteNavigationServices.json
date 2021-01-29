@@ -1,0 +1,261 @@
+{
+   "informationCenter":[
+      {
+         "ColumnName":"Jaringan, harga-harga & bagasi",
+         "Links":[
+           
+            {
+               "Label":"Harga dan Paketnya",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":"Program Partner Maskapai Penerbangan",
+               "URL": "http://agenthub.jetstar.com/hk/zh/agentinfo/planning-and-booking/flight-connections",
+               "Updated":"False"
+            },
+            {
+               "Label":"Peraturan Harga",
+              "URL": "https://www.jetstar.com/hk/zh/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":" Reservasi & Harga Grup",
+               "URL": "https://www.jetstar.com/hk/zh/flights/group-bookings",
+               "Updated":"False"
+            },
+            {
+               "Label":" Reservasi & Harga Grup (template)",
+               "URL":"https://www.jetstar.com/sg/en/Group%20quotes%20and%20bookings%20template",
+               "Updated":"False"
+            },
+            {
+               "Label":"Bagasi yang dilaporkan",
+               "URL": "https://www.jetstar.com/hk/zh/flights/baggage/checked-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"Bagasi kabin",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/carry-on-baggage-what-can-i-bring-on-board",
+               "Updated":"False"
+            },
+            {
+               "Label":"Biaya-biaya",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/fees-and-charges",
+               "Updated":"False"
+            },
+            {
+               "Label":"Barang Berat",
+               "URL": "https://www.jetstar.com/hk/zh/flights/baggage/oversized-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"Barang berbahaya",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/what-cant-i-carry-on-board-prohibited-items",
+               "Updated":"False"
+            },
+            {
+               "Label":"Layanan bagasi",
+               "URL": "https://www.jetstar.com/hk/zh/contact-us/lost-damaged-and-delayed-baggage",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Bandara & Layanan dalam Pesawat",
+         "Links":[
+            {
+               "Label":"Check-in",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/checking-in",
+               "Updated":"False"
+            },
+            {
+               "Label":"Penerbangan Lanjutan",
+               "URL": "http://agenthub.jetstar.com/hk/zh/agentinfo/planning-and-booking/flight-connections",
+               "Updated":"False"
+            },
+            {
+               "Label":"Interline and codeshare",
+               "URL":"https://www.jetstar.com/~/_media/D6889D280C0B4655AA372E4338E44BE4.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Kelas Ekonomi",
+               "URL": "https://www.jetstar.com/hk/zh/flights/economy",
+               "Updated":"False"
+            },
+            {
+               "Label":"Kelas Bisnis",
+               "URL": "https://www.jetstar.com/hk/zh/flights/business-class",
+               "Updated":"False"
+            },
+            {
+               "Label":"Pilihan Kursi",
+               "URL": "https://www.jetstar.com/hk/zh/flights/seats",
+               "Updated":"False"
+            },
+            {
+               "Label":"Informasi Bandara &amp; Terminal",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/airports-and-terminals",
+               "Updated":"False"
+            },
+            {
+               "Label":"Naik pesawat",
+               "URL":"https://www.jetstar.com/sg/en/help/articles/when-to-get-to-the-airport-for-domestic-flights",
+               "Updated":"False"
+            },
+            {
+               "Label":"Layanan Makanan & Minuman dalam pesawat",
+                "URL": "https://www.jetstar.com/hk/zh/flights/food-and-drinks",
+               "Updated":"False"
+            },
+            {
+               "Label":"Layanan hiburan dalam pesawat",
+                "URL": "https://www.jetstar.com/hk/zh/flights/entertainment",
+               "Updated":"False"
+            },
+            {
+               "Label":"Layanan dalam pesawat lainnya",
+               "URL": "https://www.jetstar.com/hk/zh/flights/comfort-packs",
+               "Updated":"False"
+            },
+            {
+               "Label":"Ruang tunggu",
+               "URL": "https://www.jetstar.com/hk/zh/help/tags/lounges",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Berita terkini & Kebijakan perjalanan",
+         "Links":[
+            {
+               "Label":"Persetujuan Kesehatan",
+               "URL": "https://www.jetstar.com/hk/zh/fly-well",
+               "Updated":"False"
+            },
+            {
+               "Label":"Bantuan khusus",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/specific-assistance",
+               "Updated":"False"
+            },
+            {
+               "Label":"Perubahan Jadwal & Kebijakan Gangguan Perjalanan",
+               "URL":"http://www.jetstar.com/~/_media/920A4BB3C2F6461DA8839AAA9FBE7307.pdf",
+               "Updated":"False"
+            },
+            
+            {
+               "Label":"Pusat Info Media Jetstar",
+               "URL":"https://newsroom.jetstar.com",
+               "Updated":"False"
+            },
+            {
+               "Label":"Anak kecil tanpa pendamping",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/independent-travellers-and-accompanying-passengers",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Bantuan Agen Perjalanan",
+         "Links":[
+            {
+               "Label":"Kenali Jetstar Agent Hub",
+               "URL":"https://www.jetstar.com/~/_media/88F15E044C9D42C2B6DE3CD9BC5FBB87.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Seputar Pertanyaan Jetstar Agent Hub",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Jetstar_Agent_Hub_FAQ_ID.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Kelola profil keagenan Anda",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Manage_Agency_Profile_EN.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Kelola Pembukuan Anda",
+               "URL":"https://www.jetstar.com/~/_media/4CD04699930A4755AA9995BA39AB5E3A.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Petunjuk Penggunaan BSP",
+               "URL":"https://www.jetstar.com/~/_media/A056F3A5AA734AC3951934B54BE1E308.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Petunjuk Penggunaan GD",
+               "URL":"https://www.jetstar.com/~/_media/21F5DD46DFFD4D8496BB61803B46A862.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Kontak support Agen & Grup",
+               "URL":"https://www.jetstar.com/~/_media/DDE852C9D0D0486A99467017690FA234.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Seputar Pertanyaan Perjalanan Grup",
+               "URL":"https://www.jetstar.com/~/_media/65B24C48DE974B609F497C2F9D9163BF.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Tawaran Keagenan Jetstar",
+               "URL":"https://www.jetstar.com/id/id/agentinfo/Home/What-we-offer/Travel-Agents",
+               "Updated":"False"
+            },
+            {
+               "Label":"Pilihan Pembayaran Agen",
+               "URL":"https://www.jetstar.com/~/_media/42334883FAA744769E0CE96CC9195559.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Matriks Produk GDS",
+               "URL":"https://www.jetstar.com/~/_media/D6185363D9774216B4AB29E6B4E5AC58.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Info Remunerasi",
+               "URL":"https://www.jetstar.com/~/_media/6F7BA23EED264F6BBCAECF7CF1DBB494.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Peraturan-Peraturan Keagenan",
+               "URL":"https://www.jetstar.com/id/id/agentinfo/Home/What-we-offer/Travel-Agents/Travel-Agent-Terms-and-Conditions",
+               "Updated":"False"
+            }
+         ]
+      }
+   ],
+   "footer":[
+      {
+         "Label":"聯絡我們",
+         "URL": "https://www.jetstar.com/hk/zh/contact-us"
+      },
+      {
+         "Label":"客戶保證",
+         "URL": "https://www.jetstar.com/hk/zh/customer-guarantee"
+      },
+      {
+         "Label":"隱私權政策",
+         "URL": "https://www.jetstar.com/hk/zh/privacy-policy"
+      },
+      {
+         "Label":"使用條款",
+         "URL": "http://www.jetstar.com/hk/zh/terms of use"
+      },
+      {
+         "Label":"條款及細則",
+         "URL": "http://www.jetstar.com/hk/zh/terms and conditions"
+      }
+   ],
+   "banners":[
+      {
+         "Name":"MREC",
+         "Image":"//www.jetstar.com/id/id/agentinfo//~/_media/Tradesite/Banners/flex_bundle_7kg_edited.png?bc=White",
+         "Caption":"Banner",
+         "URL":"//www.jetstar.com/id/id/flights/baggage/7kg-carry-on-baggage"
+      }
+   ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/AgodaLogo.jpg",
+    "ShortDescription": "Save up to 50% off with incredible hotel deals on Agoda (www.agoda.com). Over 750,000 hotels worldwide. 11 million+ hotel reviews by agoda customers. Amazing rates and a Best Price Guarantee. Trusted by over 18 million satisfied customers. Book your hotel now on Agoda!",
+    "ButtonLabel": "Conditions apply",
+    "DropDownField": "You will be redirected to an Agoda website by Jetstar. This website is owned and operated by Agoda. Any dealings you have with Agoda is soley between you and Agoda. Jetstar will not be responsible for the contents of any third party material or promotion or be liable for any direct or indirect loss or damage suffered by you (or any other party) from accessing, using, relying on or trading with third parties. The inclusion of any link, Agoda material advertising or promotion on redirection by Jetstar to this website does not imply Jetstar's endorsement of or any other association with the third party.",
+    "LinkURL": "http://m.agoda.com/en-au/index.html?cid=1743249",
+    "ShowThirdPartyAlert": true
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/Avis-Budget.jpg",
+    "ShortDescription": "Hire A Car With Avis/Budget & Earn Qantas Frequent Flyer points. Book Now. Rent a car, 4WD, truck, ute or bus in Australia from Avis/Budget. Book international car hire at airports or in the city.",
+    "ButtonLabel": "Terms of use",
+    "DropDownField": "You will be redirected to an Avis Budget Group website by Jetstar. This website is owned and operated by Avis Budget Group. Any dealings you have with Avis Budget Group is soley between you and Avis Budget Group. Jetstar will not be responsible for the contents of any third party material or promotion or be liable for any direct or indirect loss or damage suffered by you (or any other party) from accessing, using, relying on or trading with third parties. The inclusion of any link, Avis Budget Group material advertising or promotion on redirection by Jetstar to this website does not imply Jetstar's endorsement of or any other association with the third party.",
+    "LinkURL": "https://book1.carrental.com/dcweb/app?service=page/MOBILEStep1&pid=Jetstar&locale=en&inited=false&mobile=true",
+    "ShowThirdPartyAlert": true
+  }
+]

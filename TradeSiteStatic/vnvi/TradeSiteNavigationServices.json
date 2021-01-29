@@ -1,0 +1,241 @@
+{
+   "informationCenter":[
+      {
+         "ColumnName":"Mạng đường bay, thông tin về vé và hành lý ",
+         "Links":[
+           
+            {
+               "Label":"Giá vé và gói dịch vụ",
+              "URL": "https://www.jetstar.com/vn/vi/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":"Điều kiện giá vé",
+               "URL": "https://www.jetstar.com/vn/vi/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":"Hành lý ký gửi",
+                "URL": "https://www.jetstar.com/vn/vi/flights/baggage/checked-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"Hành lý xách tay",
+               "URL":"https://www.jetstar.com/vn/vi/help/articles/carry-on-baggage-what-can-i-bring-on-board",
+               "Updated":"False"
+            },
+            {
+               "Label":"Một số loại phí",
+               "URL": "https://www.jetstar.com/vn/vi/help/articles/fees-and-charges",
+               "Updated":"False"
+            },
+            {
+               "Label":"Đặt chỗ cho khách đoàn",
+               "URL": "https://www.jetstar.com/vn/vi/flights/group-bookings",
+               "Updated":"False"
+            },
+            {
+               "Label":"Đặt chỗ cho khách đoàn (mẫu)",
+               "URL":"https:/www.jetstar.com/vn/vi/Group%20quotes%20and%20bookings%20template",
+               "Updated":"False"
+            },
+            {
+               "Label":"Hàng hóa cồng kềnh",
+              "URL": "https://www.jetstar.com/vn/vi/flights/baggage/oversized-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"Hàng hóa nguy hiểm",
+                "URL": "https://www.jetstar.com/vn/vi/help/articles/what-cant-i-carry-on-board-prohibited-items",
+               "Updated":"False"
+            },
+            {
+               "Label":"Dịch vụ hành lý",
+               "URL": "https://www.jetstar.com/vn/vi/contact-us/lost-damaged-and-delayed-baggage",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Tại sân bay và trên máy bay",
+         "Links":[
+            {
+               "Label":"Làm thủ tục",
+                "URL": "https://www.jetstar.com/vn/vi/help/articles/checking-in",
+               "Updated":"False"
+            },
+            {
+               "Label":"Nối chuyến",
+              "URL": "http://agenthub.jetstar.com/vn/vi/agentinfo/planning-and-booking/flight-connections",
+               "Updated":"False"
+            },
+            {
+               "Label":"Interlines và liên danh",
+               "URL": "http://www.jetstar.com//~/_media/Tradesite/Interline_and_codeshare_CHS.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Hạng phổ thông",
+               "URL": "https://www.jetstar.com/vn/vi/flights/economy",
+               "Updated":"False"
+            },
+            {
+               "Label":"Lựa chọn chỗ ngồi",
+              "URL": "https://www.jetstar.com/vn/vi/flights/seats",
+               "Updated":"False"
+            },
+            {
+               "Label":"Sân bay và nhà ga",
+               "URL": "https://www.jetstar.com/vn/vi/help/articles/airports-and-terminals",
+               "Updated":"False"
+            },
+            {
+               "Label":"Lên máy bay",
+               "URL": "https://www.jetstar.com/vn/vi/help/articles/when-to-get-to-the-airport-for-domestic-flights",
+               "Updated":"False"
+            },
+            {
+               "Label":"Đồ ăn và thức uống",
+               "URL": "https://www.jetstar.com/vn/vi/flights/food-and-drinks",
+               "Updated":"False"
+            },
+            {
+               "Label":"Giải trí",
+              "URL": "https://www.jetstar.com/vn/vi/flights/entertainment",
+               "Updated":"False"
+            },
+            {
+               "Label":"Phòng chờ",
+               "URL": "https://www.jetstar.com/vn/vi/help/tags/lounges",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Thông tin và các chính sách về du lịch",
+         "Links":[
+            {
+               "Label":"Xác nhận tình trạng sức khỏe",
+               "URL": "https://www.jetstar.com/vn/vi/fly-well",
+               "Updated":"False"
+            },
+            {
+               "Label":"Trợ giúp đặc biệt",
+                "URL": "https://www.jetstar.com/vn/vi/help/articles/specific-assistance",
+               "Updated":"False"
+            },
+            
+            {
+               "Label":"Trẻ em đi máy bay một mình",
+               "URL": "https://www.jetstar.com/vn/vi/help/articles/independent-travellers-and-accompanying-passengers",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Công cụ của Đại lý",
+         "Links":[
+            {
+               "Label":"NEW! Đăng ký CLB người bán vé với nhiều tiện ích hấp dẫn",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Dang ky CLB danh cho.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Tham khảo Jetstar Agency Hub",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Tour_the_Jetstar_Agent_Hub_EN.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Câu hỏi thường gặp của Jetstar Agent Hub",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Jetstar_Agent_Hub_FAQ_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Quản lý hồ sơ đại lý",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Manage_Agency_Profile_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Quản lý đặt chỗ",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Manage_Your_Bookings_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Hướng dẫn người sử dụng hệ thống BSP",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/BSP_user_guide_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Hướng dẫn người sử dụng hệ thống GDS",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/GDS_Guide_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Liên hệ",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Trade_and_group_contacts_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Câu hỏi thường gặp về khách đoàn",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Group_travel_FAQ_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Nhiệm vụ của Đại lý Jetstar",
+               "URL":"https://www.jetstar.com/vn/vi/agentinfo/Home/What-we-offer/Travel-Agents",
+               "Updated":"False"
+            },
+            {
+               "Label":"Phương thức thanh toán qua đại lý",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Trade_payment_options_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Bảng dịch vụ đi kèm áp dụng cho giá vé phân phối qua hệ thống GDS",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/GDS_Fare_Matrix_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Thông tin hoa hồng đại lý",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Remuneration_VI.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Điều kiện và điều khoản của Đại lý",
+               "URL":"https://www.jetstar.com/vn/vi/agentinfo/Home/What-we-offer/Travel-Agents/Travel-Agent-Terms-and-Conditions",
+               "Updated":"False"
+            }
+         ]
+      }
+   ],
+   "footer":[
+      {
+         "Label":"Liên hệ",
+         "URL": "https://www.jetstar.com/vn/vi/contact-us"
+      },
+      {
+         "Label":"Customer Guarantee",
+         "URL": "https://www.jetstar.com/vn/vi/customer-guarantee"
+      },
+      {
+         "Label":"Privacy policy",
+         "URL":"http://www.jetstar.com/vn/vi/privacy policy"
+      },
+      {
+         "Label":"Website Terms of use",
+         "URL":"http://www.jetstar.com/vn/vi/still have questions/terms of use"
+      },
+      {
+         "Label":"Terms & Conditions of Carriage",
+         "URL":"http://www.jetstar.com/vn/vi/terms and conditions"
+      }
+   ],
+   "banners":[
+      {
+         "Name":"MREC",
+         "Image":"//www.jetstar.com/vn/vi/agentinfo//~/_media/Jetstar Vietnam/Images/Banners/Mazda AgentHub 12Nov.jpg?bc=White",
+         "Caption":"Cho ngoi rong chan",
+         "URL":""
+      }
+   ]
+}

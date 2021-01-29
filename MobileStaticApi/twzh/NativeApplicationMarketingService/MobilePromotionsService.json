@@ -1,0 +1,30 @@
+[
+  {
+    "HasLandingPage": false,
+    "LandingPageCTAText": "",
+    "LandingPageCTAURL": "",
+    "LandingPageImage": "",
+    "LandingPageText": "",
+    "LandingPageTitle": "",
+    "PromotionEndDate": "0001-01-01T00:00:00+00:00",
+    "PromotionStartDate": "0001-01-01T00:00:00+00:00",
+    "PromotionalPanelImage": "https://www.jetstar.com/MobileStaticApi/twzh/NativeApplicationMarketingService/MobilePromotionsService-PromotionalPanelImage-L2/extraservice_mobile_1500x900_HKZH.jpg?bc=White",
+    "PromotionalPanelImageCTAText": "了解詳情",
+    "PromotionalPanelImageTermsAndConditions": "",
+    "PromotionalPanelURL": "https:\/\/book.jetstar.com\/RetrieveBooking.aspx"
+  },
+  {
+    "HasLandingPage": false,
+    "LandingPageCTAText": "",
+    "LandingPageCTAURL": "",
+    "LandingPageImage": "",
+    "LandingPageText": "",
+    "LandingPageTitle": "",
+    "PromotionEndDate": "2015-05-13T02:55:00+00:00",
+    "PromotionStartDate": "2015-05-12T22:55:00+00:00",
+    "PromotionalPanelImage": "https://www.jetstar.com/MobileStaticApi/twzh/NativeApplicationMarketingService/MobilePromotionsService-PromotionalPanelImage-L2/20150512_App_Banner_01.jpg?bc=White",
+    "PromotionalPanelImageCTAText": "了解詳情",
+    "PromotionalPanelImageTermsAndConditions": "",
+    "PromotionalPanelURL": "http:\/\/booknow.jetstar.com\/sorry.html"
+  }
+] 

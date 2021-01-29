@@ -1,0 +1,190 @@
+{
+   "informationCenter":[
+      {
+         "ColumnName":"Jaringan, harga-harga & bagasi",
+         "Links":[
+            {
+               "Label":"Harga dan Paketnya",
+               "URL": "https://www.jetstar.com/id/id/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":"Program Partner Maskapai Penerbangan",
+               "URL": "http://agenthub.jetstar.com/id/id/agentinfo/planning-and-booking/flight-connections",
+               "Updated":"False"
+            },
+            {
+               "Label":"Peraturan Harga",
+              "URL": "https://www.jetstar.com/id/id/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":" Reservasi & Harga Grup",
+               "URL": "https://www.jetstar.com/id/id/flights/group-bookings",
+               "Updated":"False"
+            },
+            {
+               "Label":" Reservasi & Harga Grup (template)",
+               "URL":"https://www.jetstar.com/id/id/Group%20quotes%20and%20bookings%20template",
+               "Updated":"False"
+            },
+            {
+               "Label":"Bagasi yang dilaporkan",
+               "URL": "https://www.jetstar.com/id/id/flights/baggage/checked-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"Bagasi kabin",
+               "URL": "https://www.jetstar.com/id/id/help/articles/carry-on-baggage-what-can-i-bring-on-board",
+               "Updated":"False"
+            },
+            {
+               "Label":"Biaya-biaya",
+                "URL": "https://www.jetstar.com/id/id/help/articles/fees-and-charges",
+               "Updated":"False"
+            },
+            {
+               "Label":"Barang Berat",
+               "URL": "https://www.jetstar.com/id/id/flights/baggage/oversized-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"Barang berbahaya",
+                "URL": "https://www.jetstar.com/id/id/help/articles/what-cant-i-carry-on-board-prohibited-items",
+               "Updated":"False"
+            },
+            {
+               "Label":"Layanan bagasi",
+               "URL": "https://www.jetstar.com/id/id/contact-us/lost-damaged-and-delayed-baggage",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Bandara & Layanan dalam Pesawat",
+         "Links":[
+            {
+               "Label":"Check-in",
+                "URL": "https://www.jetstar.com/id/id/help/articles/checking-in",
+               "Updated":"False"
+            },
+            {
+               "Label":"Penerbangan Lanjutan",
+               "URL": "http://agenthub.jetstar.com/id/id/agentinfo/planning-and-booking/flight-connections",
+               "Updated":"False"
+            },
+            {
+               "Label":"Interline and codeshare",
+               "URL":"https://www.jetstar.com/~/_media/D6889D280C0B4655AA372E4338E44BE4.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"Kelas Ekonomi",
+               "URL": "https://www.jetstar.com/id/id/flights/economy",
+               "Updated":"False"
+            },
+            {
+               "Label":"Kelas Bisnis",
+               "URL": "https://www.jetstar.com/id/id/flights/business-class",
+               "Updated":"False"
+            },
+            {
+               "Label":"Pilihan Kursi",
+               "URL": "https://www.jetstar.com/id/id/flights/seats",
+               "Updated":"False"
+            },
+            {
+               "Label":"Informasi Bandara &amp; Terminal",
+                "URL": "https://www.jetstar.com/id/id/help/articles/airports-and-terminals",
+               "Updated":"False"
+            },
+            {
+               "Label":"Naik pesawat",
+               "URL":"https://www.jetstar.com/id/id/help/articles/when-to-get-to-the-airport-for-domestic-flights",
+               "Updated":"False"
+            },
+            {
+               "Label":"Layanan Makanan & Minuman dalam pesawat",
+                "URL": "https://www.jetstar.com/id/id/flights/food-and-drinks",
+               "Updated":"False"
+            },
+            {
+               "Label":"Layanan hiburan dalam pesawat",
+                "URL": "https://www.jetstar.com/id/id/flights/entertainment",
+               "Updated":"False"
+            },
+            {
+               "Label":"Layanan dalam pesawat lainnya",
+               "URL": "https://www.jetstar.com/id/id/flights/comfort-packs",
+               "Updated":"False"
+            },
+            {
+               "Label":"Ruang tunggu",
+               "URL": "https://www.jetstar.com/id/id/help/tags/lounges",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"Berita terkini & Kebijakan perjalanan",
+         "Links":[
+            {
+               "Label":"Persetujuan Kesehatan",
+               "URL": "https://www.jetstar.com/id/id/fly-well",
+               "Updated":"False"
+            },
+            {
+               "Label":"Bantuan khusus",
+                "URL": "https://www.jetstar.com/id/id/help/articles/specific-assistance",
+               "Updated":"False"
+            },
+            {
+               "Label":"Perubahan Jadwal & Kebijakan Gangguan Perjalanan",
+               "URL":"http://www.jetstar.com/~/_media/920A4BB3C2F6461DA8839AAA9FBE7307.pdf",
+               "Updated":"False"
+            },
+            
+            {
+               "Label":"Pusat Info Media Jetstar",
+               "URL":"https://newsroom.jetstar.com",
+               "Updated":"False"
+            },
+            {
+               "Label":"Anak kecil tanpa pendamping",
+               "URL": "https://www.jetstar.com/id/id/help/articles/independent-travellers-and-accompanying-passengers",
+               "Updated":"False"
+            }
+         ]
+      }
+   ],
+   "footer":[
+      {
+         "Label":"聯絡我們",
+         "URL": "https://www.jetstar.com/id/id/contact-us"
+      },
+      {
+         "Label":"客戶保證",
+         "URL": "https://www.jetstar.com/id/id/customer-guarantee"
+      },
+      {
+         "Label":"隱私權政策",
+         "URL": "https://www.jetstar.com/id/id/privacy-policy"
+      },
+      {
+         "Label":"使用條款",
+         "URL": "http://www.jetstar.com/id/id/terms of use"
+      },
+      {
+         "Label":"條款及細則",
+         "URL": "http://www.jetstar.com/id/id/terms and conditions"
+      }
+   ],
+   "banners":[
+      {
+         "Name":"Banner 1",
+         "Image":"\/\/www.jetstar.com\/id\/id\/businessagentinfo\/\/~\/_media\/Tradesite\/Banners\/MREC_Agent_ID.jpg?bc=White",
+         "Caption":"This is test",
+         "URL":"\/\/www.jetstar.com\/mediacentre\/home"
+      }
+   ]
+}

@@ -1,0 +1,469 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "DG-TJQ",
+            "Value": "勿里洞<br \/>"
+        },
+        {
+            "Key": "DG-ADL",
+            "Value": "阿德莱德"
+        },
+        {
+            "Key": "DG-AKL",
+            "Value": "奥克兰"
+        },
+        {
+            "Key": "DG-AVV",
+            "Value": "墨尔本"
+        },
+        {
+            "Key": "DG-AYQ",
+            "Value": "艾尔斯岩"
+        },
+        {
+            "Key": "DG-BKK",
+            "Value": "曼谷"
+        },
+        {
+            "Key": "DG-BLR",
+            "Value": "印度班加罗尔"
+        },
+        {
+            "Key": "DG-BMV",
+            "Value": "邦美蜀"
+        },
+        {
+            "Key": "DG-BNE",
+            "Value": "布里斯班"
+        },
+        {
+            "Key": "DG-BNK",
+            "Value": "巴利纳拜伦"
+        },
+        {
+            "Key": "DG-BOM",
+            "Value": "印度孟买"
+        },
+        {
+            "Key": "DG-BQB",
+            "Value": "巴瑟尔顿玛格丽特河 (Busselton Margaret River)"
+        },
+        {
+            "Key": "DG-CAN",
+            "Value": "广州"
+        },
+        {
+            "Key": "DG-CBR",
+            "Value": "堪培拉"
+        },
+        {
+            "Key": "DG-CCU",
+            "Value": "印度加尔各答"
+        },
+        {
+            "Key": "DG-CGK",
+            "Value": "雅加达"
+        },
+        {
+            "Key": "DG-CGO",
+            "Value": "郑州"
+        },
+        {
+            "Key": "DG-CHC",
+            "Value": "基督城"
+        },
+        {
+            "Key": "DG-CMB",
+            "Value": "科伦坡"
+        },
+        {
+            "Key": "DG-CNS",
+            "Value": "凯恩斯"
+        },
+        {
+            "Key": "DG-CNX",
+            "Value": "清迈"
+        },
+        {
+            "Key": "DG-CRK",
+            "Value": "克拉克"
+        },
+        {
+            "Key": "DG-CSX",
+            "Value": "长沙"
+        },
+        {
+            "Key": "DG-CTS",
+            "Value": "札幌 (新千岁)"
+        },
+        {
+            "Key": "DG-CXR",
+            "Value": "芽庄"
+        },
+        {
+            "Key": "DG-DAD",
+            "Value": "岘港"
+        },
+        {
+            "Key": "DG-DDI",
+            "Value": "白日梦岛"
+        },
+        {
+            "Key": "DG-DEL",
+            "Value": "德里"
+        },
+        {
+            "Key": "DG-DLI",
+            "Value": "Da Lat"
+        },
+        {
+            "Key": "DG-DPS",
+            "Value": "巴厘島"
+        },
+        {
+            "Key": "DG-DRW",
+            "Value": "达尔文"
+        },
+        {
+            "Key": "DG-DUD",
+            "Value": "达尼丁"
+        },
+        {
+            "Key": "DG-FUK",
+            "Value": "福冈"
+        },
+        {
+            "Key": "DG-HAK",
+            "Value": "海口"
+        },
+        {
+            "Key": "DG-HAN",
+            "Value": "河内"
+        },
+        {
+            "Key": "DG-HAP",
+            "Value": "长岛"
+        },
+        {
+            "Key": "DG-HBA",
+            "Value": "霍巴特"
+        },
+        {
+            "Key": "DG-HDY",
+            "Value": "合艾"
+        },
+        {
+            "Key": "DG-HFE",
+            "Value": "合肥"
+        },
+        {
+            "Key": "DG-HGH",
+            "Value": "杭州"
+        },
+        {
+            "Key": "DG-HIS",
+            "Value": "海曼岛"
+        },
+        {
+            "Key": "DG-HKG",
+            "Value": "香港"
+        },
+        {
+            "Key": "DG-HKT",
+            "Value": "普吉"
+        },
+        {
+            "Key": "DG-HNL",
+            "Value": "火奴鲁鲁"
+        },
+        {
+            "Key": "DG-HPH",
+            "Value": "海防"
+        },
+        {
+            "Key": "DG-HTI",
+            "Value": "汉密尔顿岛"
+        },
+        {
+            "Key": "DG-HUI",
+            "Value": "順化"
+        },
+        {
+            "Key": "DG-ICN",
+            "Value": ""
+        },
+        {
+            "Key": "DG-JLM",
+            "Value": "Canberra (Jolimont Bus Station)"
+        },
+        {
+            "Key": "DG-KCZ",
+            "Value": "高知"
+        },
+        {
+            "Key": "DG-KHH",
+            "Value": "高雄"
+        },
+        {
+            "Key": "DG-KIX",
+            "Value": "大阪"
+        },
+        {
+            "Key": "DG-KMI",
+            "Value": "宫崎"
+        },
+        {
+            "Key": "DG-KMJ",
+            "Value": "熊本"
+        },
+        {
+            "Key": "DG-KNO",
+            "Value": "棉兰"
+        },
+        {
+            "Key": "DG-KOJ",
+            "Value": "鹿儿岛"
+        },
+        {
+            "Key": "DG-KUL",
+            "Value": "吉隆坡"
+        },
+        {
+            "Key": "DG-KWE",
+            "Value": "贵阳"
+        },
+        {
+            "Key": "DG-LOP",
+            "Value": "龙目岛"
+        },
+        {
+            "Key": "DG-LST",
+            "Value": "朗塞斯顿"
+        },
+        {
+            "Key": "DG-MAA",
+            "Value": "印度金奈"
+        },
+        {
+            "Key": "DG-MCY",
+            "Value": "阳光海岸"
+        },
+        {
+            "Key": "DG-MEL",
+            "Value": "墨尔本"
+        },
+        {
+            "Key": "DG-MFM",
+            "Value": "澳门"
+        },
+        {
+            "Key": "DG-MKY",
+            "Value": "麦凯"
+        },
+        {
+            "Key": "DG-MNL",
+            "Value": "马尼拉"
+        },
+        {
+            "Key": "DG-MYJ",
+            "Value": "松山市"
+        },
+        {
+            "Key": "DG-NAN",
+            "Value": "纳迪"
+        },
+        {
+            "Key": "DG-NGO",
+            "Value": "名古屋"
+        },
+        {
+            "Key": "DG-NGS",
+            "Value": "长崎"
+        },
+        {
+            "Key": "DG-NPE",
+            "Value": "内皮尔"
+        },
+        {
+            "Key": "DG-NPL",
+            "Value": "新普利茅斯"
+        },
+        {
+            "Key": "DG-NRT",
+            "Value": "东京"
+        },
+        {
+            "Key": "DG-NSN",
+            "Value": "尼尔森"
+        },
+        {
+            "Key": "DG-NTL",
+            "Value": "纽卡斯尔"
+        },
+        {
+            "Key": "DG-OIT",
+            "Value": "大分市"
+        },
+        {
+            "Key": "DG-OKA",
+            "Value": "冲绳岛"
+        },
+        {
+            "Key": "DG-OOL",
+            "Value": "黄金海岸"
+        },
+        {
+            "Key": "DG-PEK",
+            "Value": "北京"
+        },
+        {
+            "Key": "DG-PEN",
+            "Value": "槟城"
+        },
+        {
+            "Key": "DG-PER",
+            "Value": "珀斯"
+        },
+        {
+            "Key": "DG-PKU",
+            "Value": "Pekanbaru"
+        },
+        {
+            "Key": "DG-PLM",
+            "Value": "Palembang"
+        },
+        {
+            "Key": "DG-PMR",
+            "Value": "北帕默斯顿"
+        },
+        {
+            "Key": "DG-PNH",
+            "Value": "金边"
+        },
+        {
+            "Key": "DG-PPP",
+            "Value": "圣灵群岛海岸"
+        },
+        {
+            "Key": "DG-PQC",
+            "Value": "富国岛"
+        },
+        {
+            "Key": "DG-PVG",
+            "Value": "上海"
+        },
+        {
+            "Key": "DG-PXU",
+            "Value": "Pleiku"
+        },
+        {
+            "Key": "DG-RAR",
+            "Value": "拉罗汤加"
+        },
+        {
+            "Key": "DG-REP",
+            "Value": "暹粒"
+        },
+        {
+            "Key": "DG-RGN",
+            "Value": "仰光"
+        },
+        {
+            "Key": "DG-SGN",
+            "Value": "胡志明市"
+        },
+        {
+            "Key": "DG-SHI",
+            "Value": "宫古 (下地岛)"
+        },
+        {
+            "Key": "DG-SIN",
+            "Value": "新加坡"
+        },
+        {
+            "Key": "DG-SUB",
+            "Value": "泗水"
+        },
+        {
+            "Key": "DG-SWA",
+            "Value": "汕头"
+        },
+        {
+            "Key": "DG-SYD",
+            "Value": "悉尼"
+        },
+        {
+            "Key": "DG-SYO",
+            "Value": "庄內"
+        },
+        {
+            "Key": "DG-SYX",
+            "Value": "三亚凤凰国际机场"
+        },
+        {
+            "Key": "DG-TAK",
+            "Value": "高松"
+        },
+        {
+            "Key": "DG-TBB",
+            "Value": "绥和"
+        },
+        {
+            "Key": "DG-THD",
+            "Value": "清化"
+        },
+        {
+            "Key": "DG-TPE",
+            "Value": "台北"
+        },
+        {
+            "Key": "DG-TRZ",
+            "Value": "印度蒂鲁吉拉伯利"
+        },
+        {
+            "Key": "DG-TSV",
+            "Value": "汤斯维尔"
+        },
+        {
+            "Key": "DG-UIH",
+            "Value": "归仁"
+        },
+        {
+            "Key": "DG-VCA",
+            "Value": "芹苴"
+        },
+        {
+            "Key": "DG-VCL",
+            "Value": "茱莱"
+        },
+        {
+            "Key": "DG-VDH",
+            "Value": "洞海"
+        },
+        {
+            "Key": "DG-VII",
+            "Value": "荣市"
+        },
+        {
+            "Key": "DG-VIZ",
+            "Value": "墨尔本"
+        },
+        {
+            "Key": "DG-WLG",
+            "Value": "惠灵顿"
+        },
+        {
+            "Key": "DG-WUH",
+            "Value": "武汉市"
+        },
+        {
+            "Key": "DG-XUZ",
+            "Value": "徐州"
+        },
+        {
+            "Key": "DG-ZQN",
+            "Value": "皇后镇"
+        }
+    ],
+    "Promotions": null
+}

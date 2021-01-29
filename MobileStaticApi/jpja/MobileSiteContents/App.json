@@ -1,0 +1,2597 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "AJ-app-3KVF",
+            "Value": "ジェットスター・アジア航空（3K）"
+        },
+        {
+            "Key": "AJ-app-AboutJetstarLink",
+            "Value": "https:\/\/mobile.jetstar.com\/s\/about"
+        },
+        {
+            "Key": "AJ-app-BL",
+            "Value": "ジェットスター・パシフィック航空（BL)"
+        },
+        {
+            "Key": "AJ-app-GK",
+            "Value": "ジェットスター・ジャパン（GK)"
+        },
+        {
+            "Key": "App-About",
+            "Value": "さらに詳しく"
+        },
+        {
+            "Key": "App-Alipay-App-Store-URL",
+            "Value": "itms-apps:\/\/itunes.apple.com\/app\/id333206289"
+        },
+        {
+            "Key": "App-Banner-AppStore",
+            "Value": "App Storeで入手できます"
+        },
+        {
+            "Key": "App-Banner-Company",
+            "Value": "Jetstar Airways Pty Ltd"
+        },
+        {
+            "Key": "App-Banner-GooglePlay",
+            "Value": "Google Playでダウンロード"
+        },
+        {
+            "Key": "App-Banner-Header",
+            "Value": "ジェットスター"
+        },
+        {
+            "Key": "App-Banner-Installed",
+            "Value": "インストール済み"
+        },
+        {
+            "Key": "App-Banner-SubHeading",
+            "Value": "フライト予約 | チェックイン"
+        },
+        {
+            "Key": "App-ConditionsApply",
+            "Value": "諸条件が適用されます"
+        },
+        {
+            "Key": "App-Dialog-Cancel",
+            "Value": "キャンセル"
+        },
+        {
+            "Key": "App-Dialog-Close",
+            "Value": "閉じる"
+        },
+        {
+            "Key": "App-Dialog-ExitCheckInConfirmation",
+            "Value": "「閉じる」をタップすると、チェックインが中断されます。本当に閉じますか？"
+        },
+        {
+            "Key": "App-Dialog-ExitConfirmation",
+            "Value": "「閉じる」をタップすると予約画面を離れ、フライト検索に戻ります。カートの中身はすべて失われます。本当に閉じますか？"
+        },
+        {
+            "Key": "App-Dialog-ExitMMBConfirmation",
+            "Value": "「閉じる」をタップするとご予約内容に戻ります。カート内の中身はすべて失われます。本当に閉じますか？"
+        },
+        {
+            "Key": "App-DisruptPortalURL",
+            "Value": "https:\/\/booking.jetstar.com\/jp\/ja\/booking\/recovery\/search?pnr={0}&email={1}&mobile=true&utm_source=app&utm_medium=push&utm_campaign=disrupt"
+        },
+        {
+            "Key": "App-ErrorMessageForSSL",
+            "Value": "公衆無線LANに接続している ため、ネットワークの安全性が 確保できません。安全性に関し てご了承のうえ、お客様自身の 責任において、本サービスをご 利用ください（一部機能が制限 されます）。"
+        },
+        {
+            "Key": "App-FullSite-auen",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-cnzh",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-hken",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-hkzh",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-iden",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-idid",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-jpen",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-jpja",
+            "Value": "http:\/\/www.jetstar.com\/jp\/ja\/home?fullsite=true"
+        },
+        {
+            "Key": "App-FullSite-krko",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-myen",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-nzen",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-sgen",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-sgzh",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-then",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-twzh",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-vnen",
+            "Value": ""
+        },
+        {
+            "Key": "App-FullSite-vnvi",
+            "Value": ""
+        },
+        {
+            "Key": "App-LastUpdate",
+            "Value": "最新の更新"
+        },
+        {
+            "Key": "App-LastUpdated",
+            "Value": "最新の更新"
+        },
+        {
+            "Key": "App-LastUpdated-AMinuteAgo",
+            "Value": "a minute ago"
+        },
+        {
+            "Key": "App-LastUpdated-MinutesAgo",
+            "Value": "minutes ago"
+        },
+        {
+            "Key": "App-LastUpdated-SecondsAgo",
+            "Value": "a few seconds ago"
+        },
+        {
+            "Key": "App-LoadingScreenDestinations",
+            "Value": "メルボルン、シンガポール、ブリスベン、シドニー、バンコク、東京、パース、オークランド、ダーウィン、バリ、プーケット、ケアンズ、香港、札幌、マニラ、ウェリントン、タウンズビル、ホノルル、ハノイ、フィジー"
+        },
+        {
+            "Key": "App-Login-ServerTimeout",
+            "Value": ""
+        },
+        {
+            "Key": "App-MBP-AddToPassbook",
+            "Value": "Passbook\/Walletに保存"
+        },
+        {
+            "Key": "App-MBP-AddToWallet",
+            "Value": "Walletに保存"
+        },
+        {
+            "Key": "App-MBP-Back-320CarryOnBaggageTxt-FBizNoBg",
+            "Value": "お手荷物2点（計7kgまで、キャリーケースなどは各辺が56 x 23 x 36cm以内）に加えて、ノートパソコンなど座席下に収まるサイズのお手荷物1点をお持ち込みいただけます。"
+        },
+        {
+            "Key": "App-MBP-Back-320CarryOnBaggageTxt-FBizWithBg",
+            "Value": "お手荷物2点（計7kgまで、キャリーケースなどは各辺が56 x 23 x 36cm以内）に加えて、ノートパソコンなど座席下に収まるサイズのお手荷物1点をお持ち込みいただけます。制限を超えるお手荷物はお預けいただく必要があり、受託手荷物料金がかかります。お手荷物をお預けにならないお客様は、そのまま搭乗ゲートへお越しください。"
+        },
+        {
+            "Key": "App-MBP-Back-Aircraft",
+            "Value": "航空機"
+        },
+        {
+            "Key": "App-MBP-Back-AllowPlentyOfTime",
+            "Value": "ご搭乗前のご準備"
+        },
+        {
+            "Key": "App-MBP-Back-AllowPlentyOfTimeTxt",
+            "Value": "手荷物のお預かりおよび搭乗締切時刻をご確認のうえ、時間に余裕をもって空港保安検査場および搭乗ゲートにお越しください。"
+        },
+        {
+            "Key": "App-MBP-Back-Baggage",
+            "Value": "お手荷物"
+        },
+        {
+            "Key": "App-MBP-Back-BeforeYouTravel",
+            "Value": "BEFORE YOU TRAVEL"
+        },
+        {
+            "Key": "App-MBP-Back-BeforeYouTravelTxt",
+            "Value": "Please make sure that you have all of the necessary visas and relevant documents required for travel to your destination(s)."
+        },
+        {
+            "Key": "App-MBP-Back-BoardingTime",
+            "Value": "搭乗時刻"
+        },
+        {
+            "Key": "App-MBP-Back-BoardingTimeTxt",
+            "Value": "出発時刻の25分前までに、搭乗ゲートにお越しください。"
+        },
+        {
+            "Key": "App-MBP-Back-BoardingTimeTxt-3K",
+            "Value": "出発時刻の40分前までに、搭乗ゲートにお越しください。"
+        },
+        {
+            "Key": "App-MBP-Back-BookingReference",
+            "Value": "予約番号"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggage",
+            "Value": "機内持込手荷物"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggage3KG",
+            "Value": "機内持込手荷物"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggage3KGTxt",
+            "Value": "機内に持ち込める手荷物は計2個、合わせて10kgまでです。キャリーバッグなどの大きめの荷物は各辺が56cm×23cm×36cm以内、お手回り品など小さめの荷物は機内のお座席下に納まるサイズに限ります。機内持込手荷物のみでご旅行のお客様は、空港にご到着後、保安検査場および出国審査へ直接お進みください。機内持込手荷物のサイズや重量等を搭乗ゲートにて確認しております。規定を超えるお手荷物は受託手荷物としてお預けいただく必要があり、料金がかかりますのでご注意ください。"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggage7KGTxt",
+            "Value": "機内にお持ち込みいただけるのは、キャリーケースなどのお手荷物1個とハンドバッグなどのお手回り品1個の計2個、合計14kgまでです（機内持込手荷物1個あたりの重量が10kgを超えないこと）。キャリーケースなどのお手荷物は高さ56cm*×幅36cm*×奥行23cm以内（お手荷物のサイズには、ハンドル、ポケット、キャスターなども含まれます）、ハンドバッグなどのお手回り品は機内のお座席下に納まるサイズに限ります。機内持込手荷物のみでご旅行のお客様は、空港にご到着後、保安検査場および出国審査へ直接お進みください。機内持込手荷物のサイズや重量等を搭乗ゲートにて確認しております。規定を超えるお手荷物は受託手荷物としてお預けいただく必要があり、料金がかかりますのでご注意ください。"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggageTxt",
+            "Value": "機内に持ち込める手荷物は計2個、合わせて7kgまでです。キャリーバッグなどの大きめの荷物は各辺が56cm×23cm×36cm以内、お手回り品など小さめの荷物は機内のお座席下に納まるサイズに限ります。機内持込手荷物のみでご旅行のお客様は、空港にご到着後、保安検査場および出国審査へ直接お進みください。機内持込手荷物のサイズや重量等を搭乗ゲートにて確認しております。規定を超えるお手荷物は受託手荷物としてお預けいただく必要があり、料金がかかりますのでご注意ください。"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggageTxt-FBIZ",
+            "Value": "With a FlexiBiz bundle you may carry on one main item and one small personal item with a total combined weight of up to 10kg"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggageTxt-GK",
+            "Value": "機内に持ち込める手荷物は計2個、合わせて7kgまでです。キャリーバッグなどの大きめの荷物は各辺が56cm×23cm×36cm以内、お手回り品など小さめの荷物は機内のお座席下に納まるサイズに限ります。"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggageTxt-Q30",
+            "Value": "機内に持ち込める手荷物は計2個、合わせて7kgまでです。キャリーバッグなどの大きめの荷物は各辺が56cm×23cm×36cm以内、お手回り品など小さめの荷物は機内のお座席下に納まるサイズに限ります。左記のサイズを超えた場合でも、「高さ56cm×幅36cm×奥行23cm、7kg」（通常の機内持込手荷物のサイズ・重量の規定）を超えなければ、受託手荷物として無料でお預けいただけます。チェックイン時にカウンターにてお申し出ください。機内持込手荷物のみでご旅行のお客様は、空港にご到着後、保安検査場および出国審査へ直接お進みください。機内持込手荷物のサイズや重量等を搭乗ゲートにて確認しております。規定を超えるお手荷物は受託手荷物としてお預けいただく必要があり、料金がかかりますのでご注意ください。"
+        },
+        {
+            "Key": "App-MBP-Back-CarryOnBaggageTxtQ300",
+            "Value": ""
+        },
+        {
+            "Key": "App-MBP-Back-CheckedBaggage",
+            "Value": "受託手荷物"
+        },
+        {
+            "Key": "App-MBP-Back-CheckIn",
+            "Value": "チェックイン"
+        },
+        {
+            "Key": "App-MBP-Back-Class",
+            "Value": "クラス"
+        },
+        {
+            "Key": "App-MBP-Back-CounterAndBagDropClose",
+            "Value": "チェックイン締切時刻"
+        },
+        {
+            "Key": "App-MBP-Back-CounterAndBagDropCloseTxt",
+            "Value": "チェックインおよび手荷物のお預かりは、出発時刻の30分前に締め切ります。"
+        },
+        {
+            "Key": "App-MBP-Back-CounterAndBagDropCloseTxt-3K",
+            "Value": "チェックインおよび手荷物のお預かりは、出発時刻の45分前に締め切ります。"
+        },
+        {
+            "Key": "App-MBP-Back-CounterAndBagDropOpen",
+            "Value": "チェックイン開始時刻"
+        },
+        {
+            "Key": "App-MBP-Back-CounterAndBagDropOpenTxt",
+            "Value": "チェックインおよび手荷物のお預かりは、出発時刻の2時間（120分）前から可能です。"
+        },
+        {
+            "Key": "App-MBP-Back-CounterAndBagDropOpenTxt-EAA-Q30",
+            "Value": "チェックインおよび手荷物のお預かりは、出発時刻の90分前から可能です。"
+        },
+        {
+            "Key": "App-MBP-Back-DeleteBP",
+            "Value": "モバイル搭乗券を削除"
+        },
+        {
+            "Key": "App-MBP-Back-Duration",
+            "Value": "飛行時間"
+        },
+        {
+            "Key": "App-MBP-Back-Extras",
+            "Value": "その他"
+        },
+        {
+            "Key": "App-MBP-Back-Flight",
+            "Value": "便名"
+        },
+        {
+            "Key": "App-MBP-Back-FlightCodeShare",
+            "Value": "コードシェア"
+        },
+        {
+            "Key": "App-MBP-Back-FlightDetails",
+            "Value": "フライト詳細"
+        },
+        {
+            "Key": "App-MBP-Back-InflightOptions",
+            "Value": "機内サービス"
+        },
+        {
+            "Key": "App-MBP-Back-Information",
+            "Value": "お読みください"
+        },
+        {
+            "Key": "App-MBP-Back-Legal",
+            "Value": "ご利用条件"
+        },
+        {
+            "Key": "App-MBP-Back-LegalText",
+            "Value": "ジェットスター航空により運航します。座席指定をされている場合でも、運航や安全上の理由で座席をお移りいただく場合があります。すべてのご旅行は、ジェットスターの運送約款に従うものとします。"
+        },
+        {
+            "Key": "App-MBP-Back-LegalText-3K",
+            "Value": "ジェットスター航空により運航します。座席指定をされている場合でも、運航や安全上の理由で座席をお移りいただく場合があります。すべてのご旅行は、ジェットスターの運送約款に従うものとします。"
+        },
+        {
+            "Key": "App-MBP-Back-LegalText-EAA",
+            "Value": "イースタン・オーストラリア航空がジェットスター航空に代わり運航。座席指定をされている場合でも、運航や安全上の理由で座席をお移りいただく場合があります。すべてのご旅行は、ジェットスターの運送約款に従うものとします。"
+        },
+        {
+            "Key": "App-MBP-Back-LegalTextQ300",
+            "Value": ""
+        },
+        {
+            "Key": "App-MBP-Back-LegalTxt",
+            "Value": "ジェットスター航空により運航します。座席指定をされている場合でも、運航や安全上の理由で座席をお移りいただく場合があります。すべてのご旅行は、ジェットスターの運送約款に従うものとします。"
+        },
+        {
+            "Key": "App-MBP-Back-LegalTxt-3K",
+            "Value": "Operated by Jetstar Asia Airways. We cannot guarantee any particular seat as we may need to change it for operational, safety or security reasons, even after you have boarded the aircraft. Travel is subject to the applicable Conditions of Carriage. From all of us at Jetstar, we hope you enjoy your flight."
+        },
+        {
+            "Key": "App-MBP-Back-LegalTxt-EAA",
+            "Value": "イースタン・オーストラリア航空がジェットスター航空に代わり運航。座席指定をされている場合でも、運航や安全上の理由で座席をお移りいただく場合があります。すべてのご旅行は、ジェットスターの運送約款に従うものとします。"
+        },
+        {
+            "Key": "App-MBP-Back-Meals",
+            "Value": "お食事"
+        },
+        {
+            "Key": "App-MBP-Back-NoExtrasPurchased",
+            "Value": "追加されたサービスはありません"
+        },
+        {
+            "Key": "App-MBP-Back-Operator",
+            "Value": "運航会社"
+        },
+        {
+            "Key": "App-MBP-Back-OtherOptions",
+            "Value": "その他"
+        },
+        {
+            "Key": "App-MBP-Back-Q300CarryOnBaggageTxt-FBizNoBg",
+            "Value": "お手荷物2点。計7kgまでのお手荷物1点（キャリーケースなどは各辺が48 x 34 x 23cm以内）に加えて、ノートパソコンなど座席下に収まるサイズのお手荷物1点をお持ち込みいただけます。"
+        },
+        {
+            "Key": "App-MBP-Back-Q300CarryOnBaggageTxt-FBizWithBg",
+            "Value": "お手荷物2点。計7kgまでのお手荷物1点（キャリーケースなどは各辺が48 x 34 x 23cm以内）に加えて、ノートパソコンなど座席下に収まるサイズのお手荷物1点をお持ち込みいただけます。制限を超えるお手荷物はお預けいただく必要があり、受託手荷物料金がかかります。お手荷物をお預けにならないお客様は、そのまま搭乗ゲートへお越しください。"
+        },
+        {
+            "Key": "App-MBP-Boarding",
+            "Value": "搭乗時刻"
+        },
+        {
+            "Key": "App-MBP-CabinClass-C",
+            "Value": "ビジネス"
+        },
+        {
+            "Key": "App-MBP-CabinClass-Y",
+            "Value": "エコノミー"
+        },
+        {
+            "Key": "App-MBP-CheckInRemainingPassengers",
+            "Value": "残りの搭乗者をチェックイン"
+        },
+        {
+            "Key": "App-MBP-FlightXofY",
+            "Value": "フライト {0} \/ {1}"
+        },
+        {
+            "Key": "App-MBP-Gate",
+            "Value": "搭乗ゲート"
+        },
+        {
+            "Key": "App-MBP-Group",
+            "Value": "グループ"
+        },
+        {
+            "Key": "App-MBP-INFT",
+            "Value": ""
+        },
+        {
+            "Key": "App-MBP-KeyMBPSSRs",
+            "Value": ""
+        },
+        {
+            "Key": "App-MBP-NextFlight",
+            "Value": "次のフライト"
+        },
+        {
+            "Key": "App-MBP-NoInternetAccess",
+            "Value": "インターネットに接続できません"
+        },
+        {
+            "Key": "App-MBP-NoNetwork",
+            "Value": "インターネットに接続できません"
+        },
+        {
+            "Key": "App-MBP-NoNetworkReferSignage",
+            "Value": "　"
+        },
+        {
+            "Key": "App-MBP-PassengerXofY",
+            "Value": "搭乗者 {0} \/ {1}"
+        },
+        {
+            "Key": "App-MBP-PastFlight",
+            "Value": "以前のフライト"
+        },
+        {
+            "Key": "App-MBP-PaxNotCheckedIn",
+            "Value": "チェックイン待ち"
+        },
+        {
+            "Key": "App-MBP-QRMissingNoInternet",
+            "Value": "搭乗券のQRコードを表示するには、インターネットへの接続が必要です"
+        },
+        {
+            "Key": "App-MBP-QRMissingOnline",
+            "Value": "搭乗券のQRコードを表示できませんでした。空港のジェットスタースタッフまでお問い合わせください。"
+        },
+        {
+            "Key": "App-MBP-RetrievingBoardingPass",
+            "Value": "搭乗券の取得中"
+        },
+        {
+            "Key": "App-MBP-Seat",
+            "Value": "座席"
+        },
+        {
+            "Key": "App-MBP-UpcomingFlight",
+            "Value": "次のフライト"
+        },
+        {
+            "Key": "App-MBP-ViewBoardingPass",
+            "Value": "搭乗券を表示"
+        },
+        {
+            "Key": "App-MBP-ViewBoardingPasses",
+            "Value": "搭乗券を表示"
+        },
+        {
+            "Key": "App-MN-opt-in-accept",
+            "Value": "プッシュ通知をオンにする"
+        },
+        {
+            "Key": "App-MN-opt-in-description",
+            "Value": "通知をオンにしておくと、セールやご予約に関するお知らせをご確認いただけます。"
+        },
+        {
+            "Key": "App-MN-opt-in-reject",
+            "Value": "今はオンにしない"
+        },
+        {
+            "Key": "App-MN-opt-in-title",
+            "Value": "通知の設定はあとから変更可能です。"
+        },
+        {
+            "Key": "App-MultiCityTrip",
+            "Value": "複数都市のフライト"
+        },
+        {
+            "Key": "App-MyJetstarMemberAlready",
+            "Value": "マイアカウントメンバーですか？"
+        },
+        {
+            "Key": "App-NextFlight",
+            "Value": "次のフライト"
+        },
+        {
+            "Key": "App-PopularDestinations",
+            "Value": "人気の就航地"
+        },
+        {
+            "Key": "App-PullDown",
+            "Value": "プルダウンしてアップデートする"
+        },
+        {
+            "Key": "App-Release",
+            "Value": "リリースしてアップデートする"
+        },
+        {
+            "Key": "App-Rooted-Warning",
+            "Value": "ジェットスターアプリはroot化されていない端末でのみご利用いただけます。"
+        },
+        {
+            "Key": "App-Rooted-Warning-Title",
+            "Value": "Android端末がroot化されています。"
+        },
+        {
+            "Key": "App-Settings",
+            "Value": "設定"
+        },
+        {
+            "Key": "App-SplOffrs-Change",
+            "Value": "変更"
+        },
+        {
+            "Key": "App-SplOffrs-DepartingFrom",
+            "Value": "出発地"
+        },
+        {
+            "Key": "App-SplOffrs-Destination",
+            "Value": "目的地"
+        },
+        {
+            "Key": "App-SplOffrs-ImpInfoNote",
+            "Value": "セール路線が表示されていても、販売を開始していない場合があります。右記のインフォメーションボタン（i）をタップし、セール期間をご確認ください。"
+        },
+        {
+            "Key": "App-SplOffrs-LessThan",
+            "Value": "Less Than"
+        },
+        {
+            "Key": "App-SplOffrs-NoOffersFrmLoc",
+            "Value": "申し訳ありません。セールが見つかりませんでした。"
+        },
+        {
+            "Key": "App-SplOffrs-NoResults",
+            "Value": "選択された出発地のセールは見つかりませんでした。"
+        },
+        {
+            "Key": "App-SplOffrs-OtherOffers",
+            "Value": "その他"
+        },
+        {
+            "Key": "App-SplOffrs-Price",
+            "Value": "運賃"
+        },
+        {
+            "Key": "App-SplOffrs-TryAgain",
+            "Value": "もう一度入力し直すか、キャンセルして前に戻ってください。"
+        },
+        {
+            "Key": "App-SplOffrs-TryAnthrLoc",
+            "Value": "その他の地域を検索してください。"
+        },
+        {
+            "Key": "App-Trip",
+            "Value": "{0}フライト"
+        },
+        {
+            "Key": "App-Update-Header",
+            "Value": "New version available"
+        },
+        {
+            "Key": "App-Update-Text",
+            "Value": "\u000aA new version of the Jetstar app is now available. You will need to update to this new version before you can continue using the app.\u000a\u000aPlease tap the button below to continue.\u000a"
+        },
+        {
+            "Key": "App-Update-UpdateApp",
+            "Value": "Update app"
+        },
+        {
+            "Key": "App-Updating",
+            "Value": "アップデートしています…"
+        },
+        {
+            "Key": "App-WhatsNew-Btn-Login",
+            "Value": "ログイン"
+        },
+        {
+            "Key": "App-WhatsNew-Btn-Next",
+            "Value": "次へ"
+        },
+        {
+            "Key": "App-WhatsNew-Btn-Skip",
+            "Value": "スキップする"
+        },
+        {
+            "Key": "App-WhatsNew-Pg1-Message-v2-5",
+            "Value": "モバイル搭乗券が利用できるようになりました！"
+        },
+        {
+            "Key": "App-WhatsNew-Pg1-Message-v3-0",
+            "Value": "モバイル搭乗券が利用できるようになりました！"
+        },
+        {
+            "Key": "App-WhatsNew-Pg1-Message-v3-1",
+            "Value": "旅行会社経由のご予約をアプリで確認"
+        },
+        {
+            "Key": "App-WhatsNew-Pg1-Message-v3-2",
+            "Value": "旅行会社経由のご予約をアプリで確認"
+        },
+        {
+            "Key": "App-WhatsNew-Pg2-Message-v2-5",
+            "Value": "搭乗券の保存・管理はWallet／Passbookアプリでラクラク"
+        },
+        {
+            "Key": "App-WhatsNew-Pg2-Message-v3-0",
+            "Value": "搭乗券の保存・管理はWallet／Passbookアプリでラクラク"
+        },
+        {
+            "Key": "App-WhatsNew-Pg2-Message-v3-1",
+            "Value": "ご予約番号を入力して新規の予約が可能に"
+        },
+        {
+            "Key": "App-WhatsNew-Pg2-Message-v3-2",
+            "Value": "ご予約番号を入力して新規の予約が可能に"
+        },
+        {
+            "Key": "App-WhatsNew-Pg3-Message-v2-5",
+            "Value": "複数名でのご予約でもご利用できます"
+        },
+        {
+            "Key": "App-WhatsNew-Pg3-Message-v3-0",
+            "Value": "複数名でのご予約でもご利用できます"
+        },
+        {
+            "Key": "App-WhatsNew-Pg3-Message-v3-1",
+            "Value": "予約の確認／変更にログイン、または新規登録"
+        },
+        {
+            "Key": "App-WhatsNew-Pg3-Message-v3-2",
+            "Value": "予約の確認／変更にログイン、または新規登録"
+        },
+        {
+            "Key": "App-WhatsNew-Pg4-Message-v2-5",
+            "Value": "新しくなったジェットスターアプリでさっそく予約＆チェックインしてみる"
+        },
+        {
+            "Key": "App-WhatsNew-Pg4-Message-v3-0",
+            "Value": "新しくなったジェットスターアプリでさっそく予約＆チェックインしてみる"
+        },
+        {
+            "Key": "CC-app-au-en",
+            "Value": "Australia (English)"
+        },
+        {
+            "Key": "CC-app-cn-zh",
+            "Value": "中国 (中文)"
+        },
+        {
+            "Key": "CC-app-CountrySetting",
+            "Value": "言語の設定"
+        },
+        {
+            "Key": "CC-app-hk-en",
+            "Value": "Hong Kong SAR, China (English)"
+        },
+        {
+            "Key": "CC-app-hk-zh",
+            "Value": "香港特別行政區，中國 (繁體中文)"
+        },
+        {
+            "Key": "CC-app-id-en",
+            "Value": "Indonesia (English)"
+        },
+        {
+            "Key": "CC-app-id-id",
+            "Value": "Indonesia (Bahasa Indonesia)"
+        },
+        {
+            "Key": "CC-app-jp-ja",
+            "Value": "日本 (日本語)"
+        },
+        {
+            "Key": "CC-app-kr-en",
+            "Value": "South Korea (English)"
+        },
+        {
+            "Key": "CC-app-kr-ko",
+            "Value": "대한민국 (한국어)"
+        },
+        {
+            "Key": "CC-app-my-en",
+            "Value": "Malaysia (English)"
+        },
+        {
+            "Key": "CC-app-nz-en",
+            "Value": "New Zealand (English)"
+        },
+        {
+            "Key": "CC-app-SelectCountry",
+            "Value": "言語を選択してください。"
+        },
+        {
+            "Key": "CC-app-sg-en",
+            "Value": "Singapore (English)"
+        },
+        {
+            "Key": "CC-app-sg-zh",
+            "Value": "新加坡 (中文)"
+        },
+        {
+            "Key": "CC-app-th-en",
+            "Value": "Thailand (English)"
+        },
+        {
+            "Key": "CC-app-tw-en",
+            "Value": "Taiwan, China (English)"
+        },
+        {
+            "Key": "CC-app-tw-zh",
+            "Value": "台灣，中國 (繁體中文)"
+        },
+        {
+            "Key": "CC-app-vn-en",
+            "Value": "Vietnam (English)"
+        },
+        {
+            "Key": "CC-app-vn-vi",
+            "Value": "Việt Nam (Tiếng Việt)"
+        },
+        {
+            "Key": "CU-App-BaggageServices",
+            "Value": "手荷物サービス"
+        },
+        {
+            "Key": "CU-App-BaggageServicesSub",
+            "Value": "遺失物・荷物の破損に関するお問い合わせ"
+        },
+        {
+            "Key": "CU-App-BookingEnquiries",
+            "Value": "予約専用窓口"
+        },
+        {
+            "Key": "CU-App-BookingEnquiriesSub",
+            "Value": "予約に関するお問い合わせ"
+        },
+        {
+            "Key": "CU-App-Call",
+            "Value": "電話"
+        },
+        {
+            "Key": "CU-App-JetstarMasterCard",
+            "Value": "ジェットスターマスターカード"
+        },
+        {
+            "Key": "CU-App-JetstarMasterCardSub",
+            "Value": "一般的なご質問・カードの紛失\/盗難"
+        },
+        {
+            "Key": "CU-App-JetstarTravelCard",
+            "Value": "ジェットスター　トラベルカード"
+        },
+        {
+            "Key": "CU-App-JetstarTravelCardSub",
+            "Value": "一般的なご質問・カードの紛失\/盗難"
+        },
+        {
+            "Key": "CU-App-OfflineAcessText",
+            "Value": "設定をご確認のうえ、再度お試しください。<a href=\"jsr:\/\/retryhelp\">再試行<\/a>"
+        },
+        {
+            "Key": "CU-App-OfflineAcessTitle",
+            "Value": "ネットワークに接続していません。"
+        },
+        {
+            "Key": "CU-App-SelectACountry",
+            "Value": "国名を選択してください:"
+        },
+        {
+            "Key": "CU-App-ViewContactDetails",
+            "Value": "連絡先"
+        },
+        {
+            "Key": "GIGYA.GlobalLogin.Global.Social.Facebook",
+            "Value": ""
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-1",
+            "Value": "第1ターミナル"
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-2",
+            "Value": "第2ターミナル"
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-3",
+            "Value": "第3ターミナル"
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-4",
+            "Value": "第4ターミナル"
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-5",
+            "Value": "第5ターミナル"
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-6",
+            "Value": "第6ターミナル"
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-D",
+            "Value": "国内線"
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-I",
+            "Value": "国際線"
+        },
+        {
+            "Key": "MBP-App-TerminalLbl-M",
+            "Value": "メインターミナル"
+        },
+        {
+            "Key": "MCI-app-AlreadyCheckedIn",
+            "Value": "チェックイン済"
+        },
+        {
+            "Key": "MCI-app-CheckInAvailable",
+            "Value": "オンラインチェックイン利用可"
+        },
+        {
+            "Key": "MCI-app-CheckInUnavailable",
+            "Value": "オンラインチェックイン利用不可"
+        },
+        {
+            "Key": "MCI-app-InternetToCheckIn",
+            "Value": "オンラインチェックインにはインターネット接続が必要です。"
+        },
+        {
+            "Key": "MCI-app-MobileNotAvailable",
+            "Value": "このフライトでは、オンラインチェックインはご利用いただけません。空港チェックインカウンターでお手続きください。"
+        },
+        {
+            "Key": "MCI-app-MobileNotOpen",
+            "Value": "オンラインチェックイン受付開始時間前です。"
+        },
+        {
+            "Key": "MCI-app-NoInternet",
+            "Value": "インターネット接続がありません。"
+        },
+        {
+            "Key": "MCI-app-NoTripsAvailable",
+            "Value": "オンラインチェックインできるフライトはありません"
+        },
+        {
+            "Key": "MCI-app-NoTripsListed",
+            "Value": "<b>オンラインチェックインがご利用可能なフライト予約がお客様のマイアカウントにはありません。<\/b><br\/><br\/>マイアカウント以外でフライトを予約されている場合は、以下にご予約番号とご搭乗者の姓を入力してください。"
+        },
+        {
+            "Key": "MCI-app-TapHere",
+            "Value": "こちらをタップして別のフライトを探索してください"
+        },
+        {
+            "Key": "MCI-app-TripsNotListed",
+            "Value": "予約フライトはこちらには表示されていません。"
+        },
+        {
+            "Key": "MCI-BoardingPassGenerationError",
+            "Value": "搭乗券を送信いたしました。\u000a3時間経っても届かない場合は、ジェットスターのチェックインカウンターまたはサービスデスクまでお越しください。"
+        },
+        {
+            "Key": "MD-app-CallJetstar",
+            "Value": "お問い合わせ"
+        },
+        {
+            "Key": "MD-app-ContactJetstar",
+            "Value": "詳しくはコンタクトセンターまでお問い合わせください。"
+        },
+        {
+            "Key": "MD-app-day",
+            "Value": "{0}日前"
+        },
+        {
+            "Key": "MD-app-days",
+            "Value": "{0}日前"
+        },
+        {
+            "Key": "MD-app-FacebookAU",
+            "Value": "https:\/\/www.facebook.com\/JetstarAustralia"
+        },
+        {
+            "Key": "MD-app-FacebookAUPageID",
+            "Value": "144075565636170"
+        },
+        {
+            "Key": "MD-app-FacebookHK",
+            "Value": "https:\/\/www.facebook.com\/JetstarHK"
+        },
+        {
+            "Key": "MD-app-FacebookHKPageID",
+            "Value": "100855800067586"
+        },
+        {
+            "Key": "MD-app-FacebookJP",
+            "Value": "https:\/\/www.facebook.com\/JetstarJapan"
+        },
+        {
+            "Key": "MD-app-FacebookJPPageID",
+            "Value": "127558453993821"
+        },
+        {
+            "Key": "MD-app-FacebookNZ",
+            "Value": "https:\/\/www.facebook.com\/JetstarNZ"
+        },
+        {
+            "Key": "MD-app-FacebookNZPageID",
+            "Value": "125579224127314"
+        },
+        {
+            "Key": "MD-app-FacebookOtherCultures",
+            "Value": "https:\/\/www.facebook.com\/pages\/Jetstar-Asia\/31975232581"
+        },
+        {
+            "Key": "MD-app-FacebookOtherCulturesPageID",
+            "Value": "31975232581"
+        },
+        {
+            "Key": "MD-app-FacebookTW",
+            "Value": "https:\/\/www.facebook.com\/JetstarTW"
+        },
+        {
+            "Key": "MD-app-FacebookTWPageID",
+            "Value": "586458848112855"
+        },
+        {
+            "Key": "MD-app-FacebookVN",
+            "Value": "https:\/\/www.facebook.com\/JetstarVN"
+        },
+        {
+            "Key": "MD-app-FacebookVNPageID",
+            "Value": "251794101539472"
+        },
+        {
+            "Key": "MD-app-hour",
+            "Value": "{0}時間前"
+        },
+        {
+            "Key": "MD-app-hours",
+            "Value": "{0}時間前"
+        },
+        {
+            "Key": "MD-app-JetstarFacebook",
+            "Value": "Facebook"
+        },
+        {
+            "Key": "MD-app-JustForYou",
+            "Value": "お得な情報"
+        },
+        {
+            "Key": "MD-app-minute",
+            "Value": "{0}分前"
+        },
+        {
+            "Key": "MD-app-minutes",
+            "Value": "{0}分前"
+        },
+        {
+            "Key": "MD-app-NoNotifications",
+            "Value": "お知らせはありません。"
+        },
+        {
+            "Key": "MD-app-NoNotificationsTxt",
+            "Value": "現在、新着のお知らせはありません。"
+        },
+        {
+            "Key": "MD-App-NotificationDetailHdr-1",
+            "Value": "搭乗ゲート変更"
+        },
+        {
+            "Key": "MD-App-NotificationDetailHdr-2",
+            "Value": "オンラインチェックイン"
+        },
+        {
+            "Key": "MD-App-NotificationDetailHdr-3",
+            "Value": "遅延"
+        },
+        {
+            "Key": "MD-App-NotificationDetailHdr-4",
+            "Value": "欠航"
+        },
+        {
+            "Key": "MD-App-NotificationDetailHdr-7",
+            "Value": "出発時刻変更"
+        },
+        {
+            "Key": "MD-App-NotificationDetailHdr-11",
+            "Value": "搭乗開始"
+        },
+        {
+            "Key": "MD-app-NotificationDetailHdr-TravelAlert",
+            "Value": "重要なお知らせ"
+        },
+        {
+            "Key": "MD-app-Notifications",
+            "Value": "お知らせ"
+        },
+        {
+            "Key": "MD-App-NotificationType-1",
+            "Value": "搭乗ゲート変更"
+        },
+        {
+            "Key": "MD-App-NotificationType-2",
+            "Value": "オンラインチェックイン"
+        },
+        {
+            "Key": "MD-App-NotificationType-3",
+            "Value": "遅延"
+        },
+        {
+            "Key": "MD-App-NotificationType-4",
+            "Value": "欠航"
+        },
+        {
+            "Key": "MD-App-NotificationType-7",
+            "Value": "出発時刻変更"
+        },
+        {
+            "Key": "MD-App-NotificationType-11",
+            "Value": "搭乗開始"
+        },
+        {
+            "Key": "MD-app-TravelAlert",
+            "Value": "重要なお知らせ"
+        },
+        {
+            "Key": "MD-app-TravelAlerts",
+            "Value": "重要なお知らせ"
+        },
+        {
+            "Key": "MD-app-ViewBooking",
+            "Value": "予約確認"
+        },
+        {
+            "Key": "MD-app-YourTrip",
+            "Value": "ご予約便に関して"
+        },
+        {
+            "Key": "MJ-app-AboutCreditCards",
+            "Value": "クレジットカード情報設定"
+        },
+        {
+            "Key": "MJ-app-AboutEmailPreferences",
+            "Value": "Eメール配信設定"
+        },
+        {
+            "Key": "MJ-app-AccountSettings",
+            "Value": "アカウント設定"
+        },
+        {
+            "Key": "MJ-app-AccountSettingsSubText",
+            "Value": "Eメールアドレスとパスワードを変更"
+        },
+        {
+            "Key": "MJ-app-AccountSettingSubTitle",
+            "Value": "Eメールアドレスとパスワードを変更"
+        },
+        {
+            "Key": "MJ-app-ChangePasswordText",
+            "Value": "下記を入力し、パスワードを変更してください。"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarAutoRenew",
+            "Value": "Club Jetstar会員資格の自動更新"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarAutoRenew2",
+            "Value": "Club Jetstar会員資格の自動更新"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarAutoRenewDisabled",
+            "Value": "お客様のClub Jetstar会員資格は、今期で終了となります。"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarAutoRenewNo",
+            "Value": "Club Jetstar会員資格を自動で更新しない"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarAutoRenewNoSubText",
+            "Value": "私は、自身のClub Jetstar会員資格が{0}に自動で終了することを了解します。"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarAutoRenewSubText",
+            "Value": "私は、12ヵ月後に自動で自身のClub Jetstar会員資格が更新され、{0}に来期の会費がクレジットカードに請求されることを了解します。"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarBillingHistory",
+            "Value": "ご請求履歴"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarDeactivate",
+            "Value": "Club Jetstarを退会"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarDeactivated",
+            "Value": "{0}から退会されました。来期以降の会費は請求されません。"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarDeactivateSubText",
+            "Value": "Club Jetstarから本当に退会しますか？<br \/><br \/>\u000a退会すると、Club Jetstar会員限定の特典を一切受けることができなくなります。また、年会費の払い戻しはいたしません。"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarJoin",
+            "Value": "入会費"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarRenewal",
+            "Value": "更新"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarSettings1",
+            "Value": "Club Jetstar設定"
+        },
+        {
+            "Key": "MJ-app-ClubJetstarSettings2",
+            "Value": "Club Jetstar Japan設定"
+        },
+        {
+            "Key": "MJ-app-CommunicationPreferences",
+            "Value": "Eメール配信と通知受信設定"
+        },
+        {
+            "Key": "MJ-app-CommunicationSettings",
+            "Value": "Eメールと通知設定"
+        },
+        {
+            "Key": "MJ-app-CommunicationSettingsSubTitle",
+            "Value": "Eメールと自動通知設定"
+        },
+        {
+            "Key": "MJ-app-CreditCardsSubText",
+            "Value": "マイアカウントにクレジットカード情報を登録すると、PCサイトから予約される際のお支払い手続きがスムーズになります（アプリからご予約の場合は利用できません）。<br \/><br \/>\u000aクレジットカード情報の登録／変更は、下記のジェットスターのPC版ウェブサイトから行ってください。"
+        },
+        {
+            "Key": "MJ-app-DeactivateAccount",
+            "Value": ""
+        },
+        {
+            "Key": "MJ-app-DeactivateMyJetstar",
+            "Value": "アカウントの停止"
+        },
+        {
+            "Key": "MJ-app-DeactivateMyJetstarText",
+            "Value": "本当にアカウントを停止しますか？\u000a<br \/><br \/>\u000a現在ご登録のEメールアドレスとパスワードを入れてマイアカウントにログインすれば、いつでもアカウントを再開できます。"
+        },
+        {
+            "Key": "MJ-app-DocumentType",
+            "Value": "種類"
+        },
+        {
+            "Key": "MJ-app-EmailPreferences",
+            "Value": "Eメール配信設定"
+        },
+        {
+            "Key": "MJ-app-EmailPreferencesSubText",
+            "Value": "マイアカウントに登録しているEメールアドレスや、Eメールの配信設定を変更できます。<br \/><br \/>\u000a変更は、下記のジェットスターのPC版ウェブサイトから行う必要があります。"
+        },
+        {
+            "Key": "MJ-app-EmailSubtext",
+            "Value": "お客様のEメールアドレスがログインIDになります。ジェットスターから重要なメールが送信される場合もあるため、有効なEメールアドレスか必ずご確認ください。Eメールアドレスの変更はジェットスターのPC版ウェブサイトから行ってください。"
+        },
+        {
+            "Key": "MJ-app-IssuingCountry",
+            "Value": "発行国"
+        },
+        {
+            "Key": "MJ-app-MyProfile",
+            "Value": "お客様情報設定"
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid0",
+            "Value": "搭乗ゲートの変更"
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid1",
+            "Value": "搭乗ゲートの変更"
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid2",
+            "Value": "オンラインチェックイン"
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid3",
+            "Value": "遅延情報"
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid4",
+            "Value": "欠航情報"
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid5",
+            "Value": "セール情報"
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid6",
+            "Value": ""
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid11",
+            "Value": "搭乗開始"
+        },
+        {
+            "Key": "MJ-app-NotificationHeaderAndroid19",
+            "Value": "搭乗ゲートの変更"
+        },
+        {
+            "Key": "MJ-app-NotificationType1",
+            "Value": "搭乗ゲートの変更"
+        },
+        {
+            "Key": "MJ-app-NotificationType2",
+            "Value": "オンラインチェックイン"
+        },
+        {
+            "Key": "MJ-app-NotificationType3",
+            "Value": "遅延情報"
+        },
+        {
+            "Key": "MJ-app-NotificationType4",
+            "Value": "欠航情報"
+        },
+        {
+            "Key": "MJ-app-NotificationType5",
+            "Value": "セール情報"
+        },
+        {
+            "Key": "MJ-app-NotificationType6",
+            "Value": "その他の情報"
+        },
+        {
+            "Key": "MJ-app-NotificationType7",
+            "Value": "出発時刻の変更"
+        },
+        {
+            "Key": "MJ-app-NotificationType11",
+            "Value": "搭乗開始"
+        },
+        {
+            "Key": "MJ-app-NotificationType19",
+            "Value": "搭乗ゲートの変更"
+        },
+        {
+            "Key": "MJ-app-NotificationType-PartnerOffers",
+            "Value": "その他の情報"
+        },
+        {
+            "Key": "MJ-app-NotificationType-SalesOffers",
+            "Value": "セール情報"
+        },
+        {
+            "Key": "MJ-app-PassengerType",
+            "Value": "タイプ"
+        },
+        {
+            "Key": "MJ-app-PassportExpiry",
+            "Value": "有効期間満了日"
+        },
+        {
+            "Key": "MJ-app-PassportNumber",
+            "Value": "パスポート番号"
+        },
+        {
+            "Key": "MJ-app-PersonalDetails",
+            "Value": "お客様情報"
+        },
+        {
+            "Key": "MJ-app-PersonalDetailsSubText",
+            "Value": "お客様情報変更"
+        },
+        {
+            "Key": "MJ-app-PersonalDetailsSubText2",
+            "Value": "お客様情報をご登録いただいておくと、ご予約時に入力の手間が省けます。"
+        },
+        {
+            "Key": "MJ-app-PushNotifications",
+            "Value": "プッシュ通知"
+        },
+        {
+            "Key": "MJ-app-PushNotificationsSubText",
+            "Value": "受信を希望するプッシュ通知を選択してください"
+        },
+        {
+            "Key": "MJ-app-SelectOption",
+            "Value": "選択してください"
+        },
+        {
+            "Key": "MJ-app-TravelCompanionAdd",
+            "Value": "同行者設定"
+        },
+        {
+            "Key": "MJ-app-TravelCompanionDelete",
+            "Value": "同行者削除"
+        },
+        {
+            "Key": "MJ-app-TravelCompanions",
+            "Value": "同行者"
+        },
+        {
+            "Key": "MJ-app-TravelCompanionsSubText",
+            "Value": "マイアカウントに6名までの同行者の詳細を保存して、予約処理をスピードアップしましょう。 全ての情報は、{0}に準拠して処理します。"
+        },
+        {
+            "Key": "MJ-app-TravelCompanionsSubText2",
+            "Value": "同行者の情報を入力してください。"
+        },
+        {
+            "Key": "MJ-app-TravelCompanionsSubTextPrivacyPolicy",
+            "Value": "<a href=\"http:\/\/www.jetstar.com\/jp\/ja\/privacy-policy\" target=\"_blank\">プライバシーポリシー<\/a>"
+        },
+        {
+            "Key": "MJ-app-TravelCompanionSubText2",
+            "Value": "同行者の情報を入力してください。"
+        },
+        {
+            "Key": "MJ-app-TravelDocuments",
+            "Value": "パスポート情報設定"
+        },
+        {
+            "Key": "MJ-app-TravelDocumentsDelete",
+            "Value": "パスポート情報削除"
+        },
+        {
+            "Key": "MJ-app-TravelDocumentsSubText",
+            "Value": "国際線のご予約には、パスポート情報が必要となります。パスポート情報をご登録いただいておくと、ご予約時に入力の手間が省けます。"
+        },
+        {
+            "Key": "MJ-app-TravelDocumentsSubText2",
+            "Value": "国際線のご予約には、パスポート情報が必要となります。パスポート情報をご登録いただいておくと、ご予約時に入力の手間が省けます。"
+        },
+        {
+            "Key": "MJ-app-TravelSettings",
+            "Value": "フライト設定"
+        },
+        {
+            "Key": "MJ-app-TravelSettingsSubTitle",
+            "Value": "その他の設定"
+        },
+        {
+            "Key": "MJ-app-ValidationHeader",
+            "Value": "Jetstar"
+        },
+        {
+            "Key": "MJ-app-YourDetails",
+            "Value": "お客様情報"
+        },
+        {
+            "Key": "MJ-app-YourDetailsSubTitle",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-AddBaggage",
+            "Value": "手荷物を追加する"
+        },
+        {
+            "Key": "MMB-app-AdditionalBaggage",
+            "Value": "受託手荷物{0}kgを追加"
+        },
+        {
+            "Key": "MMB-app-AdditionalCharges",
+            "Value": "フライト変更手数料"
+        },
+        {
+            "Key": "MMB-app-AdditionalOversize",
+            "Value": "サイズの大きな手荷物 {0}"
+        },
+        {
+            "Key": "MMB-app-AlreadyPaid",
+            "Value": "お支払い済みです。"
+        },
+        {
+            "Key": "MMB-app-AmountOwing",
+            "Value": "未払い金額"
+        },
+        {
+            "Key": "MMB-app-BaggageAdd",
+            "Value": "受託手荷物を追加する"
+        },
+        {
+            "Key": "MMB-app-BaggageAddMore",
+            "Value": "受託手荷物をさらに追加する"
+        },
+        {
+            "Key": "MMB-app-BaggageAmount",
+            "Value": "受託手荷物{0}kg"
+        },
+        {
+            "Key": "MMB-app-BaggageMaximumPurchased",
+            "Value": "受託手荷物の最大許容量をすでに購入済みです"
+        },
+        {
+            "Key": "MMB-app-BaggagePageText",
+            "Value": "<strong>機内持込手荷物<\/strong><br \/>\u000a機内持込手荷物のサイズ・重量制限を超えないようご注意ください。機内持込手荷物のサイズや重量等を搭乗ゲートにて確認しております。規定を超えるお手荷物は、受託手荷物としてお預けいただく必要があり、その場合は受託手荷物料金がかかります。<br \/>\u000a<br \/>\u000aエコノミークラスの機内持込手荷物の重量・個数は、キャリーケースなどのお手荷物1個とハンドバッグなどのお手回り品1個の計2個、合計7kgまでとなります。プラス3kgのオプションを追加すると、合計10kgまで機内持込手荷物の重量を増やすことができます。「予約の確認／変更」、<a href=\"https:\/\/www.jetstar.com\/jp\/ja\/contact-us\">コンタクトセンター／ライブチャット<\/a>または<a href=\"https:\/\/checkin.jetstar.com\/searchwebcheckin.aspx?culture=ja-jp\">オンラインチェックイン<\/a>の際にお申し込みいただけます。申し込み人数には限りがあり、先着順で受け付けています。"
+        },
+        {
+            "Key": "MMB-app-BookingAccessDenied",
+            "Value": "現在、このご予約はジェットスターのモバイルアプリ、またはモバイルサイトからはご覧いただけません。申し訳ありませんが、PCサイトをご利用ください。"
+        },
+        {
+            "Key": "MMB-app-BookingActivities",
+            "Value": "アクティビティ"
+        },
+        {
+            "Key": "MMB-app-BookingAirportTransfer",
+            "Value": "空港送迎"
+        },
+        {
+            "Key": "MMB-app-BookingCarHire",
+            "Value": "レンタカー"
+        },
+        {
+            "Key": "MMB-app-bookingchanged",
+            "Value": "お支払い手続きが完了しました"
+        },
+        {
+            "Key": "MMB-app-BookingHotels",
+            "Value": "ホテル"
+        },
+        {
+            "Key": "MMB-app-BookingInsurance",
+            "Value": "旅行保険"
+        },
+        {
+            "Key": "MMB-app-BookingTotal",
+            "Value": "合計金額"
+        },
+        {
+            "Key": "MMB-app-CancelAllChanges",
+            "Value": "すべての変更を取り消す"
+        },
+        {
+            "Key": "MMB-app-cancelMultipleJourneys",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-cancelRoute",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-cancelSingleJourney",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-CannotModifyBooking",
+            "Value": "申し訳ありません。このご予約は変更できません。"
+        },
+        {
+            "Key": "MMB-app-ChangeBooking",
+            "Value": "予約変更"
+        },
+        {
+            "Key": "MMB-app-ChangeCheckedInFlightTxt",
+            "Value": "<b>You have already checked in for upcoming flight(s).<\/b>\u000d\u000a<p>If you would like to Change your flight times we will have to first check you out of your flights. Please select the orange 'Check out of flight' button before you can continue with changing your flights.<\/p>"
+        },
+        {
+            "Key": "MMB-App-changeconfirmed",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-ChangeFlight",
+            "Value": "フライトの変更"
+        },
+        {
+            "Key": "MMB-app-ChangeFlightNumber1",
+            "Value": "フライト{0}を変更する"
+        },
+        {
+            "Key": "MMB-app-ChangeFlightNumber2",
+            "Value": "フライト{0}を変更する"
+        },
+        {
+            "Key": "MMB-app-ChangeFlightsBlocked",
+            "Value": "申し訳ありません。現在、ご予約の変更ができません。"
+        },
+        {
+            "Key": "MMB-app-ChangeFlightsMultiCityUnavailable",
+            "Value": "申し訳ありません。ジェットスターモバイルサイトでは複数都市予約の変更ができません。<a href=\"https:\/\/booknow.jetstar.com\/RetrieveBooking.aspx?PNR={0}&email={1}&fullsite=true\" target=\"_blank\">PCサイト<\/a>をご利用ください。"
+        },
+        {
+            "Key": "MMB-app-ChangeFlightSoldOut",
+            "Value": "申し訳ございません。フライトは満席です。"
+        },
+        {
+            "Key": "MMB-app-ChangeFlightsUnavailable",
+            "Value": "申し訳ありません。現在、ジェットスターのモバイルサイトではご予約の変更ができません。 <a href=\"https:\/\/booknow.jetstar.com\/RetrieveBooking.aspx?PNR={0}&email={1}&fullsite=true\" target=\"_blank\">PCサイト<\/a>をご利用ください。"
+        },
+        {
+            "Key": "MMB-app-ChangeSummary",
+            "Value": "変更内容"
+        },
+        {
+            "Key": "MMB-app-ChangeYourFlight",
+            "Value": "フライト変更"
+        },
+        {
+            "Key": "MMB-app-ChangeYourFlightSubheading",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-CheckInError",
+            "Value": "Sorry we are unable to check you in at the moment. Please try again later."
+        },
+        {
+            "Key": "MMB-app-CheckOutError",
+            "Value": "Sorry we are unable to check you out at the moment. Please try again later."
+        },
+        {
+            "Key": "MMB-app-CheckOutFlight",
+            "Value": "Check out of flight(s)"
+        },
+        {
+            "Key": "MMB-app-CheckOutSuccess",
+            "Value": "You have successfully checked out of your flight(s)."
+        },
+        {
+            "Key": "MMB-app-ChgBndleFlightDisclmr",
+            "Value": "<p>「Starter Plus」、「Starter Max」運賃に含まれるオプションの内容がリニューアルされました。リニューアル以前にこれらのオプションを追加されたお客様がフライトを変更されますと、オプションがリニューアル後の内容へと変更になり、場合によっては以前のオプション価格との差額のお支払いが発生いたします。オプション内容の変更を希望されない場合は、フライトの変更前に<a href=\"https:\/\/www.jetstar.com\/jp\/ja\/contact-us\" target=\"_blank\">こちら<\/a>へご連絡ください。<\/p>"
+        },
+        {
+            "Key": "MMB-app-ConfBoardingPassUpdtEmail",
+            "Value": "Your boarding pass details have changed. We will email your updated boarding pass to the following email address:"
+        },
+        {
+            "Key": "MMB-app-ConfBoardingPassUpdtSMS",
+            "Value": "We have checked you back into your flights and the SMS Boarding Pass you received recently when you used our Web Check In service remains valid and can be presented at the Airport."
+        },
+        {
+            "Key": "MMB-app-ConfCheckInNotOpen",
+            "Value": "Web check-in is not open yet to the following flights:"
+        },
+        {
+            "Key": "MMB-App-Confirm-BookingReference",
+            "Value": "ご予約番号：<b>{0}<\/b>"
+        },
+        {
+            "Key": "MMB-app-ConfirmChanges",
+            "Value": "変更を確定する"
+        },
+        {
+            "Key": "MMB-app-ConfNoPayment",
+            "Value": "ご予約の変更が完了しました。"
+        },
+        {
+            "Key": "MMB-app-ConfPayment",
+            "Value": "お支払いが完了しました。"
+        },
+        {
+            "Key": "MMB-app-ConfText",
+            "Value": "{0}宛てに変更後の旅程表をEメールにてお送りします（1日ほどかかる場合があります）。印刷して空港までお持ちください。"
+        },
+        {
+            "Key": "MMB-app-CreditFromBag",
+            "Value": "購入済みサービスの払い戻し―受託手荷物"
+        },
+        {
+            "Key": "MMB-app-CreditFromIFE",
+            "Value": "購入済みサービスの払い戻し―機内エンターテインメント"
+        },
+        {
+            "Key": "MMB-app-CreditFromMeal",
+            "Value": "購入済みサービスの払い戻し―お食事"
+        },
+        {
+            "Key": "MMB-app-CreditFromSeat",
+            "Value": "購入済みサービスの払い戻し―座席指定"
+        },
+        {
+            "Key": "MMB-app-CriticalSSRIssue",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-desc-bookingchanged",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-desc-cancelMultipleJourneys",
+            "Value": "各ご搭乗者のフライトバウチャーを24時間以内に{0}にお送りいたします。"
+        },
+        {
+            "Key": "MMB-app-desc-cancelSingleJourney",
+            "Value": "各ご搭乗者のフライトバウチャーを24時間以内に{0}にお送りいたします。"
+        },
+        {
+            "Key": "MMB-app-desc-changeConfirmed",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-desc-flightcheckedin",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-desc-flightitineraryupdated",
+            "Value": "更新された旅程表を24時間以内に<b>{0}<\/b>にお送りします"
+        },
+        {
+            "Key": "MMB-app-desc-gdsflexibizflightconfirmation",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-desc-paymentConfirmed",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-DGSubTitle",
+            "Value": "現地でのご予定はお決まりですか？"
+        },
+        {
+            "Key": "MMB-app-DGTitle",
+            "Value": "{0}でのアクティビティ"
+        },
+        {
+            "Key": "MMB-app-DisclaimerContent",
+            "Value": "レンタカー料金は合計金額には含まれていません。車両の引き取り時にお支払いください。"
+        },
+        {
+            "Key": "MMB-app-DisclaimerHeading",
+            "Value": "注意事項"
+        },
+        {
+            "Key": "MMB-app-DowngradeNotAllowed",
+            "Value": "{0}ではダウングレードはできません"
+        },
+        {
+            "Key": "MMB-app-EntertainmentPack",
+            "Value": "機内エンターテインメント"
+        },
+        {
+            "Key": "MMB-app-EntertainmentPageText",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-FareDifference",
+            "Value": "差額運賃あり"
+        },
+        {
+            "Key": "MMB-app-FareUpgrade",
+            "Value": "運賃のアップグレード"
+        },
+        {
+            "Key": "MMB-app-FlightChange",
+            "Value": "フライトの変更"
+        },
+        {
+            "Key": "MMB-app-FlightChangeFee",
+            "Value": "フライト変更手数料"
+        },
+        {
+            "Key": "MMB-app-flightcheckedin",
+            "Value": "お支払い手続きが完了しました"
+        },
+        {
+            "Key": "MMB-app-flightitineraryupdated",
+            "Value": "お支払い手続きが完了しました"
+        },
+        {
+            "Key": "MMB-app-FlightSelectedToChange",
+            "Value": "変更後のフライト"
+        },
+        {
+            "Key": "MMB-app-gdsflexibizflightconfirmation",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-HeaderBaggage",
+            "Value": "受託手荷物"
+        },
+        {
+            "Key": "MMB-app-HeaderChangeFlight",
+            "Value": "フライトの変更"
+        },
+        {
+            "Key": "MMB-app-HeaderEntertainment",
+            "Value": "機内エンターテインメント"
+        },
+        {
+            "Key": "MMB-app-HeaderMeals",
+            "Value": "機内食"
+        },
+        {
+            "Key": "MMB-app-HeaderSeats",
+            "Value": "座席を指定する"
+        },
+        {
+            "Key": "MMB-app-IFEAlreadyIncluded",
+            "Value": "機内エンターテインメント追加済"
+        },
+        {
+            "Key": "MMB-App-IFEChangeNotAvailable",
+            "Value": "機内エンターテインメントなし"
+        },
+        {
+            "Key": "MMB-app-IncludeYourOtherFlights",
+            "Value": "その他のフライトを含む"
+        },
+        {
+            "Key": "MMB-app-ManageMyBooking",
+            "Value": "ご予約内容"
+        },
+        {
+            "Key": "MMB-app-MealChange",
+            "Value": "お食事の変更"
+        },
+        {
+            "Key": "MMB-app-MealsPageText",
+            "Value": "ご希望のお食事を以下からお選びください。\u000a<br \/><br \/>\u000aお食事の販売は一部のフライトのみとなります。フライトによっては軽食のみのご提供となりますので、ご注意ください。おつまみやスナックはすべてのジェットスターのフライトでご購入いただけます。"
+        },
+        {
+            "Key": "MMB-app-NewSeatAllocation",
+            "Value": "新しい座席"
+        },
+        {
+            "Key": "MMB-app-NoChanges",
+            "Value": "お客様はまだ変更を行っていません。"
+        },
+        {
+            "Key": "MMB-app-NoComfortPacks",
+            "Value": "機内快適グッズなし"
+        },
+        {
+            "Key": "MMB-app-NoEditCheckedIn",
+            "Value": "申し訳ございません。チェックイン後の予約変更はできません。"
+        },
+        {
+            "Key": "MMB-app-NoEditDisrupt",
+            "Value": "申し訳ございません。現在、ご予約のフライトには遅延、欠航または運航スケジュールの変更が発生しているため、変更はできません。"
+        },
+        {
+            "Key": "MMB-app-NoEditNonJetstar",
+            "Value": "ジェットスターの運航便ではないため、変更できないフライトがあります。これらのフライト出発日を変更するにはコンタクトセンターまでお問い合わせください。"
+        },
+        {
+            "Key": "MMB-app-NoEditOutstandingBalance",
+            "Value": "申し訳ございません。お支払い残高があるため、予約変更ができません。コンタクトセンターまでお問い合わせいただくか、ジェットスターのPC版ウェブサイトからお支払い手続きをお願いします。"
+        },
+        {
+            "Key": "MMB-app-NoEditTooClose",
+            "Value": "申し訳ございません。時刻を過ぎたため、予約変更はできません"
+        },
+        {
+            "Key": "MMB-app-NoFareDifference",
+            "Value": "差額運賃なし"
+        },
+        {
+            "Key": "MMB-app-NoInflightEntertainment",
+            "Value": "機内エンターテイメントなし"
+        },
+        {
+            "Key": "MMB-app-NoMeals",
+            "Value": "機内食なし"
+        },
+        {
+            "Key": "MMB-app-OutstandingBalance",
+            "Value": "未払い金額"
+        },
+        {
+            "Key": "MMB-app-PayBalanceNow",
+            "Value": "お支払い"
+        },
+        {
+            "Key": "MMB-app-paymentConfirmed",
+            "Value": "お支払い手続きが完了しました"
+        },
+        {
+            "Key": "MMB-app-PaymentConfirmedNote",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-PaymentDue",
+            "Value": "お支払い保留中"
+        },
+        {
+            "Key": "MMB-app-PaymentDueMessage",
+            "Value": "お客様のご予約／ご予約の変更は、お支払いが保留中のため、確定していません。残りのお支払い金額は{0}です。<br\/><br\/>ご予約を確定するには、お支払いをお願いいたします。お問い合わせは<a href=\"\/#\/contact-us\">こちら<\/a>。"
+        },
+        {
+            "Key": "MMB-app-PaymentPending",
+            "Value": "お支払い確認中"
+        },
+        {
+            "Key": "MMB-app-PaymentPendingMessage",
+            "Value": "お客様のご予約／ご予約の変更は、お支払いが確認できていないため、確定していません。残りのお支払い金額は{0}です。ウェルネット決済の場合、お支払いの確認からご予約の確定までに最大で3日ほどかかる場合があります。お問い合わせは<a href=\"\/#\/contact-us\">こちら<\/a>。"
+        },
+        {
+            "Key": "MMB-app-PaymentPendingMessageFullURL",
+            "Value": "お客様のご予約／ご予約の変更は、お支払いが確認できていないため、確定していません。残りのお支払い金額は{0}です。ウェルネット決済の場合、お支払いの確認からご予約の確定までに最大で3日ほどかかる場合があります。お問い合わせは<a href=\"https:\/\/m.jetstar.com\/#\/contact-us\">こちら<\/a>。"
+        },
+        {
+            "Key": "MMB-app-PaymentTandC",
+            "Value": "私は、私が予約したフライトの運航会社の<a href=\"https:\/\/www.jetstar.com\/jp\/ja\/help\/articles\/fare-rules\" target=\"_blank\">運賃規則<\/a>および<a href=\"https:\/\/www.jetstar.com\/jp\/ja\/terms-and-conditions\" target=\"_blank\">運送約款<\/a>および<a href=\"https:\/\/www.jetstar.com\/jp\/ja\/holidays-booking-conditions\" target=\"_blank\">ホリデー予約条件<\/a>（レンタカー、宿泊施設、交通費、駐車場、アクティビティなどがご予約に含まれる場合）について読み、これに同意します。私は<a href=\"https:\/\/www.jetstar.com\/jp\/ja\/help\/articles\/children-travelling-alone\" target=\"_blank\">一人で搭乗する場合の条件<\/a>を満たしています。条件を満たしていない場合は搭乗できない場合があることを了承します。ジェットスターはご予約手続きのため、お客様の個人情報を収集します。また、収集した個人情報は、ジェットスターならびにその他のサービスおよび商品提供者から、旅行関連商品またはサービスに関する情報を、お客様に提供するために使用する場合があります。ジェットスターのプライバシーポリシーおよび個人情報の取り扱いについての詳細は<a href=\"https:\/\/www.jetstar.com\/jp\/ja\/privacy-policy\" target=\"_blank\">こちら<\/a>をご確認ください。私は、政府当局、予約便の運航会社がシステムのアクセス権を付与している特定の航空会社およびその請負業者ならびに代理店が、私の予約に関連する個人情報にアクセスできる場合があることを了承します。<br \/>\u000a運賃は、ジェットスターがお客様のご予約およびお支払いがすべて完了したことを確認するまで保証されません。"
+        },
+        {
+            "Key": "MMB-app-PaymentTandCValidation",
+            "Value": "変更に際して、ご利用規約が適用されます。お客様は同規約に同意する必要があります"
+        },
+        {
+            "Key": "MMB-app-PointsVouchers",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-ProcessPayment",
+            "Value": "ご購入"
+        },
+        {
+            "Key": "MMB-app-Purchase",
+            "Value": "購入する"
+        },
+        {
+            "Key": "MMB-app-RespAmountDueBaggage",
+            "Value": "ご旅行の変更により、変更後のフライトの受託手荷物料金または変更前のフライトの受託手荷物料金との差額として￥{0}がかかります。"
+        },
+        {
+            "Key": "MMB-app-RespAmountDueIFE",
+            "Value": "ご旅行の変更により、変更後のフライトの機内エンターテインメント料金または変更前の機内フライトの機内エンターテインメント料金との差額として￥{0}がかかります。"
+        },
+        {
+            "Key": "MMB-app-RespAmountDueMeals",
+            "Value": "ご旅行の変更により、変更後のフライトのお食事料金または変更前のフライトのお食事料金との差額として￥{0}がかかります。"
+        },
+        {
+            "Key": "MMB-app-RespAmountDueSeats",
+            "Value": "ご旅行の変更により、変更後のフライトの座席指定料金または変更前のフライトの座席指定料金との差額として￥{0}がかかります。"
+        },
+        {
+            "Key": "MMB-app-RespConfBaggage",
+            "Value": "選択された受託手荷物がカートに追加されました。"
+        },
+        {
+            "Key": "MMB-app-RespConfConfirm",
+            "Value": "ご変更を確定しますか？引き続きその他のサービスを追加／変更することもできます。"
+        },
+        {
+            "Key": "MMB-app-RespConfFlights",
+            "Value": "変更後のフライト予約がカートに追加されました。"
+        },
+        {
+            "Key": "MMB-app-RespConfIFE",
+            "Value": "選択された機内エンターテインメントがカートに追加されました。"
+        },
+        {
+            "Key": "MMB-app-RespConfMeal",
+            "Value": "選択されたお食事がカートに追加されました。"
+        },
+        {
+            "Key": "MMB-app-RespConfPayNow",
+            "Value": "今すぐお支払いになりますか？引き続きその他のサービスを追加／変更することもできます。"
+        },
+        {
+            "Key": "MMB-app-RespConfSeat",
+            "Value": "選択された座席がカートに追加されました。"
+        },
+        {
+            "Key": "MMB-app-RespMovedProducts",
+            "Value": "選択済みのオプションを変更後のフライト予約へ反映しました。"
+        },
+        {
+            "Key": "MMB-app-RespNotAvailableCarryOn",
+            "Value": ""
+        },
+        {
+            "Key": "MMB-app-RespNotAvailableIFE",
+            "Value": "変更前のフライトで追加された機内エンターテインメントは取り消されました。"
+        },
+        {
+            "Key": "MMB-app-RespNotAvailableMeals",
+            "Value": "変更前のフライトで選択されたお食事は取り消されました。"
+        },
+        {
+            "Key": "MMB-app-RespNotAvailableSeats",
+            "Value": "変更前のフライトで選択された座席は取り消されました。"
+        },
+        {
+            "Key": "MMB-app-RespSelectSeats",
+            "Value": "変更後のフライトで座席指定されますか？"
+        },
+        {
+            "Key": "MMB-app-RespTapChooseSeats",
+            "Value": "座席指定はこちら。"
+        },
+        {
+            "Key": "MMB-app-RespTapVerifySelection",
+            "Value": "ご選択内容の確認はこちら。"
+        },
+        {
+            "Key": "MMB-app-SeatAdditionalCharge",
+            "Value": "追加座席"
+        },
+        {
+            "Key": "MMB-app-SeatAmountOwing",
+            "Value": "合計金額："
+        },
+        {
+            "Key": "MMB-app-SeatPageText",
+            "Value": "ご希望の座席をお選びください。\u000a<br \/><br \/>\u000a座席を指定されない場合は、自動的に座席が割り当てられます（料金はかかりません）。空席状況により、同行者と離れた座席にお座りいただく場合もございます。"
+        },
+        {
+            "Key": "MMB-app-SegmentHeaderFromTo",
+            "Value": "{0} → {1}"
+        },
+        {
+            "Key": "MMB-app-SpoilageFee",
+            "Value": "キャンセル料　合計"
+        },
+        {
+            "Key": "MMB-app-UnableToProcessPayment",
+            "Value": "お支払いが完了できません"
+        },
+        {
+            "Key": "MMB-app-UpsellBaggageSubTitle1",
+            "Value": "手荷物を追加する"
+        },
+        {
+            "Key": "MMB-app-UpsellBaggageSubTitle2",
+            "Value": "手荷物を追加する"
+        },
+        {
+            "Key": "MMB-app-UpsellBaggageTitle1",
+            "Value": "受託手荷物"
+        },
+        {
+            "Key": "MMB-app-UpsellBaggageTitle2",
+            "Value": "お手荷物"
+        },
+        {
+            "Key": "MMB-app-UpsellIFESubTitle",
+            "Value": "{0}で機内エンターテインメントを追加"
+        },
+        {
+            "Key": "MMB-app-UpsellIFETitle",
+            "Value": "機内エンターテインメント"
+        },
+        {
+            "Key": "MMB-app-UpsellMealsSubTitle",
+            "Value": "お食事"
+        },
+        {
+            "Key": "MMB-app-UpsellMealsSubTitle2",
+            "Value": "お食事を追加または変更いただけます。"
+        },
+        {
+            "Key": "MMB-app-UpsellMealsTitle",
+            "Value": "機内食"
+        },
+        {
+            "Key": "MMB-app-UpsellMealsTitle2",
+            "Value": "機内食"
+        },
+        {
+            "Key": "MMB-app-UpsellOrder",
+            "Value": "BAG,SEA,MEA,IFE"
+        },
+        {
+            "Key": "MMB-app-UpsellOrderBag",
+            "Value": "SEA,MEA,IFE"
+        },
+        {
+            "Key": "MMB-app-UpsellOrderFD",
+            "Value": "BAG,SEA,MEA,IFE"
+        },
+        {
+            "Key": "MMB-app-UpsellOrderIFE",
+            "Value": "SEA,MEA,BAG"
+        },
+        {
+            "Key": "MMB-app-UpsellOrderMeal",
+            "Value": "SEA,BAG,IFE"
+        },
+        {
+            "Key": "MMB-app-UpsellOrderSeat",
+            "Value": "MEA,IFE,BAG"
+        },
+        {
+            "Key": "MMB-app-UpsellSeatsSubTitle1",
+            "Value": "{0}で座席を選択"
+        },
+        {
+            "Key": "MMB-app-UpsellSeatsSubTitle2",
+            "Value": "{0}で座席を選択"
+        },
+        {
+            "Key": "MMB-app-UpsellSeatsTitle1",
+            "Value": "座席指定"
+        },
+        {
+            "Key": "MMB-app-UpsellSeatsTitle2",
+            "Value": "座席指定"
+        },
+        {
+            "Key": "MMB-app-ViewLessUpgrades",
+            "Value": "アップグレード情報を非表示"
+        },
+        {
+            "Key": "MMB-app-ViewMoreUpgrades",
+            "Value": "アップグレード情報を表示"
+        },
+        {
+            "Key": "MT-app-Activities",
+            "Value": "アクティビティ"
+        },
+        {
+            "Key": "MT-app-Actual",
+            "Value": "実時刻"
+        },
+        {
+            "Key": "MT-app-AdditionalFeesAndTaxes",
+            "Value": "追加料金と税金"
+        },
+        {
+            "Key": "MT-app-AddTrip",
+            "Value": "フライトを保存"
+        },
+        {
+            "Key": "MT-app-AddTrip-AddTripBtn",
+            "Value": "フライトを保存"
+        },
+        {
+            "Key": "MT-app-AddTrip-BookingRef",
+            "Value": "予約番号"
+        },
+        {
+            "Key": "MT-app-AddTrip-BookingRefDtls",
+            "Value": "ご予約番号は6桁の英数字または英字のみからなるコードで、旅程表に記載されています。"
+        },
+        {
+            "Key": "MT-app-AddTrip-EnterBookingRef",
+            "Value": "ご予約番号を入力してください"
+        },
+        {
+            "Key": "MT-app-AddTrip-IncorrectDtls",
+            "Value": "ご入力内容が正しいことをお確かめください。"
+        },
+        {
+            "Key": "MT-app-AddTrip-NameShldMtchItnry",
+            "Value": "マイアカウントにご登録のお名前と旅程表に記載のご搭乗者名が完全に一致していることをお確かめください。"
+        },
+        {
+            "Key": "MT-app-AddTrip-ProfileName",
+            "Value": "マイアカウントにご登録のお名前"
+        },
+        {
+            "Key": "MT-app-AddTrip-UpdateDtlsAddTripBtn",
+            "Value": "マイアカウントのお客様情報を更新"
+        },
+        {
+            "Key": "MT-app-Aircraft",
+            "Value": "航空機"
+        },
+        {
+            "Key": "MT-app-AirportParking",
+            "Value": "空港駐車場"
+        },
+        {
+            "Key": "MT-app-AmountDueAtPickup",
+            "Value": "車両の引き取り時の支払い金額(レンタカー)"
+        },
+        {
+            "Key": "MT-app-AmountPaid",
+            "Value": "支払金額"
+        },
+        {
+            "Key": "MT-app-AmountTendered",
+            "Value": "支払済金額"
+        },
+        {
+            "Key": "MT-app-Baggage",
+            "Value": "手荷物"
+        },
+        {
+            "Key": "MT-app-BaggageHdr",
+            "Value": ""
+        },
+        {
+            "Key": "MT-app-BalanceDue",
+            "Value": "差引請求額"
+        },
+        {
+            "Key": "MT-app-CallJetstar",
+            "Value": "コンタクトセンター"
+        },
+        {
+            "Key": "MT-app-CallJetstarPackage",
+            "Value": "コンタクトセンター"
+        },
+        {
+            "Key": "MT-app-CarHire",
+            "Value": "レンタカー"
+        },
+        {
+            "Key": "MT-app-CarHireNote",
+            "Value": "<b>ご注意ください。<\/b>: レンタカーの見積もり金額は、見積のみです。<br \/>車両のピックアップの際には、現地通貨が必要です。"
+        },
+        {
+            "Key": "MT-app-CarryOnTopup",
+            "Value": "機内持込手荷物 プラス3kg"
+        },
+        {
+            "Key": "MT-app-CarryOnTopup7kg",
+            "Value": "機内持込手荷物プラス7kg"
+        },
+        {
+            "Key": "MT-app-CarType",
+            "Value": "車の種類"
+        },
+        {
+            "Key": "MT-app-CheckedBagAllowance",
+            "Value": "受託手荷物 {0}kg"
+        },
+        {
+            "Key": "MT-app-CheckedIn",
+            "Value": "チェックイン済み"
+        },
+        {
+            "Key": "MT-app-CheckIn",
+            "Value": "チェックイン"
+        },
+        {
+            "Key": "MT-app-CheckInAvailable",
+            "Value": "オンラインチェックイン利用可能"
+        },
+        {
+            "Key": "MT-app-CheckOut",
+            "Value": "チェックアウト"
+        },
+        {
+            "Key": "MT-app-DepartDay",
+            "Value": "出発 - 1日後"
+        },
+        {
+            "Key": "MT-app-DepartDays",
+            "Value": "出発 - {0}日後"
+        },
+        {
+            "Key": "MT-app-DepartFromGate",
+            "Value": "搭乗口 {0}"
+        },
+        {
+            "Key": "MT-app-DepartHour",
+            "Value": "出発 - 1時間"
+        },
+        {
+            "Key": "MT-app-DepartHours",
+            "Value": "出発まで{0}時間"
+        },
+        {
+            "Key": "MT-app-DepartMinute",
+            "Value": "出発 - 1分"
+        },
+        {
+            "Key": "MT-app-DepartMinutes",
+            "Value": "出発まで{0}分"
+        },
+        {
+            "Key": "MT-app-DropOff",
+            "Value": "ドロップオフ"
+        },
+        {
+            "Key": "MT-app-ETDChange",
+            "Value": "お客様のフライトの{0}は変更されました。"
+        },
+        {
+            "Key": "MT-app-ETDChangeDepartureTime",
+            "Value": "出発時刻"
+        },
+        {
+            "Key": "MT-app-FerryHIS",
+            "Value": "フェリーは「ヘイマン」により運航されます。運航条件につきましては、<a href=\"www.hayman.com.au\" target=\"_blank\">www.hayman.com.au<\/a>をご参照ください。"
+        },
+        {
+            "Key": "MT-app-FindBooking",
+            "Value": "予約を検索する"
+        },
+        {
+            "Key": "MT-app-FlightDetails",
+            "Value": "フライトの詳細"
+        },
+        {
+            "Key": "MT-app-FlightDisruptAS",
+            "Value": "フライトの再予約については、空港スタッフまでお問い合わせください。"
+        },
+        {
+            "Key": "MT-app-FlightDisruptASCC",
+            "Value": "フライトの再予約については、ジェットスターの空港職員またはコンタクトセンターまでお問い合わせください。"
+        },
+        {
+            "Key": "MT-app-FlightDisruptASCCPackage",
+            "Value": "フライトの再予約については、ジェットスターの空港職員またはコンタクトセンターまでお問い合わせください。"
+        },
+        {
+            "Key": "MT-app-FlightDisruptASPackage",
+            "Value": "フライトの再予約については、空港スタッフまでお問い合わせください。"
+        },
+        {
+            "Key": "MT-app-FlightDisruptCC",
+            "Value": "フライトの再予約を希望する場合、コンタクトセンターまでお問い合わせください。"
+        },
+        {
+            "Key": "MT-app-FlightDisruptCCPackage",
+            "Value": "フライトの再予約を希望する場合、コンタクトセンターまでお問い合わせください。"
+        },
+        {
+            "Key": "MT-app-FlightDisruptDP",
+            "Value": "ご予約の詳細を確認するには、下記をタップしてください。"
+        },
+        {
+            "Key": "MT-app-FlightDisruptDPPackage",
+            "Value": "ご予約の詳細を確認するには、下記をタップしてください。"
+        },
+        {
+            "Key": "MT-app-GateChange",
+            "Value": "お客様のフライト{0}は変更されました"
+        },
+        {
+            "Key": "MT-app-GateChangeDepartureGate",
+            "Value": "出発ゲート"
+        },
+        {
+            "Key": "MT-app-Hire",
+            "Value": "レンタルする"
+        },
+        {
+            "Key": "MT-app-Hotels",
+            "Value": "ホテル"
+        },
+        {
+            "Key": "MT-app-Tour",
+            "Value": "ツアー"
+        },
+        {
+            "Key": "MT-app-Insurance",
+            "Value": "保険"
+        },
+        {
+            "Key": "MT-app-JetstarLoggedIn",
+            "Value": "マイアカウントにログインしてください。"
+        },
+        {
+            "Key": "MT-app-Kg",
+            "Value": "{0}kg"
+        },
+        {
+            "Key": "MT-app-KgPerPassenger",
+            "Value": "搭乗者1名毎{0}kg"
+        },
+        {
+            "Key": "MT-app-LoginNow",
+            "Value": "ログインして、ご予約内容を取得する"
+        },
+        {
+            "Key": "MT-app-ManageSeats",
+            "Value": "座席指定"
+        },
+        {
+            "Key": "MT-app-MCI-closed",
+            "Value": "オンラインチェックインの受付は終了致しました。空港カウンターでチェックインしてください。"
+        },
+        {
+            "Key": "MT-app-MyFlight",
+            "Value": "予約内容"
+        },
+        {
+            "Key": "MT-app-MyFlights",
+            "Value": "予約内容"
+        },
+        {
+            "Key": "MT-app-MyTrip",
+            "Value": "予約確認"
+        },
+        {
+            "Key": "MT-app-MyTrips",
+            "Value": "予約確認"
+        },
+        {
+            "Key": "MT-app-MyTrips-RecentlyAdded",
+            "Value": "追加されたフライト"
+        },
+        {
+            "Key": "MT-app-NoAdditionalExtras",
+            "Value": "<p><b>ご注意ください。:<\/b> <i>レンタカー、ホテル、予約にある追加は、現在ジェットスターモバイルアプリではご覧いただけません。<\/i><\/p>\\n\\n<\/p><i>これらの追加物をご覧になり管理する場合は、こちらをご覧ください。 jetstar.com<\/i><\/p>"
+        },
+        {
+            "Key": "MT-app-NoBaggage",
+            "Value": "受託手荷物未選択"
+        },
+        {
+            "Key": "MT-app-noJetstarPastTripsSubTitle",
+            "Value": "過去に予約されたフライトの一覧が表示されます。"
+        },
+        {
+            "Key": "MT-app-noJetstarPastTripsTitle",
+            "Value": "ジェットスターでのフライト履歴はありません。"
+        },
+        {
+            "Key": "MT-app-noJetstarUpcomingTripsSubTitle",
+            "Value": "出発前のフライトのご予約内容が表示されます。"
+        },
+        {
+            "Key": "MT-app-noJetstarUpcomingTripsTitle",
+            "Value": "ジェットスターでのフライトのご予定はありません。"
+        },
+        {
+            "Key": "MT-app-NoSeat",
+            "Value": "座席未指定"
+        },
+        {
+            "Key": "MT-app-Operator",
+            "Value": "運航会社"
+        },
+        {
+            "Key": "MT-app-OversizedBaggage",
+            "Value": "サイズの大きな手荷物"
+        },
+        {
+            "Key": "MT-app-PackageBookingCallJetstar",
+            "Value": ""
+        },
+        {
+            "Key": "MT-app-Parking",
+            "Value": "パーキング"
+        },
+        {
+            "Key": "MT-app-Passengers",
+            "Value": "搭乗者"
+        },
+        {
+            "Key": "MT-app-PassengersAdult",
+            "Value": "大人{0} 名様"
+        },
+        {
+            "Key": "MT-app-PassengersChild",
+            "Value": "子供{0} 名様"
+        },
+        {
+            "Key": "MT-app-PassengersInfant",
+            "Value": "幼児{0}名様"
+        },
+        {
+            "Key": "MT-app-PastTrips",
+            "Value": "過去のフライト"
+        },
+        {
+            "Key": "MT-app-PaymentBreakdown",
+            "Value": "支払い機能の停止"
+        },
+        {
+            "Key": "MT-app-PickUp",
+            "Value": "ピックアップ"
+        },
+        {
+            "Key": "MT-app-Policy",
+            "Value": "保険契約"
+        },
+        {
+            "Key": "MT-app-PolicyNo",
+            "Value": "保険契約番号"
+        },
+        {
+            "Key": "MT-app-ProfileNotConnected",
+            "Value": "お客様のマイアカウントにはフライトがありません。"
+        },
+        {
+            "Key": "MT-app-pullDownToRefreshTitle",
+            "Value": "ページを更新するには、下にスワイプしてください。"
+        },
+        {
+            "Key": "MT-app-Reservation",
+            "Value": "ご予約"
+        },
+        {
+            "Key": "MT-app-RetrieveYourBooking",
+            "Value": "ご予約内容を検索する"
+        },
+        {
+            "Key": "MT-app-RetrievingBooking",
+            "Value": "フライトを検索"
+        },
+        {
+            "Key": "MT-app-ReviewChanges",
+            "Value": "変更の確認"
+        },
+        {
+            "Key": "MT-app-ReviewOptions",
+            "Value": "オプションを見る"
+        },
+        {
+            "Key": "MT-app-RoomHire",
+            "Value": "客室を借りる"
+        },
+        {
+            "Key": "MT-app-RoomType",
+            "Value": "客室タイプ"
+        },
+        {
+            "Key": "MT-app-Scheduled",
+            "Value": "定刻"
+        },
+        {
+            "Key": "MT-app-TapBookingReference",
+            "Value": "モバイルサイトにて予約確認をするか、新規フライトを予約してください。"
+        },
+        {
+            "Key": "MT-app-TapBookingReferenceURL",
+            "Value": "https:\/\/m.jetstar.com\/#\/my-bookings"
+        },
+        {
+            "Key": "MT-app-TapToLoginOrSignUp",
+            "Value": "マイアカウントをお持ちでない方は、新規登録をしてください。"
+        },
+        {
+            "Key": "MT-app-TitleCAPT",
+            "Value": "Captain"
+        },
+        {
+            "Key": "MT-app-TitleDR",
+            "Value": "Doctor"
+        },
+        {
+            "Key": "MT-app-TitleMISS",
+            "Value": "Miss"
+        },
+        {
+            "Key": "MT-app-TitleMR",
+            "Value": "Mr"
+        },
+        {
+            "Key": "MT-app-TitleMRS",
+            "Value": "Mrs"
+        },
+        {
+            "Key": "MT-app-TitleMS",
+            "Value": "Ms"
+        },
+        {
+            "Key": "MT-app-TitleMSTR",
+            "Value": "Master"
+        },
+        {
+            "Key": "MT-app-TitlePROF",
+            "Value": "Professor"
+        },
+        {
+            "Key": "MT-app-TitleREV",
+            "Value": "Reverend"
+        },
+        {
+            "Key": "MT-app-TopupCarryOn7Kg",
+            "Value": "機内持込手荷物プラス7kg"
+        },
+        {
+            "Key": "MT-app-TopupCarryOnKg",
+            "Value": "機内持込手荷物 プラス3kg"
+        },
+        {
+            "Key": "MT-app-TotalAmount",
+            "Value": "合計金額"
+        },
+        {
+            "Key": "MT-app-Transfers",
+            "Value": "移動"
+        },
+        {
+            "Key": "MT-app-Transit",
+            "Value": "{1}で{0} 乗り換え"
+        },
+        {
+            "Key": "MT-app-TravelTime",
+            "Value": "旅行時間"
+        },
+        {
+            "Key": "MT-app-TripAdded",
+            "Value": "フライトがマイアカウントに追加されました"
+        },
+        {
+            "Key": "MT-app-UnlinkedTrips",
+            "Value": "マイアカウントに追加されていないご旅行"
+        },
+        {
+            "Key": "MT-app-UnlinkedTripsInfo",
+            "Value": "下記のご旅行は、お客様のマイアカウントご登録Eメールアドレスと同じアドレスで予約されています。<br\/>\u000aこれらをマイアカウントに追加すると、アプリでもご旅行を管理できるようになります。追加されたい場合は、下記のご旅行を選択後、ご予約番号を入力してください。"
+        },
+        {
+            "Key": "MT-app-UpcomingTrips",
+            "Value": "次回のフライト"
+        },
+        {
+            "Key": "MT-app-Webview-Forward",
+            "Value": "次へ"
+        },
+        {
+            "Key": "MT-app-Webview-JetstarApp",
+            "Value": "ホームに戻る"
+        },
+        {
+            "Key": "MT-app-YourFlightHasBeen",
+            "Value": "お客様のフライトは {0}です。"
+        },
+        {
+            "Key": "SO-AllAirports",
+            "Value": "すべての空港"
+        },
+        {
+            "Key": "SO-ChangeLocation",
+            "Value": "ロケーションを変更する"
+        },
+        {
+            "Key": "SO-From",
+            "Value": "SO-から"
+        },
+        {
+            "Key": "SO-InternetBookFlights",
+            "Value": "フライトのご予約にはインターネット接続が必要です。"
+        },
+        {
+            "Key": "SO-InternetCheckIn",
+            "Value": "オンラインチェックインにはインターネット接続が必要です。"
+        },
+        {
+            "Key": "SO-InternetConnectionRequired",
+            "Value": "セールをご覧になるには、インターネット接続が必要です。"
+        },
+        {
+            "Key": "SO-JetstarApologises",
+            "Value": ""
+        },
+        {
+            "Key": "SO-MoreSpecialOffers",
+            "Value": "もっと見る"
+        },
+        {
+            "Key": "SO-NearestAirports",
+            "Value": "お近くの空港"
+        },
+        {
+            "Key": "SO-NoInternetConnection",
+            "Value": "インターネット接続がありません"
+        },
+        {
+            "Key": "SO-NoSearchResults",
+            "Value": "申し訳ありません。検索結果が見つかりませんでした。<br\/>もう一度お試しください。"
+        },
+        {
+            "Key": "SO-NoSpecialOffer",
+            "Value": "現在お客様の地域ではセールはありません。"
+        },
+        {
+            "Key": "SO-Showing",
+            "Value": "{0}"
+        },
+        {
+            "Key": "SO-SpecialOffers",
+            "Value": "セール"
+        },
+        {
+            "Key": "SO-ToOrFrom",
+            "Value": "～発、または～行き"
+        },
+        {
+            "Key": "SO-TypeNameOfCityOrAirport",
+            "Value": "都市名または空港名を入力してください"
+        },
+        {
+            "Key": "SO-UnableToBookUSA",
+            "Value": ""
+        },
+        {
+            "Key": "SO-ViewOffers",
+            "Value": " {0}からさらにオファーを見る"
+        }
+    ],
+    "Promotions": null
+}

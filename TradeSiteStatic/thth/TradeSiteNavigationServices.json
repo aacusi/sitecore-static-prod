@@ -1,0 +1,251 @@
+{
+   "informationCenter":[
+      {
+         "ColumnName":"เครือข่าย ค่าโดยสาร & กระเป๋าเดินทาง",
+         "Links":[
+           
+            {
+               "Label":"ค่าโดยสารและแพ็คเกจ",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":"โครงการพันธมิตรสายการบิน",
+               "URL":"https://www.jetstar.com/sg/en/flights/frequent-flyer-partners",
+               "Updated":"False"
+            },
+            {
+               "Label":"ประเภทค่าโดยสาร",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/fare-rules",
+               "Updated":"False"
+            },
+            {
+               "Label":"การเสนอราคาและการจองแบบหมู่คณะ",
+                  "URL": "https://www.jetstar.com/hk/zh/flights/group-bookings",
+               "Updated":"False"
+            },
+            {
+               "Label":"การเสนอราคาและการจองแบบหมู่คณะ (แม่แบบ)",
+               "URL":"http:/www.jetstar.com/sg/en/Group%20quotes%20and%20bookings%20template",
+               "Updated":"False"
+            },
+            {
+               "Label":"กระเป๋าโหลดลงเครื่อง",
+                "URL": "https://www.jetstar.com/hk/zh/flights/baggage/checked-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"กระเป๋าหิ้วขึ้นเครื่อง",
+              "URL": "https://www.jetstar.com/hk/zh/help/articles/carry-on-baggage-what-can-i-bring-on-board",
+               "Updated":"False"
+            },
+            {
+               "Label":"ค่าธรรมเนียมและค่าบริการ",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/fees-and-charges",
+               "Updated":"False"
+            },
+            {
+               "Label":"สัมภาระขนาดใหญ่",
+               "URL": "https://www.jetstar.com/hk/zh/flights/baggage/oversized-baggage",
+               "Updated":"False"
+            },
+            {
+               "Label":"สินค้าที่เป็นอันตราย",
+              "URL": "https://www.jetstar.com/hk/zh/help/articles/what-cant-i-carry-on-board-prohibited-items",
+               "Updated":"False"
+            },
+            {
+               "Label":"บริการด้านกระเป๋าเดินทาง",
+                 "URL": "https://www.jetstar.com/hk/zh/contact-us/lost-damaged-and-delayed-baggage",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"สนามบิน & บริการบนเครื่อง",
+         "Links":[
+            {
+               "Label":"เช็คอิน",
+                  "URL": "https://www.jetstar.com/hk/zh/help/articles/checking-in",
+               "Updated":"False"
+            },
+            {
+               "Label":"การต่อเที่ยวบิน",
+                "URL": "http://agenthub.jetstar.com/hk/zh/agentinfo/planning-and-booking/flight-connections",
+               "Updated":"False"
+            },
+            {
+               "Label":"อินเตอร์ไลน์และโค้ดแชร์",
+               "URL":"http:/www.jetstar.com/~/_media/FB5042C62FEC4E5B93D714477E238A50.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"ชั้นประหยัด",
+                "URL": "https://www.jetstar.com/hk/zh/flights/economy",
+               "Updated":"False"
+            },
+            {
+               "Label":"ชั้นธุรกิจ",
+                "URL": "https://www.jetstar.com/hk/zh/flights/business-class",
+               "Updated":"False"
+            },
+            {
+               "Label":"เลือกที่นั่ง",
+                "URL": "https://www.jetstar.com/hk/zh/flights/seats",
+               "Updated":"False"
+            },
+            {
+               "Label":"สนามบิน เทอร์มินัล",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/airports-and-terminals",
+               "Updated":"False"
+            },
+            {
+               "Label":"บอร์ดดิ้ง",
+               "URL": "https://www.jetstar.com/hk/zh/help/articles/when-to-get-to-the-airport-for-domestic-flights",
+               "Updated":"False"
+            },
+            {
+               "Label":"อาหารและเครื่องดื่มบนเครื่อง",
+               "URL": "https://www.jetstar.com/hk/zh/flights/food-and-drinks",
+               "Updated":"False"
+            },
+            {
+               "Label":"ความบันเทิงบนเครื่อง",
+               "URL": "https://www.jetstar.com/hk/zh/flights/entertainment",
+               "Updated":"False"
+            },
+            {
+               "Label":"บริการพิเศษบนเครื่องอื่นๆ ",
+                "URL": "https://www.jetstar.com/hk/zh/flights/comfort-packs",
+               "Updated":"False"
+            },
+            {
+               "Label":"ห้องรับรอง",
+               "URL": "https://www.jetstar.com/hk/zh/help/tags/lounges",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"ข่าวสาร & ข้อกำหนดการเดินทาง",
+         "Links":[
+            {
+               "Label":"ใบรับรองแพทย์",
+                "URL": "https://www.jetstar.com/hk/zh/fly-well",
+               "Updated":"False"
+            },
+            {
+               "Label":"ความช่วยเหลือพิเศษ",
+                "URL": "https://www.jetstar.com/hk/zh/help/articles/specific-assistance",
+               "Updated":"False"
+            },
+            {
+               "Label":"เปลี่ยนแปลงเวลาเที่ยวบิน & นโยบายการยกเลิก",
+               "URL":"https://www.jetstar.com/~/_media/CB0E0FD72471439186B05AE59108F9E2.pdf",
+               "Updated":"False"
+            },
+           
+            {
+               "Label":"ผู้เยาว์ที่เดินทางโดยลำพัง",
+              "URL": "https://www.jetstar.com/hk/zh/help/articles/independent-travellers-and-accompanying-passengers",
+               "Updated":"False"
+            }
+         ]
+      },
+      {
+         "ColumnName":"คู่มือตัวแทนการการท่องเที่ยว",
+         "Links":[
+            {
+               "Label":"เจ็ทสตาร์เอเย่นต์ฮับ",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Jetstar_Agent_Hub_FAQ_TH.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"เยี่ยมชม เจ็ทสตาร์เอเยนต์ฮับ",
+               "URL":"https://www.jetstar.com/~/_media/Tradesite/Tour_the_Jetstar_Agent_Hub_TH.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"จัดการประวัติตัวแทนของท่าน",
+               "URL":"",
+               "Updated":"False"
+            },
+            {
+               "Label":"จัดการการจองเที่ยวบิน",
+               "URL":"",
+               "Updated":"False"
+            },
+            {
+               "Label":"คู่มือสำหรับผู้ใช้ BSP",
+               "URL":"https://www.jetstar.com/~/_media/363D6E05D3B549BCB155E2891316D744.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"คู่มือสำหรับผู้ใช้ GDS",
+               "URL":"https://www.jetstar.com/~/_media/7D11A128D50240EBAD1279AB215C7552.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"ติดต่อ เดินทางหมู่คณะ",
+               "URL":"https://www.jetstar.com/~/_media/3BE2D0F4E6304A01A330FF30DE578636.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"เรื่องการขายเจ็ทสตาร์",
+               "URL":"https:/book.jetstar.com/TradeLoginAgent.aspx?culture=th-th",
+               "Updated":"False"
+            },
+            {
+               "Label":"วิธีการชำระเงิน",
+               "URL":"https://www.jetstar.com/~/_media/D94046AD36034F129D4A9BAC3396F491.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"การใช้ แมทริกซ์ GDS",
+               "URL":"https://www.jetstar.com/~/_media/310AB290760B4EBD9B79CDAFEB6D2652.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"รายละเอียดค่าตอบแทน",
+               "URL":"https://www.jetstar.com/~/_media/B4C87C1E566D4B819113240631267827.pdf",
+               "Updated":"False"
+            },
+            {
+               "Label":"ข้อกำหนดและเงื่อนไข ตัวแทนการท่องเที่ยว",
+               "URL":"http:/www.jetstar.com/~/_media/pdf/20120120TradeAgencyTCs.pdf",
+               "Updated":"False"
+            }
+         ]
+      }
+   ],
+   "footer":[
+      {
+         "Label":"Contact us",
+         "URL":"http:/www.jetstar.com/th/th/contact us"
+      },
+      {
+         "Label":"Customer Guarantee",
+         "URL":"http:/www.jetstar.com"
+      },
+      {
+         "Label":"Privacy policy",
+         "URL":"http:/www.jetstar.com/th/th/privacy policy"
+      },
+      {
+         "Label":"Website Terms of use",
+         "URL":"http:/www.jetstar.com/th/th/terms of use"
+      },
+      {
+         "Label":"Terms & Conditions of Carriage",
+         "URL":"http:/www.jetstar.com/th/th/terms and conditions"
+      }
+   ],
+   "banners":[
+      {
+         "Name":"MREC",
+         "Image":"/www.jetstar.com/th/th/agentinfo/~/_media/Tradesite/Banners/flex_bundle_7kg_edited.png?bc=White",
+         "Caption":"Banner",
+         "URL":"/www.jetstar.com/th/th/flights/baggage/7kg-carry-on-baggage"
+      }
+   ]
+}

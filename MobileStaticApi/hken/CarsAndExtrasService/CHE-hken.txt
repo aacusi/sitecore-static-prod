@@ -1,0 +1,20 @@
+[
+
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/AgodaLogo.jpg",
+    "ShortDescription": "Save up to 50% off with incredible hotel deals on Agoda (www.agoda.com). Over 750,000 hotels worldwide. 11 million+ hotel reviews by agoda customers. Amazing rates and a Best Price Guarantee. Trusted by over 18 million satisfied customers. Book your hotel now on Agoda!",
+    "ButtonLabel": "Conditions apply",
+    "DropDownField": "You will be redirected to an Agoda website by Jetstar. This website is owned and operated by Agoda. Any dealings you have with Agoda is soley between you and Agoda. Jetstar will not be responsible for the contents of any third party material or promotion or be liable for any direct or indirect loss or damage suffered by you (or any other party) from accessing, using, relying on or trading with third parties. The inclusion of any link, Agoda material advertising or promotion on redirection by Jetstar to this website does not imply Jetstar's endorsement of or any other association with the third party.",
+    "LinkURL": "http://www.agoda.com/en-sg/index.html?cid=1649663",
+    "ShowThirdPartyAlert": true
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/cars_fallback.jpg",
+    "ShortDescription": "Hire a car with Jetstar and you'll have access to a range of 1500 suppliers. No hidden charges, and you can cancel for free at any time.",
+    "ButtonLabel": "Terms of use",
+    "DropDownField": "",
+    "LinkURL": "http://www.jetstar.com/hk/en/car-rental?clientId=755448",
+    "ShowThirdPartyAlert": true
+  }
+
+]

@@ -1,0 +1,259 @@
+{
+  "informationCenter": [
+    {
+      "ColumnName": "网络，票价&行李",
+      "Links": [
+        {
+          "Label": "票价及组合",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/fare-rules",
+          "Updated": "False"
+        },
+        {
+          "Label": "票价规则",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/fare-rules",
+          "Updated": "False"
+        },
+        {
+          "Label": "托运行李",
+          "URL": "https://www.jetstar.com/cn/zh/flights/baggage/checked-baggage",
+          "Updated": "False"
+        },
+        {
+          "Label": "手提行李",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/carry-on-baggage-what-can-i-bring-on-board",
+          "Updated": "False"
+        },
+        {
+          "Label": "费用及收取",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/fees-and-charges",
+          "Updated": "False"
+        },
+        {
+          "Label": "团体预订",
+          "URL": "https://www.jetstar.com/cn/zh/flights/group-bookings",
+          "Updated": "False"
+        },
+        {
+          "Label": "团体预订（模板）",
+          "URL": "http://www.jetstar.com/cn/zh/Group%20quotes%20and%20bookings%20template",
+          "Updated": "False"
+        },
+        {
+          "Label": "航空公司合作伙伴项目",
+          "URL": "https://www.jetstar.com/cn/zh/flights/frequent-flyer-partners",
+          "Updated": "False"
+        },
+        {
+          "Label": "大件行李",
+          "URL": "https://www.jetstar.com/cn/zh/flights/baggage/oversized-baggage",
+          "Updated": "False"
+        },
+        {
+          "Label": "危险物品",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/what-cant-i-carry-on-board-prohibited-items",
+          "Updated": "False"
+        },
+        {
+          "Label": "行李服务",
+          "URL": "https://www.jetstar.com/cn/zh/contact-us/lost-damaged-and-delayed-baggage",
+          "Updated": "False"
+        }
+      ]
+    },
+    {
+      "ColumnName": "机场&机上",
+      "Links": [
+        {
+          "Label": "值机",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/checking-in",
+          "Updated": "False"
+        },
+        {
+          "Label": "航班转接",
+          "URL": "http://agenthub.jetstar.com/cn/zh/agentinfo/planning-and-booking/flight-connections",
+          "Updated": "False"
+        },
+        {
+          "Label": "联运和代码共享",
+          "URL": "http://www.jetstar.com//~/_media/Tradesite/Interline_and_codeshare_CHS.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "经济舱",
+          "URL": "https://www.jetstar.com/cn/zh/flights/economy",
+          "Updated": "False"
+        },
+        {
+          "Label": "商务舱",
+          "URL": "https://www.jetstar.com/cn/zh/flights/business-class",
+          "Updated": "False"
+        },
+        {
+          "Label": "选择座位",
+          "URL": "https://www.jetstar.com/cn/zh/flights/seats",
+          "Updated": "False"
+        },
+        {
+          "Label": "机场&航站楼",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/airports-and-terminals",
+          "Updated": "False"
+        },
+        {
+          "Label": "登机",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/when-to-get-to-the-airport-for-domestic-flights",
+          "Updated": "False"
+        },
+        {
+          "Label": "机上餐饮",
+          "URL": "https://www.jetstar.com/cn/zh/flights/food-and-drinks",
+          "Updated": "False"
+        },
+        {
+          "Label": "机上娱乐",
+          "URL": "https://www.jetstar.com/cn/zh/flights/entertainment",
+          "Updated": "False"
+        },
+        {
+          "Label": "其他机上服务",
+          "URL": "https://www.jetstar.com/cn/zh/flights/comfort-packs",
+          "Updated": "False"
+        },
+        {
+          "Label": "贵宾室",
+          "URL": "https://www.jetstar.com/cn/zh/help/tags/lounges",
+          "Updated": "False"
+        }
+      ]
+    },
+    {
+      "ColumnName": "新闻&旅行政策",
+      "Links": [
+        {
+          "Label": "医疗证明",
+          "URL": "https://www.jetstar.com/cn/zh/fly-well",
+          "Updated": "False"
+        },
+        {
+          "Label": "特殊协助",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/specific-assistance",
+          "Updated": "False"
+        },
+        {
+          "Label": "航班变更",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Schedule_change_and_disruption_CHS.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "儿童独自出行",
+          "URL": "https://www.jetstar.com/cn/zh/help/articles/independent-travellers-and-accompanying-passengers",
+          "Updated": "False"
+        },
+        {
+          "Label": "捷星媒体中心",
+          "URL": "http://newsroom.jetstar.com/",
+          "Updated": "False"
+        }
+      ]
+    },
+    {
+      "ColumnName": "代理常用工具",
+      "Links": [
+        {
+          "Label": "代理支持中心导引",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Tour_the_Jetstar_Agent_Hub_CHS.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "捷星代理支持中心常见问答",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Jetstar_Agent_Hub_FAQ_CHS.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "管理您的代理账户",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Manage_Agency_Profile_EN.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "管理您的订单",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Manage_Your_Bookings_EN.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "使用指南",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/BSP_user_guide_CHS.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "用户指南",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/GDS_Guide_CHS.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "代理支持部门及团队部门联系方式",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Trade_and_group_contacts_CHS.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "团队预订常见问答",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Group_travel_FAQ_EN.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "捷星的代理主张",
+          "URL": "https://www.jetstar.com/cn/zh/travel-agents",
+          "Updated": "False"
+        },
+        {
+          "Label": "代理付款方式",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Trade_payment_options_CHS.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "产品组合",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/GDS_Fare_matrix_EN.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "酬金信息",
+          "URL": "http://www.jetstar.com/~/_media/Tradesite/Remuneration_EN.pdf",
+          "Updated": "False"
+        },
+        {
+          "Label": "代理条款&条件",
+          "URL": "http://www.jetstar.com/cn/zh/agentinfo/what-we-offer/travel-agents/travel-agent-terms-and-conditions",
+          "Updated": "False"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "Label": "Contact us",
+      "URL": "https://www.jetstar.com/cn/zh/contact-us"
+    },
+    {
+      "Label": "Customer Guarantee",
+      "URL": "https://www.jetstar.com/cn/zh/customer-guarantee"
+    },
+    {
+      "Label": "Privacy policy",
+      "URL": "https://www.jetstar.com/cn/zh/privacy-policy"
+    },
+    {
+      "Label": "Website Terms of use",
+      "URL": "http://www.jetstar.com/cn/zh/terms of use"
+    },
+    {
+      "Label": "Terms & Conditions of Carriage",
+      "URL": "http://www.jetstar.com/cn/zh/terms and conditions"
+    }
+  ],
+  "banners": [
+    {
+      "Name": "MREC",
+      "Image": "//www.jetstar.com/cn/zh/agentinfo//~/_media/Tradesite/Banners/flex_bundle_7kg_edited.png?bc=White",
+      "Caption": "Banner",
+      "URL": "//www.jetstar.com/cn/zh/flights/baggage/7kg-carry-on-baggage"
+    }
+  ]
+}

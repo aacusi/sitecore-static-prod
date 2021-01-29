@@ -1,0 +1,16 @@
+[
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/Jetstar-logo.jpg",
+    "ShortDescription": "Search and book over 100,000 hotels worldwide with Jetstar Hotels. Pay no booking fees and enjoy peace of mind with our Price Promise. Start searching today!",
+    "ButtonLabel": "Conditions apply",
+    "DropDownField": "For Jetstar Hotels Price Promise and other conditions, visit jetstar.com/hotels.",
+    "LinkURL": "http://www.jetstar.com/au/en/hotels/?utm_source=jetstar_msite&utm_medium=referral&utm_campaign=msite",
+    "ShowThirdPartyAlert": false
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/cars_fallback.jpg",
+    "ShortDescription": "Hire a car with Jetstar and you'll have access to a range of 1500 suppliers. No hidden charges, and you can cancel for free at any time.",
+    "LinkURL": "http://www.jetstar.com/au/en/car-hire?clientId=743004",
+    "ShowThirdPartyAlert": true
+  }
+]

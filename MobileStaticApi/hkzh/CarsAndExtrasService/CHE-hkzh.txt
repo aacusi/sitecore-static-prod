@@ -1,0 +1,18 @@
+[
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/Avis-Budget.jpg",
+    "ShortDescription": "透過 Avis/Budget 租車& 賺取澳航飛行常客積分。 立即預訂。 透過 Avis/Budget 於澳洲租用汽車、四驅車、客貨車、UTE 或巴士。 預訂國際租車服務，於機場或城市取車皆可。",
+    "ButtonLabel": "使用條款",
+    "DropDownField": "捷星將會把您轉接到 Avis Budget Group 網站。 此網站由 Avis Budget Group 擁有及營運。 任何您與 Avis Budget Group 的交易，純屬您與 Avis Budget Group 之間的事宜。 捷星將不會為其內容、資料或廣告負責，亦不會為任何因為登入、使用、對第三方的倚賴或與第三方交易，因而導致您 (或其他人士) 直接或間接損失或傷害而負責。 透過捷星轉接而到達的網站內的任何連結、Avis Budget Group 的資料廣告或推銷，均不代表該第三方獲得捷星的同意或與捷星有任何合作關係。",
+    "LinkURL": "https://book1.carrental.com/dcweb/app?service=page/MOBILEStep1&pid=Jetstar&locale=en&inited=false&mobile=true",
+    "ShowThirdPartyAlert": true
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/AgodaLogo.jpg",
+    "ShortDescription": "Agoda Company Pte Ltd (www.agoda.com) 是亞洲領先的網上酒店預訂服務公司，專門提供最低價格的酒店。 Agoda.com 是 Priceline Group (Nasdaq:PCLN) 所屬公司。 Agoda 的網絡遍佈全球超過 170,000 酒店， 擁有超過 1,000 名不同國籍的專業員工，遍佈全球各地，綜合獨有的當地知識和網絡，為商務和休閒旅客，提供一流的酒店預訂服務。",
+    "ButtonLabel": "申請條件",
+    "DropDownField": "捷星將會把您轉接到 Agoda 網站。 本網站由 Agoda 擁有及經營。 任何您與 Agoda 的交易，純屬您與 Agoda 之間的事宜。 捷星將不會為其內容、資料或廣告負責，亦不會為任何因為登入、使用、對第三方的倚賴或與第三方交易，因而導致您 (或其他人士) 直接或間接損失或傷害而負責。 透過捷星轉接而到達的網站內的任何連結、Agoda 的資料廣告或推銷，均不代表該第三方獲得捷星的同意或與捷星有任何合作關係。",
+    "LinkURL": "http://www.agoda.com/zh-hk/index.html?cid=1649673",
+    "ShowThirdPartyAlert": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/Avis-Budget.jpg",
+    "ShortDescription": "通过 Avis/Budget 租车，并赚取澳航飞行常客积分。 马上预订。 在澳大利亚通过 Avis/Budget 租赁汽车、四轮驱动车、卡车、轻型货车或客车。 在机场或市区预订国际租车。",
+    "ButtonLabel": "使用条款",
+    "DropDownField": "您将被捷星重定向到 Avis Budget Group 网站。 该网站由 Avis Budget Group 拥有和运营。 您若与 Avis Budget Group 进行交易，则此交易仅存在于您与 Avis Budget Group 之间。 捷星不会对第三方的资料或促销内容负任何责任，对于因您（或任何其他方）访问、使用、依赖第三方或与其交易而产生的任何直接或间接损失或损害，捷星也概不负责。 捷星重定向至的网站所包含的任何链接、Avis Budget Group 广告或促销资料，并不代表捷星认可这些内容，或与第三方有任何其他关联。",
+    "LinkURL": "https://book1.carrental.com/dcweb/app?service=page/MOBILEStep1&pid=Jetstar&locale=en&inited=false&mobile=true",
+    "ShowThirdPartyAlert": true
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/BudgetLogo.jpg",
+    "ShortDescription": "租车费和预订——经济实惠的汽车，小型汽车出租，中型轿车出租，各种尺寸的汽车、卡车、面包车和轻型货车应有尽有。 在澳大利亚百捷乐租车，也可赚取很有价值的奖励积分。 百捷乐是澳航飞行常客计划的荣誉租车合作伙伴。",
+    "ButtonLabel": "使用条款",
+    "DropDownField": "您将被捷星重定向到 Avis Budget Group 网站。 该网站由 Avis Budget Group 拥有和运营。 您若与 Avis Budget Group 进行交易，则此交易仅存在于您与 Avis Budget Group 之间。 捷星不会对第三方的资料或促销内容负任何责任，对于因您（或任何其他方）访问、使用、依赖第三方或与其交易而产生的任何直接或间接损失或损害，捷星也概不负责。 捷星重定向至的网站所包含的任何链接、Avis Budget Group 广告或促销资料，并不代表捷星认可这些内容，或与第三方有任何其他关联。",
+    "LinkURL": "https://book1.carrental.com/dcweb/app?service=page/MOBILEStep1&pid=Jetstar&locale=en&inited=false&mobile=true",
+    "ShowThirdPartyAlert": true
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/AgodaLogo.jpg",
+    "ShortDescription": "Agoda 有限公司 (www.agoda.com.cn) 是亚洲领先的在线酒店预订服务公司，致力于提供最低的酒店折扣价格。 Agoda.com 隶属于 Priceline Group（纳斯达克交易代码：PCLN）。 Agoda 的网络预订系统在全球拥有 170,000 多家的酒店资源。 Agoda 拥有 1,000 余位专业人员，他们来自不同的国家/地区，遍布世界各个角落，以提供一流的预订服务为目标，致力于结合各地区区域特色，为商务和休闲游客提供最佳的酒店特惠。",
+    "ButtonLabel": "申请条件",
+    "DropDownField": "您将被捷星重定向到 Agoda 网站。 该网站由 Agoda 拥有和运营。 您若与 Agoda 进行交易，则此交易仅存在于您与 Agoda 之间。 捷星不会对第三方的资料或促销内容负任何责任，对于因您（或任何其他方）访问、使用、依赖第三方或与其交易而产生的任何直接或间接损失或损害，捷星也概不负责。 捷星重定向至的网站所包含的任何链接、Agoda 广告或促销资料，并不代表捷星认可这些内容，或与第三方有任何其他关联。",
+    "LinkURL": "http://www.agoda.com/zh-cn/index.html?cid=1649670",
+    "ShowThirdPartyAlert": true
+  }
+]

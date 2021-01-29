@@ -1,0 +1,30 @@
+[
+  {
+    "HasLandingPage": false,
+    "LandingPageCTAText": "",
+    "LandingPageCTAURL": "",
+    "LandingPageImage": "",
+    "LandingPageText": "",
+    "LandingPageTitle": "",
+    "PromotionEndDate": "2014-06-01T00:30:00+00:00",
+    "PromotionStartDate": "0001-01-01T00:00:00+00:00",
+    "PromotionalPanelImage": "https://www.jetstar.com/MobileStaticApi/vnvi/NativeApplicationMarketingService/MobilePromotionsService-PromotionalPanelImage-L2/hp_010614_1500X900px_vn.jpg?bc=White",
+    "PromotionalPanelImageCTAText": "Xem chi tiết",
+    "PromotionalPanelImageTermsAndConditions": "",
+    "PromotionalPanelURL": "https:\/\/www.facebook.com\/JetstarVN"
+  },
+  {
+    "HasLandingPage": true,
+    "LandingPageCTAText": "",
+    "LandingPageCTAURL": "",
+    "LandingPageImage": "https://www.jetstar.com/MobileStaticApi/vnvi/NativeApplicationMarketingService/MobilePromotionsService-PromotionalPanelImage-L2/mb_pbr.jpg?bc=White",
+    "LandingPageText": "",
+    "LandingPageTitle": "",
+    "PromotionEndDate": "0001-01-01T00:00:00+00:00",
+    "PromotionStartDate": "0001-01-01T00:00:00+00:00",
+    "PromotionalPanelImage": "https://www.jetstar.com/MobileStaticApi/vnvi/NativeApplicationMarketingService/MobilePromotionsService-PromotionalPanelImage-L2/mb_pbr.jpg?bc=White",
+    "PromotionalPanelImageCTAText": "",
+    "PromotionalPanelImageTermsAndConditions": "",
+    "PromotionalPanelURL": "http:\/\/www.jetstar.com\/vn\/vi\/what-we-offer\/our-guarantees\/price-beat-guarantee"
+  }
+] 

@@ -1,0 +1,881 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "BFAIR-ADL",
+            "Value": "アデレード"
+        },
+        {
+            "Key": "BFAIR-AKL",
+            "Value": "オークランド"
+        },
+        {
+            "Key": "BFAIR-AU",
+            "Value": "オーストラリア"
+        },
+        {
+            "Key": "BFAIR-AVV",
+            "Value": "メルボルン（アバロン）"
+        },
+        {
+            "Key": "BFAIR-AYQ",
+            "Value": "エアーズロック"
+        },
+        {
+            "Key": "BFAIR-BKK",
+            "Value": "バンコク"
+        },
+        {
+            "Key": "BFAIR-BLR",
+            "Value": "インド、バンガロール"
+        },
+        {
+            "Key": "BFAIR-BMV",
+            "Value": "バンメトート"
+        },
+        {
+            "Key": "BFAIR-BNE",
+            "Value": "ブリスベン"
+        },
+        {
+            "Key": "BFAIR-BNK",
+            "Value": "バリナ・バイロン"
+        },
+        {
+            "Key": "BFAIR-BOM",
+            "Value": "インド、ムンバイ"
+        },
+        {
+            "Key": "BFAIR-BQB",
+            "Value": "バッセルトン（マーガレットリバー）"
+        },
+        {
+            "Key": "BFAIR-CAN",
+            "Value": "広州"
+        },
+        {
+            "Key": "BFAIR-CBR",
+            "Value": "キャンベラ"
+        },
+        {
+            "Key": "BFAIR-CCU",
+            "Value": "インド、コルカタ"
+        },
+        {
+            "Key": "BFAIR-CGK",
+            "Value": "ジャカルタ"
+        },
+        {
+            "Key": "BFAIR-CGO",
+            "Value": "鄭州"
+        },
+        {
+            "Key": "BFAIR-CHC",
+            "Value": "クライストチャーチ"
+        },
+        {
+            "Key": "BFAIR-CK",
+            "Value": "クック諸島"
+        },
+        {
+            "Key": "BFAIR-CMB",
+            "Value": "コロンボ"
+        },
+        {
+            "Key": "BFAIR-CN",
+            "Value": "中国"
+        },
+        {
+            "Key": "BFAIR-CNS",
+            "Value": "ケアンズ"
+        },
+        {
+            "Key": "BFAIR-CNX",
+            "Value": "チェンマイ"
+        },
+        {
+            "Key": "BFAIR-CRK",
+            "Value": "クラーク"
+        },
+        {
+            "Key": "BFAIR-CSX",
+            "Value": "長沙"
+        },
+        {
+            "Key": "BFAIR-CTS",
+            "Value": "札幌（新千歳）"
+        },
+        {
+            "Key": "BFAIR-CXR",
+            "Value": "ニャチャン"
+        },
+        {
+            "Key": "BFAIR-DAD",
+            "Value": "ダナン"
+        },
+        {
+            "Key": "BFAIR-DDI",
+            "Value": "デイドリームアイランド"
+        },
+        {
+            "Key": "BFAIR-DEL",
+            "Value": "デリー"
+        },
+        {
+            "Key": "BFAIR-DLI",
+            "Value": "ダラット"
+        },
+        {
+            "Key": "BFAIR-DPS",
+            "Value": "バリ（デンパサール）"
+        },
+        {
+            "Key": "BFAIR-DRW",
+            "Value": "ダーウィン"
+        },
+        {
+            "Key": "BFAIR-DUD",
+            "Value": "ダニーデン"
+        },
+        {
+            "Key": "BFAIR-FJ",
+            "Value": "フィジー"
+        },
+        {
+            "Key": "BFAIR-FUK",
+            "Value": "福岡"
+        },
+        {
+            "Key": "BFAIR-HAK",
+            "Value": "海口"
+        },
+        {
+            "Key": "BFAIR-HAN",
+            "Value": "ハノイ"
+        },
+        {
+            "Key": "BFAIR-HAP",
+            "Value": "ロングアイランド"
+        },
+        {
+            "Key": "BFAIR-HBA",
+            "Value": "ホバート"
+        },
+        {
+            "Key": "BFAIR-HDY",
+            "Value": "ハートヤイ"
+        },
+        {
+            "Key": "BFAIR-HFE",
+            "Value": "合肥"
+        },
+        {
+            "Key": "BFAIR-HGH",
+            "Value": "杭州（上海）"
+        },
+        {
+            "Key": "BFAIR-HIS",
+            "Value": "ヘイマンアイランド"
+        },
+        {
+            "Key": "BFAIR-HK",
+            "Value": "香港特別行政区、中国"
+        },
+        {
+            "Key": "BFAIR-HKG",
+            "Value": "香港"
+        },
+        {
+            "Key": "BFAIR-HKT",
+            "Value": "プーケット"
+        },
+        {
+            "Key": "BFAIR-HNL",
+            "Value": "ホノルル"
+        },
+        {
+            "Key": "BFAIR-HPH",
+            "Value": "ハイフォン"
+        },
+        {
+            "Key": "BFAIR-HTI",
+            "Value": "ハミルトンアイランド"
+        },
+        {
+            "Key": "BFAIR-HUI",
+            "Value": "フエ"
+        },
+        {
+            "Key": "BFAIR-HVB",
+            "Value": "ハービーベイ"
+        },
+        {
+            "Key": "BFAIR-ICN",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-ID",
+            "Value": "インドネシア"
+        },
+        {
+            "Key": "BFAIR-IN",
+            "Value": "Republic of India"
+        },
+        {
+            "Key": "BFAIR-JLM",
+            "Value": "キャンベラ（Jolimont Bus Station）"
+        },
+        {
+            "Key": "BFAIR-JP",
+            "Value": "日本"
+        },
+        {
+            "Key": "BFAIR-KCZ",
+            "Value": "高知"
+        },
+        {
+            "Key": "BFAIR-KH",
+            "Value": "カンボジア"
+        },
+        {
+            "Key": "BFAIR-KHH",
+            "Value": "高雄"
+        },
+        {
+            "Key": "BFAIR-KIX",
+            "Value": "大阪（関西）"
+        },
+        {
+            "Key": "BFAIR-KMI",
+            "Value": "宮崎"
+        },
+        {
+            "Key": "BFAIR-KMJ",
+            "Value": "熊本"
+        },
+        {
+            "Key": "BFAIR-KNO",
+            "Value": "メダン（クアラナム国際空港）"
+        },
+        {
+            "Key": "BFAIR-KOJ",
+            "Value": "鹿児島"
+        },
+        {
+            "Key": "BFAIR-KR",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-KUL",
+            "Value": "クアラルンプール"
+        },
+        {
+            "Key": "BFAIR-KWE",
+            "Value": "貴陽"
+        },
+        {
+            "Key": "BFAIR-LK",
+            "Value": "スリランカ"
+        },
+        {
+            "Key": "BFAIR-LOP",
+            "Value": "ロンボク"
+        },
+        {
+            "Key": "BFAIR-LST",
+            "Value": "ローンセストン"
+        },
+        {
+            "Key": "BFAIR-MAA",
+            "Value": "インド、チェンナイ"
+        },
+        {
+            "Key": "BFAIR-MCY",
+            "Value": "サンシャインコースト"
+        },
+        {
+            "Key": "BFAIR-MEL",
+            "Value": "メルボルン（タラマリン）"
+        },
+        {
+            "Key": "BFAIR-MES",
+            "Value": "メダン"
+        },
+        {
+            "Key": "BFAIR-MFM",
+            "Value": "マカオ"
+        },
+        {
+            "Key": "BFAIR-MKY",
+            "Value": "マッカイ"
+        },
+        {
+            "Key": "BFAIR-MM",
+            "Value": "ミャンマー"
+        },
+        {
+            "Key": "BFAIR-MNL",
+            "Value": "マニラ"
+        },
+        {
+            "Key": "BFAIR-MO",
+            "Value": "マカオ特別行政区、中国"
+        },
+        {
+            "Key": "BFAIR-MY",
+            "Value": "マレーシア"
+        },
+        {
+            "Key": "BFAIR-MYJ",
+            "Value": "松山"
+        },
+        {
+            "Key": "BFAIR-NAN",
+            "Value": "ナンディ"
+        },
+        {
+            "Key": "BFAIR-NGB",
+            "Value": "寧波"
+        },
+        {
+            "Key": "BFAIR-NGO",
+            "Value": "名古屋（中部）"
+        },
+        {
+            "Key": "BFAIR-NGS",
+            "Value": "長崎"
+        },
+        {
+            "Key": "BFAIR-NPE",
+            "Value": "ネーピア"
+        },
+        {
+            "Key": "BFAIR-NPL",
+            "Value": "ニュープリマス"
+        },
+        {
+            "Key": "BFAIR-NRT",
+            "Value": "東京（成田）"
+        },
+        {
+            "Key": "BFAIR-NSN",
+            "Value": "ネルソン"
+        },
+        {
+            "Key": "BFAIR-NTL",
+            "Value": "ニューキャッスル"
+        },
+        {
+            "Key": "BFAIR-NZ",
+            "Value": "ニュージーランド"
+        },
+        {
+            "Key": "BFAIR-OIT",
+            "Value": "大分"
+        },
+        {
+            "Key": "BFAIR-OKA",
+            "Value": "沖縄（那覇）"
+        },
+        {
+            "Key": "BFAIR-OOL",
+            "Value": "ゴールドコースト"
+        },
+        {
+            "Key": "BFAIR-PEK",
+            "Value": "北京"
+        },
+        {
+            "Key": "BFAIR-PEN",
+            "Value": "ペナン"
+        },
+        {
+            "Key": "BFAIR-PER",
+            "Value": "パース"
+        },
+        {
+            "Key": "BFAIR-PH",
+            "Value": "フィリピン"
+        },
+        {
+            "Key": "BFAIR-PKU",
+            "Value": "プカンバル"
+        },
+        {
+            "Key": "BFAIR-PLM",
+            "Value": "パレンバン"
+        },
+        {
+            "Key": "BFAIR-PMR",
+            "Value": "パーマストンノース"
+        },
+        {
+            "Key": "BFAIR-PNH",
+            "Value": "プノンペン"
+        },
+        {
+            "Key": "BFAIR-PPP",
+            "Value": "ウィッツサンデー・コースト"
+        },
+        {
+            "Key": "BFAIR-PQC",
+            "Value": "フーコック"
+        },
+        {
+            "Key": "BFAIR-PVG",
+            "Value": "上海（浦東）"
+        },
+        {
+            "Key": "BFAIR-PXU",
+            "Value": "プレイク"
+        },
+        {
+            "Key": "BFAIR-RAR",
+            "Value": "ラロトンガ"
+        },
+        {
+            "Key": "BFAIR-REP",
+            "Value": "シェムリアップ（アンコールワット）"
+        },
+        {
+            "Key": "BFAIR-RGN",
+            "Value": "ヤンゴン"
+        },
+        {
+            "Key": "BFAIR-SG",
+            "Value": "シンガポール"
+        },
+        {
+            "Key": "BFAIR-SGN",
+            "Value": "ホーチミン"
+        },
+        {
+            "Key": "BFAIR-SHI",
+            "Value": "宮古（下地島）"
+        },
+        {
+            "Key": "BFAIR-SIN",
+            "Value": "シンガポール"
+        },
+        {
+            "Key": "BFAIR-SUB",
+            "Value": "スラバヤ"
+        },
+        {
+            "Key": "BFAIR-SWA",
+            "Value": "汕頭\/掲陽"
+        },
+        {
+            "Key": "BFAIR-SYD",
+            "Value": "シドニー"
+        },
+        {
+            "Key": "BFAIR-SYO",
+            "Value": "庄内"
+        },
+        {
+            "Key": "BFAIR-SYX",
+            "Value": "三亜"
+        },
+        {
+            "Key": "BFAIR-TAK",
+            "Value": "高松"
+        },
+        {
+            "Key": "BFAIR-TBB",
+            "Value": "トゥイホア"
+        },
+        {
+            "Key": "BFAIR-TH",
+            "Value": "タイ"
+        },
+        {
+            "Key": "BFAIR-THD",
+            "Value": "タインホア"
+        },
+        {
+            "Key": "BFAIR-TJQ",
+            "Value": "ブリトゥン<br \/>"
+        },
+        {
+            "Key": "BFAIR-TPE",
+            "Value": "台北"
+        },
+        {
+            "Key": "BFAIR-TRZ",
+            "Value": "インド、ティルチラパッリ"
+        },
+        {
+            "Key": "BFAIR-TSV",
+            "Value": "タウンズビル"
+        },
+        {
+            "Key": "BFAIR-TW",
+            "Value": "台湾、中国"
+        },
+        {
+            "Key": "BFAIR-UIH",
+            "Value": "クイニョン"
+        },
+        {
+            "Key": "BFAIR-US",
+            "Value": "アメリカ合衆国"
+        },
+        {
+            "Key": "BFAIR-VCA",
+            "Value": "カントー"
+        },
+        {
+            "Key": "BFAIR-VCL",
+            "Value": "チューライ"
+        },
+        {
+            "Key": "BFAIR-VDH",
+            "Value": "ドンホイ"
+        },
+        {
+            "Key": "BFAIR-VII",
+            "Value": "ヴィン"
+        },
+        {
+            "Key": "BFAIR-VIZ",
+            "Value": "メルボルン"
+        },
+        {
+            "Key": "BFAIR-VN",
+            "Value": "ベトナム"
+        },
+        {
+            "Key": "BFAIR-WLG",
+            "Value": "ウェリントン"
+        },
+        {
+            "Key": "BFAIR-WSY",
+            "Value": "ウィッツサンデー・コースト - エアリービーチ"
+        },
+        {
+            "Key": "BFAIR-WUH",
+            "Value": "武漢"
+        },
+        {
+            "Key": "BFAIR-XUZ",
+            "Value": "徐州"
+        },
+        {
+            "Key": "BFAIR-ZQN",
+            "Value": "クイーンズタウン"
+        },
+        {
+            "Key": "terminalInfo-ADL-1",
+            "Value": "国内線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-ADL-1-short",
+            "Value": "国内線"
+        },
+        {
+            "Key": "terminalInfo-ADL-D",
+            "Value": "国内線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-ADL-D-short",
+            "Value": "国内線"
+        },
+        {
+            "Key": "terminalInfo-ADL-I",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-ADL-I-short",
+            "Value": "国際線"
+        },
+        {
+            "Key": "terminalInfo-AKL-D",
+            "Value": "国内線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-AKL-D-short",
+            "Value": "国内線"
+        },
+        {
+            "Key": "terminalInfo-AKL-I",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-AKL-I-short",
+            "Value": "国際線"
+        },
+        {
+            "Key": "terminalInfo-BKK-I",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-BKK-I-short",
+            "Value": "国際線"
+        },
+        {
+            "Key": "terminalInfo-BNE-D",
+            "Value": "国内線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-BNE-D-short",
+            "Value": "国内線"
+        },
+        {
+            "Key": "terminalInfo-BNE-I",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-BNE-I-short",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-CNS-D",
+            "Value": "国内線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-CNS-D-short",
+            "Value": "国内線"
+        },
+        {
+            "Key": "terminalInfo-CNS-I",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-CNS-I-short",
+            "Value": "国際線"
+        },
+        {
+            "Key": "terminalInfo-DPS-I",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-DPS-I-short",
+            "Value": "国際線"
+        },
+        {
+            "Key": "terminalInfo-DRW-D",
+            "Value": "国内線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-DRW-D-short",
+            "Value": "国内線"
+        },
+        {
+            "Key": "terminalInfo-DRW-I",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-DRW-I-short",
+            "Value": "国際線"
+        },
+        {
+            "Key": "terminalInfo-HKG-2",
+            "Value": "ターミナル２"
+        },
+        {
+            "Key": "terminalInfo-HKG-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-HKT-1",
+            "Value": "ターミナル１"
+        },
+        {
+            "Key": "terminalInfo-HKT-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-HKT-I",
+            "Value": "ターミナル１"
+        },
+        {
+            "Key": "terminalInfo-HKT-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-HNL-M",
+            "Value": "主要ターミナル"
+        },
+        {
+            "Key": "terminalInfo-HNL-M-short",
+            "Value": "主要"
+        },
+        {
+            "Key": "terminalInfo-KIX-1",
+            "Value": "ターミナル１"
+        },
+        {
+            "Key": "terminalInfo-KIX-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-KIX-I",
+            "Value": "ターミナル１"
+        },
+        {
+            "Key": "terminalInfo-KIX-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1",
+            "Value": "国内線ターミナル　T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1-short",
+            "Value": "国際線ターミナルT1"
+        },
+        {
+            "Key": "terminalInfo-MEL-2",
+            "Value": "国際線ターミナル　T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-4",
+            "Value": "国内線ターミナル　T4"
+        },
+        {
+            "Key": "terminalInfo-MEL-4-short",
+            "Value": "国際線ターミナルT4"
+        },
+        {
+            "Key": "terminalInfo-MEL-D",
+            "Value": "国内線ターミナル　T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-D-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MNL-I",
+            "Value": "ターミナル１"
+        },
+        {
+            "Key": "terminalInfo-MNL-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-NRT-2",
+            "Value": "ターミナル２"
+        },
+        {
+            "Key": "terminalInfo-NRT-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-NRT-3",
+            "Value": "ターミナル3"
+        },
+        {
+            "Key": "terminalInfo-NRT-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-OOL-D",
+            "Value": "国内線ターミナル　T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-D-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-I",
+            "Value": "国際線ターミナル　T2"
+        },
+        {
+            "Key": "terminalInfo-OOL-I-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-PER-1",
+            "Value": "国際線ターミナル　T1"
+        },
+        {
+            "Key": "terminalInfo-PER-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-PER-2",
+            "Value": "国内線ターミナル T4\u000a"
+        },
+        {
+            "Key": "terminalInfo-PER-2-short",
+            "Value": "T4"
+        },
+        {
+            "Key": "terminalInfo-PER-3",
+            "Value": "国内線ターミナル　T3"
+        },
+        {
+            "Key": "terminalInfo-PER-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-PER-4",
+            "Value": "国内線ターミナル　T4"
+        },
+        {
+            "Key": "terminalInfo-PER-4-short",
+            "Value": "T４"
+        },
+        {
+            "Key": "terminalInfo-SGN-D",
+            "Value": "ターミナル1"
+        },
+        {
+            "Key": "terminalInfo-SGN-D-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SGN-I",
+            "Value": "国際線ターミナル"
+        },
+        {
+            "Key": "terminalInfo-SGN-I-short",
+            "Value": "国際線"
+        },
+        {
+            "Key": "terminalInfo-SIN-1",
+            "Value": "ターミナル１"
+        },
+        {
+            "Key": "terminalInfo-SIN-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SUB-2",
+            "Value": "ターミナル２"
+        },
+        {
+            "Key": "terminalInfo-SUB-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-1",
+            "Value": "国際線ターミナル　T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-2",
+            "Value": "国内線ターミナル　T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-3",
+            "Value": "国内線ターミナル　T3"
+        },
+        {
+            "Key": "terminalInfo-SYD-3-short",
+            "Value": "T3"
+        }
+    ],
+    "Promotions": null
+}

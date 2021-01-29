@@ -1,0 +1,493 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "MCI-Baggage",
+            "Value": "受託手荷物"
+        },
+        {
+            "Key": "MCI-BaggageAllowance",
+            "Value": "手荷物容量:"
+        },
+        {
+            "Key": "MCI-Baggage-bag",
+            "Value": "個"
+        },
+        {
+            "Key": "MCI-Baggage-bag-plural",
+            "Value": "個"
+        },
+        {
+            "Key": "MCI-BaggageInfo",
+            "Value": "各搭乗者の受託手荷物数を選択してください"
+        },
+        {
+            "Key": "MCI-Baggage-no-bags",
+            "Value": "無し"
+        },
+        {
+            "Key": "MCI-Baggage-no-option-avail",
+            "Value": "ご利用いただけません"
+        },
+        {
+            "Key": "MCI-BoardingPass",
+            "Value": "搭乗券"
+        },
+        {
+            "Key": "MCI-BoardingPassEmail",
+            "Value": "お客様ごと、フライトごとに搭乗券をご提供します。必ずお客様によりウェブ搭乗券をを印刷してください。"
+        },
+        {
+            "Key": "MCI-BoardingPassEmailDesc",
+            "Value": "モバイル搭乗券をご利用になる場合は、スマートフォンをインターネットに接続できる状態にしてください。 チェックイン完了後、ジェットスターアプリ上で搭乗券を表示することができます。またアプリをご利用にならない場合でも、指定したEメールアドレスに届くメールからiOS Passbook\/Walletにモバイル搭乗券を保存することもできます。"
+        },
+        {
+            "Key": "MCI-BoardingPassInfo",
+            "Value": "搭乗券の受け取り方法を選択してください。"
+        },
+        {
+            "Key": "MCI-BoardingPassMobileSMS",
+            "Value": "We will send the number(s) provided below an SMS with a link to a mobile boarding pass. \u000d\u000aSimply tap the link in the SMS and follow the prompts to download the boarding pass.\u000d\u000aPlease note that you must have a working internet connection (WiFi, 3G or 4G) to access the boarding pass link in the SMS.\u000d\u000a"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-AddToAndroidWallet",
+            "Value": "Walletに保存"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-AddToAppleWallet",
+            "Value": "Apple Walletに保存"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-Boarding",
+            "Value": "搭乗時刻"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-BookingReference",
+            "Value": "お客様のご予約番号は{0}です。"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-CheckedInState",
+            "Value": "チェックイン待ち"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-CheckInRemainingText",
+            "Value": "残りの搭乗者をチェックイン"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-FailedToGetBP",
+            "Value": "申し訳ありません。エラーが発生しました。"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-FailedToGetBPTxt",
+            "Value": "搭乗券を取得できませんでした。もう一度お試しください。このエラーが何度も発生する場合は、ジェットスターのチェックインカウンターまでお越しください。"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-Flexibiz",
+            "Value": "FlexiBiz"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-Gate",
+            "Value": "ゲート"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-Group",
+            "Value": "グループ"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-GroupPassengers",
+            "Value": "搭乗者"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-Header",
+            "Value": "搭乗券"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-Seat",
+            "Value": "座席"
+        },
+        {
+            "Key": "MCI-BoardingPassPage-Sequence",
+            "Value": "Seq: {0}"
+        },
+        {
+            "Key": "MCI-BoardingPassSMS",
+            "Value": "<!-- -->"
+        },
+        {
+            "Key": "MCI-CarryBagAllwnce",
+            "Value": "機内持込手荷物について"
+        },
+        {
+            "Key": "MCI-CarryBagAllwnceTxt",
+            "Value": "ご予約の運賃タイプでは、キャリーケースなどのお手荷物1個とハンドバッグなどのお手回り品1個の計2個、合計7kgまでお持ち込みいただけます。規定を超えるお手荷物は、受託手荷物としてお預けいただく必要があり、料金がかかります。\u000a<br>\u000aお手荷物のサイズ：<b>高さ56cm×幅36cm×奥行23cm<\/b>\u000a<br>\u000a機内持込手荷物は、お客様の前の座席の下または頭上の収納棚に入るサイズに限られます。\u000a<br>\u000aお手回り品の例：\u000a<ul>\u000a<li>ハンドバック<\/li>\u000a<li>文庫本<\/li>\u000a<li>財布<\/li>\u000a<li>コート<\/li>\u000a<li>傘<\/li>\u000a<li>ノート型パソコン<\/li>\u000a<li>免税品（国際線をご利用の場合）<\/li>\u000a<\/ul>"
+        },
+        {
+            "Key": "MCI-CarryBagAllwnceTxt-Q30",
+            "Value": "ご予約の運賃タイプでは、キャリーケースなどのお手荷物1個とハンドバッグなどのお手回り品1個の計2個、合計7kgまでお持ち込みいただけます。規定を超えるお手荷物は、受託手荷物としてお預けいただく必要があり、料金がかかります。\u000a<br>\u000aお手荷物のサイズ：<b>高さ48cm×幅34cm×奥行23cm<\/b>\u000a<br>\u000aQ300型機は他の機種に比べ小さいため、お持ち込みいただけるお手荷物の規定のサイズも通常より小さくなりますのでご注意ください。但し、上記のサイズを超えた場合でも、「高さ56cm×幅36cm×奥行23cm、7kg」を超えなければ、受託手荷物として無料でお預けいただけます。チェックイン時にカウンターにてお申し出ください。\u000a<br>\u000a機内持込手荷物は、お客様の前の座席の下または頭上の収納棚に入るサイズに限られます。\u000a<br>\u000aお手回り品の例：\u000a<ul>\u000a<li>ハンドバック<\/li>\u000a<li>文庫本<\/li>\u000a<li>財布<\/li>\u000a<li>コート<\/li>\u000a<li>傘<\/li>\u000a<li>ノート型パソコン<\/li>\u000a<li>免税品（国際線をご利用の場合）<\/li>\u000a<\/ul>"
+        },
+        {
+            "Key": "MCI-ChangeSeats",
+            "Value": "座席を変更する"
+        },
+        {
+            "Key": "MCI-CheckedBaggageDetails",
+            "Value": "受託手荷物の詳細"
+        },
+        {
+            "Key": "MCI-CheckInBaggage",
+            "Value": "受託手荷物について"
+        },
+        {
+            "Key": "MCI-CheckInBaggageTxt",
+            "Value": "受託手荷物の受付開始は出発の<b>2時間前<\/b>、受付締切は出発の<b>30分前<\/b>です。\u000a<ol>\u000a<li>自動チェックイン機でモバイル搭乗券をスキャンして手荷物タグ（手荷物引換券）を印刷してください。<\/li>\u000a<li>自動手荷物預け機、または、チェックインカウンターにてお預けください。<\/li>\u000a<li>搭乗ゲートにて、モバイル搭乗券のQRコードを提示してご搭乗ください。<\/li>\u000a<\/ol>\u000a<br>\u000a出発の30分前までに搭乗ゲートへお越しください。"
+        },
+        {
+            "Key": "MCI-CheckInBaggageTxt-Q30",
+            "Value": "受託手荷物の受付開始は出発の<b>90分前<\/b>、受付締切は出発の<b>30分前<\/b>です。\u000a<ol>\u000a<li>自動チェックイン機でモバイル搭乗券をスキャンして手荷物タグ（手荷物引換券）を印刷してください。<\/li>\u000a<li>自動手荷物預け機、または、チェックインカウンターにてお預けください。<\/li>\u000a<li>搭乗ゲートにて、モバイル搭乗券のQRコードを提示してご搭乗ください。<\/li>\u000a<\/ol>\u000a<br>\u000a出発の30分前までに搭乗ゲートへお越しください。"
+        },
+        {
+            "Key": "MCI-CheckInComplete",
+            "Value": "チェックイン済"
+        },
+        {
+            "Key": "MCI-CheckInNow",
+            "Value": "チェックインを開始する"
+        },
+        {
+            "Key": "MCI-CheckInSuccessful",
+            "Value": "チェックインが完了しました"
+        },
+        {
+            "Key": "MCI-CompleteCheckIn",
+            "Value": "チェックインを完了する"
+        },
+        {
+            "Key": "MCI-ConfirmationInfo",
+            "Value": "<p><strong>\u000aジェットスターをご利用いただき、ありがとうございます。\u000a<\/strong><\/p><p>\u000aご搭乗便のチェックインが完了しました。\u000a<\/p><p><strong>\u000a搭乗手続きをスムーズにするため、下記にご協力ください。\u000a<\/strong><\/p><p><strong>\u000aご搭乗手続きは時間厳守でお願いします\u000a<\/strong><\/p><p>\u000a出発予定時刻の30分前までに搭乗ゲートにお越しください。出発時刻の15分前に飛行機のドアが閉まります。\u000a<\/p><p><strong>\u000a手荷物を預ける\u000a<\/strong><\/p><p>\u000aお手荷物のお預けは、出発時刻の2時間前から可能です。Q300型機を使用するフライトでは出発時刻の90分前からお預けいただけます。\u000a<\/p><p><strong>\u000a機内持込手荷物許容量\u000a<\/strong><\/p><p>\u000a機内にお持込みいただけるのは、主要機内持込手荷物1個とお手回り品1個、合計7kgまでとなります。\u000a<br\/><img src=\"https:\/\/www.jetstar.com\/%7E\/_media\/6FF0B426BB6743AC9D586621FFC4A927.ashx\"><br\/>\u000a小型品目には、次のようなものがあります。<\/br>\u000a<ul><li>ハンドバッグ、<\/li><li>文庫本、財布、コート、<\/li><li>傘、<\/li><li>小型のラップトップPCバッグ。<\/li><\/ul>\u000a<p>これらの品目は座席下に収納できるものとします。<\/p>\u000a<p><strong>注意事項：<\/strong><\/p>\u000a<p>この許容量を超える機内持込手荷物をお持ちのお客様は、受託手荷物として手荷物を預けていただく必要があり、料金が課されます。<\/p>"
+        },
+        {
+            "Key": "MCI-ConfirmationInfoCrossOver",
+            "Value": "<p><strong>ご利用ありがとうございます。<\/strong><\/p>\u000a<p>チェックインのお手続きが完了しました。<\/p>\u000a<p><strong>スムーズなご旅行のために：<\/strong><\/p>\u000a<p><strong>ご搭乗について<\/strong><\/p>\u000a<p>出発時刻の30分前までに必ず搭乗ゲートまでお越しください。<\/p>\u000a<p><strong>受託手荷物について<\/strong><\/p>\u000a<p>お手荷物のお預けは、出発時刻の2時間前から可能です。出発時刻の30分前までにお預けください。<\/p>\u000a<p><strong>機内持込手荷物について<\/strong><\/p>\u000a<p>機内には、キャリーケースなどのお手荷物1個とハンドバッグなどのお手回り品1個の計2個をお持ち込みいただけます。<br \/>\u000a2014年<strong>11月24日以前にご搭乗<\/strong>の場合：機内持込手荷物<strong>10kg<\/strong>まで（ジェットスター・パシフィック航空（BL）のベトナム国内線は<strong>7kg<\/strong>まで）。\u000a2014年<strong>11月25日以降にご搭乗<\/strong>の場合：機内持込手荷物<strong>7kg<\/strong>まで（ジェットスター・ジャパン（GK）の日本国内線は、<strong>10kg<\/strong>まで）。\u000a<br\/><img src=\"https:\/\/www.jetstar.com\/%7E\/_media\/6FF0B426BB6743AC9D586621FFC4A927.ashx\">\u000a<br\/>お手回り品の例：<\/p>\u000a<ul>\u000a<li>ハンドバッグ<\/li>\u000a<li>文庫本<\/li>\u000a<li>財布<\/li>\u000a<li>コート<\/li>\u000a<li>傘<\/li>\u000a<li>ノートパソコン<\/li>\u000a<\/ul>\u000a<p>お手回り品は、座席の下に収納できる大きさのお手荷物に限られます。<\/p>\u000a<p><strong>ご注意事項：<\/strong><\/p> \u000a<p>規定を超えるお手荷物は、受託手荷物としてお預けいただく必要があり、料金が課されます。<\/p>"
+        },
+        {
+            "Key": "MCI-ConfirmationInfoCrossOverGK",
+            "Value": "<p><strong>ご利用ありがとうございます。<\/strong><\/p>\u000a<p>チェックインのお手続きが完了しました。<\/p>\u000a<p><strong>スムーズなご旅行のために：<\/strong><\/p>\u000a<p><strong>ご搭乗について<\/strong><\/p>\u000a<p>出発時刻の30分前までに必ず搭乗ゲートまでお越しください。<\/p>\u000a<p><strong>受託手荷物について<\/strong><\/p>\u000a<p>お手荷物のお預けは、出発時刻の2時間前から可能です。出発時刻の30分前までにお預けください。<\/p>\u000a<p><strong>機内持込手荷物について<\/strong><\/p>\u000a<p>機内には、キャリーケースなどのお手荷物1個とハンドバッグなどのお手回り品1個の計2個までをお持ち込みいただけます。<br \/>\u000a<strong>2015年1月31日以前にご搭乗の場合：<\/strong>機内持込手荷物は10kgまで*（ビジネスクラスは10kg×2個）。\u000a*ジェットスター・パシフィック航空（BL）、ジェットスター・アジア航空（3K）、ジェットスター航空（JQ）は7kgまで。<br \/>\u000a<strong>2015年2月1日以降にご搭乗の場合：<\/strong>機内持込手荷物は7kgまで。<br\/>\u000a<img src=\"https:\/\/www.jetstar.com\/%7E\/_media\/6FF0B426BB6743AC9D586621FFC4A927.ashx\"><br \/>\u000aお手回り品の例：<\/p>\u000a<ul>\u000a<li>ハンドバッグ<\/li>\u000a<li>文庫本<\/li>\u000a<li>財布<\/li>\u000a<li>コート<\/li>\u000a<li>傘<\/li>\u000a<li>ノートパソコン<\/li>\u000a<\/ul>\u000a<p>お手回り品は、座席の下に収納できる大きさのお手荷物に限られます。<\/p>\u000a<p><strong>ご注意事項：<\/strong><\/p>\u000a<p>規定を超えるお手荷物は、受託手荷物としてお預けいただく必要があり、料金が課されます。<\/p>"
+        },
+        {
+            "Key": "MCI-ConfirmationInfoNew",
+            "Value": "<p><strong>ご利用ありがとうございます。<\/strong><\/p>\u000d\u000a<p>チェックインのお手続きが完了しました。<\/p> \u000d\u000a<p><strong>スムーズなご旅行のために：<\/strong><\/p> \u000d\u000a<p><strong>ご搭乗について<\/strong><\/p> \u000d\u000a<p>出発時刻の30分前までに必ず搭乗ゲートまでお越しください。<\/p> \u000d\u000a<p><strong>受託手荷物について<\/strong><\/p>\u000d\u000a<p>お手荷物のお預けは、出発時刻の2時間前から可能です。Q300型機を使用するフライトでは出発時刻の90分前からお預けいただけます。出発時刻の30分前までにお預けください。<\/p>\u000d\u000a<p><strong>機内持込手荷物について<\/strong><\/p> \u000d\u000a<p>機内には、キャリーケースなどのお手荷物1個とハンドバッグなどのお手回り品1個の計2個、合計<strong>7kg<\/strong>までお持ち込みいただけます。\u000d\u000a<br\/><img src=\"https:\/\/www.jetstar.com\/%7E\/_media\/6FF0B426BB6743AC9D586621FFC4A927.ashx\">\u000d\u000a<br\/>お手回り品の例：<\/p>\u000d\u000a<ul>\u000d\u000a<li>ハンドバッグ<\/li>\u000d\u000a<li>文庫本<\/li>\u000d\u000a<li>財布<\/li>\u000d\u000a<li>コート<\/li>\u000d\u000a<li>傘<\/li>\u000d\u000a<li>ノートパソコン<\/li>\u000d\u000a<\/ul>\u000d\u000a<p>お手回り品は、座席の下に収納できる大きさのお手荷物に限られます。<\/p>\u000d\u000a<p><strong>ニュージーランド国内地方路線はQ300型機で運航します<\/strong><\/p>\u000d\u000a<p>Q300型機のキャビンは小さいため、お持ち込みいただけるお手荷物の規定も通常より小さくなりますのでご注意ください（スーツカバーの規定サイズに変更はありません）。<\/p>\u000d\u000a<p style=\"float: left;\"><img width=\"282\" height=\"220\" alt=\"\" src=\"https:\/\/www.jetstar.com\/%7E\/_media\/D63A68A3BB094AC494E98322D6AB1B88.png\"\/><\/p>\u000d\u000a<br \/>\u000d\u000a<br \/>\u000d\u000a<p><strong>注意事項：<\/strong>サイズを超えた場合でも、「高さ56cm×幅36cm×奥行23cm、7kg」（通常の機内持込手荷物のサイズ・重量の規定）を超えなければ、受託手荷物として無料でお預けいただけます。チェックイン時にカウンターにてお申し出ください。<br clear=\"all\" \/>\u000d\u000a<\/p>\u000d\u000a<p><strong>ご注意事項：<\/strong><\/p>\u000d\u000a<p>規定を超えるお手荷物は、受託手荷物としてお預けいただく必要があり、料金が課されます。<\/p>"
+        },
+        {
+            "Key": "MCI-Confirm-BoardingPassDelivery",
+            "Value": "搭乗券の送信"
+        },
+        {
+            "Key": "MCI-Confirm-ConfirmButton",
+            "Value": "チェックインする"
+        },
+        {
+            "Key": "MCI-Confirm-DeliveryOptionTxt",
+            "Value": "モバイル搭乗券を発行します。お客様のEメールアドレスに確認メールをお送りします。"
+        },
+        {
+            "Key": "MCI-Confirm-EmailCheckBoxForAllPax",
+            "Value": "搭乗券をすべて同じEメールアドレスへ送る"
+        },
+        {
+            "Key": "MCI-Confirm-EmailValidate",
+            "Value": "有効なEメールアドレスを入力してください"
+        },
+        {
+            "Key": "MCI-Confirm-EnterEmail",
+            "Value": "Eメールアドレスを入力してください"
+        },
+        {
+            "Key": "MCI-ConfirmSeats",
+            "Value": "座席を確認する"
+        },
+        {
+            "Key": "MCI-ContinueToCheckIn",
+            "Value": ""
+        },
+        {
+            "Key": "MCI-DangerousGoods",
+            "Value": "危険物"
+        },
+        {
+            "Key": "MCI-DG01",
+            "Value": "腐食性物質"
+        },
+        {
+            "Key": "MCI-DG02",
+            "Value": "高圧ガス"
+        },
+        {
+            "Key": "MCI-DG03",
+            "Value": "毒物類"
+        },
+        {
+            "Key": "MCI-DG04",
+            "Value": "爆薬・火薬"
+        },
+        {
+            "Key": "MCI-DG05",
+            "Value": "有害物質"
+        },
+        {
+            "Key": "MCI-DG06",
+            "Value": "伝染病物質"
+        },
+        {
+            "Key": "MCI-DG07",
+            "Value": "可燃性の液体"
+        },
+        {
+            "Key": "MCI-DG08",
+            "Value": "有機過酸化物質"
+        },
+        {
+            "Key": "MCI-DG09",
+            "Value": "放射性物質"
+        },
+        {
+            "Key": "MCI-DG10",
+            "Value": "可燃性固体"
+        },
+        {
+            "Key": "MCI-DG11",
+            "Value": "酸化性物質"
+        },
+        {
+            "Key": "MCI-DG12",
+            "Value": "磁性物質"
+        },
+        {
+            "Key": "MCI-DG13",
+            "Value": "リチウム電池"
+        },
+        {
+            "Key": "MCI-DG14",
+            "Value": "酸素"
+        },
+        {
+            "Key": "MCI-DG15",
+            "Value": "火気・ライフル・拳銃"
+        },
+        {
+            "Key": "MCI-DG16",
+            "Value": "弾丸：銃器を発射する事に使用されるもの"
+        },
+        {
+            "Key": "MCI-DGAlert",
+            "Value": "お客様のリクエストを処理することができません。空港チェックインカウンターにて、危険物を申告してください。"
+        },
+        {
+            "Key": "MCI-DGInfo01",
+            "Value": "<p>民間航空安全局規則は、危険物の大半の品目について、航空機で運送することを禁じています。次の品目が手荷物に含まれている場合には、空港で申告していただく必要があります。<\/p>"
+        },
+        {
+            "Key": "MCI-DGInfo02",
+            "Value": "<h4>銃砲および弾薬<\/h4><p>銃砲および弾薬を受託手荷物としてお預かりすることは可能です。お預かりする場合には、適用されるすべての国内および国際法規に準じて梱包されていることが必須条件となります。<\/p>"
+        },
+        {
+            "Key": "MCI-DGInfo03",
+            "Value": "<p>危険物の確認を怠ったり、民間航空安全局規則を遵守しないことは、重罪となります。<\/p><p>何か危険物を持ち込む予定ですか？<\/p>"
+        },
+        {
+            "Key": "MCI-DGNo",
+            "Value": "いいえ、危険物は所持していません。"
+        },
+        {
+            "Key": "MCI-DGYes",
+            "Value": "はい、危険物を所持しています。"
+        },
+        {
+            "Key": "MCI-Disclaimer",
+            "Value": "<p>予告なしにご指定済みの座席番号が変更・取消となる場合がございますので、あらかじめご了承ください。<\/p>"
+        },
+        {
+            "Key": "MCI-Email",
+            "Value": "Eメールで送信し、搭乗券を印刷"
+        },
+        {
+            "Key": "MCI-EmailAllPAX",
+            "Value": "このメールアドレスを全ての搭乗者に使う"
+        },
+        {
+            "Key": "MCI-EmailPdfAndPassbook",
+            "Value": "スマホにモバイル搭乗券を送る"
+        },
+        {
+            "Key": "MCI-ErrorBaggage",
+            "Value": "搭乗者全員分の受託手荷物の数をご選択ください"
+        },
+        {
+            "Key": "MCI-ExitRowBody",
+            "Value": "<p>非常口座席に割り当てられました。別の座席をご希望の場合は<a href=\"{0}\">予約の確認／変更<\/a>から変更可能です（別途有料）。<\/p>\u000a<p>変更を希望されない場合は、そのままお進みください。<\/p>"
+        },
+        {
+            "Key": "MCI-ExitRowHeading",
+            "Value": "非常口座席"
+        },
+        {
+            "Key": "MCI-Failure-CheckinFail",
+            "Value": "チェックインできませんでした。"
+        },
+        {
+            "Key": "MCI-Failure-CheckinFailTxt",
+            "Value": "申し訳ありません。エラーの発生により、チェックインできませんでした。下記よりもう一度お試しください。このエラーが何度も発生する場合は、お手数ですが空港の自動チェックイン機をご利用ください。"
+        },
+        {
+            "Key": "MCI-Failure-PartialCheckIn",
+            "Value": "チェックイン完了"
+        },
+        {
+            "Key": "MCI-Failure-PartialCheckInTxt",
+            "Value": "チェックインが完了しました。搭乗券がお客様のEメールに届くまで時間がかかる場合があります。\u000a3時間経っても届かない場合は、ジェットスターのチェックインカウンターまでお越しください。"
+        },
+        {
+            "Key": "MCI-Failure-RetryCheckinBtn",
+            "Value": "もう一度チェックイン"
+        },
+        {
+            "Key": "MCI-Header",
+            "Value": "オンラインチェックイン"
+        },
+        {
+            "Key": "MCI-InfoLoggedIn",
+            "Value": "<p>オンラインチェックインをする場合は、以下にご予約の詳細を入力してください。詳しくは<a href=\"https:\/\/www.jetstar.com\/jp\/ja\/help\/articles\/checking-in#webcheckin\" target=\"_blank\">こちら<\/a>をご覧ください。<br \/>\u000aモバイル搭乗券を利用されないお客様または国際線にご搭乗のお客様は、PDF搭乗券を必ず印刷のうえ、空港にお持ちください。<\/p>"
+        },
+        {
+            "Key": "MCI-InfoNotMember",
+            "Value": "<p>オンラインチェックインをする場合は、以下にご予約の詳細を入力してください。またマイアカウントをお持ちのお客様は、ログインしてください。詳しくは<a href=\"http:\/\/www.jetstar.com\/jp\/ja\/help\/articles\/checking-in#webcheckin\" target=\"_blank\">こちら<\/a>をご覧ください。<br \/>\u000aモバイル搭乗券を利用されないお客様または国際線にご搭乗のお客様は、PDF搭乗券を必ず印刷のうえ、空港にお持ちください。<\/p>"
+        },
+        {
+            "Key": "MCI-MemberLogin",
+            "Value": "ログイン"
+        },
+        {
+            "Key": "MCI-MobileCheckInClosed",
+            "Value": "お客様のフライトのオンラインチェックイン受付時間は終了しました。空港チェックインカウンターでお手続きください。"
+        },
+        {
+            "Key": "MCI-MobileCheckInCompleted",
+            "Value": "このご予約のチェックインはすでに完了しています。"
+        },
+        {
+            "Key": "MCI-MobileCheckInUnavailable",
+            "Value": "オンラインチェックインをご利用いただけません。"
+        },
+        {
+            "Key": "MCI-MobileCheckInUnavailableJetstarCom",
+            "Value": "オンラインチェックインをご利用いただけません。"
+        },
+        {
+            "Key": "MCI-MobileCheckinUnavailableNoSeats",
+            "Value": "座席の指定ができないため、オンラインチェックインができません。恐れ入りますが、空港チェックインカウンターにてお手続きください。"
+        },
+        {
+            "Key": "MCI-MobileViaSMS",
+            "Value": "Mobile Boarding Pass via SMS"
+        },
+        {
+            "Key": "MCI-NoSeatsAvailable",
+            "Value": "選択可能な座席がありません。恐れ入りますが、空港チェックインカウンターにてお手続きください。"
+        },
+        {
+            "Key": "MCI-PassengerDetails",
+            "Value": "ご搭乗者"
+        },
+        {
+            "Key": "MCI-PassengerInfo",
+            "Value": "各搭乗者のチェックインを表示してください。"
+        },
+        {
+            "Key": "MCI-PassengerInformation",
+            "Value": "搭乗者情報"
+        },
+        {
+            "Key": "MCI-PassengersCheckIn",
+            "Value": " お客様の{1} 人中{0}人が、お客様のフライトで既にチェックインしています。"
+        },
+        {
+            "Key": "MCI-PassengerSeatAllocationTxt",
+            "Value": "<b>お客様のお好みの座席をお選びください。<\/b>\u000d\u000a<p>お好みの座席を指定してください。 特定の座席を指定されないお客様には、追加料金なしで、無作為に座席が割り当てられます。座席を指定しない場合、ご同伴のお客様と座席が隣同士にならないことがあります。<\/p>\u000d\u000a<p>\u000d\u000a<b><a href=#my-bookings\/{0}\/{1}\/seats>座席を追加<\/a><\/b>\u000d\u000a<\/p>\u000d\u000a\u000d\u000a"
+        },
+        {
+            "Key": "MCI-ReceiveBy",
+            "Value": "搭乗券の受領方法："
+        },
+        {
+            "Key": "MCI-RedirectCheckInTxt",
+            "Value": ""
+        },
+        {
+            "Key": "MCI-Seat",
+            "Value": "座席"
+        },
+        {
+            "Key": "MCI-SeatInfo",
+            "Value": "以下の座席の割り当てをご覧ください、座席の変更を希望する場合は、「座席の変更」のボタンをタップしてください。"
+        },
+        {
+            "Key": "MCI-SeatSelection",
+            "Value": "座席指定"
+        },
+        {
+            "Key": "MCI-SeatsInfo",
+            "Value": "<p>座席をお選びください。<\/p>"
+        },
+        {
+            "Key": "MCI-SMS",
+            "Value": "SMS"
+        },
+        {
+            "Key": "MCI-StraightToGate",
+            "Value": "搭乗ゲートへそのままお進みください"
+        },
+        {
+            "Key": "MCI-StraightToGateTxt",
+            "Value": "預けるお手荷物のないお客様は、空港に到着後そのまま搭乗ゲートへお進みいただけます。\u000a<br>\u000a出発の<b>30分前<\/b>までに搭乗ゲートへお越しいただき、モバイル搭乗券のQRコードを提示してご搭乗ください。"
+        },
+        {
+            "Key": "MCI-Success-Departs",
+            "Value": "出発 {0}"
+        },
+        {
+            "Key": "MCI-Success-FlightXOfY",
+            "Value": "フライト {0} \/ {1}"
+        },
+        {
+            "Key": "MCI-Success-GeneralInfo",
+            "Value": "<p><a href=\"http:\/\/www.jetstar.com\/jp\/ja\/help\/articles\/can-i-use-a-mobile-boarding-pass\" target=\"_blank\"><strong>モバイル搭乗券のご利用方法はこちらをご確認ください。<\/strong><\/a><\/p><br>\u000a<p><strong>スムーズなご旅行のために：<\/strong><\/p>\u000a<p><strong>ご搭乗について<\/strong><\/p>\u000a<p>出発時刻の30分前までに必ず搭乗ゲートまでお越しください。<\/p>\u000a<p><strong>受託手荷物について<\/strong><\/p>\u000a<p>お手荷物のお預けは、出発時刻の2時間前から可能です。Q300型機を使用するフライトでは出発時刻の90分前からお預けいただけます。出発時刻の30分前までにお預けください。<\/p>\u000a<p><strong>機内持込手荷物について<\/strong><\/p>\u000a<p>機内には、キャリーケースなどのお手荷物1個とハンドバッグなどのお手回り品1個の計2個、合計<strong>7kg<\/strong>までお持ち込みいただけます。 <br\/>\u000a<img src=\"http:\/\/www.jetstar.com\/%7E\/_media\/6FF0B426BB6743AC9D586621FFC4A927.ashx\"> <br\/>お手回り品の例：<\/p>\u000a<ul>\u000a<li>ハンドバッグ<\/li>\u000a<li>文庫本<\/li>\u000a<li>財布<\/li>\u000a<li>コート<\/li>\u000a<li>傘<\/li>\u000a<li>ノートパソコン<\/li>\u000a<\/ul>\u000a<p>お手回り品は、座席の下に収納できる大きさのお手荷物に限られます。<\/p>\u000a<p><strong>ニュージーランド国内地方路線はQ300型機で運航します<\/strong><\/p>\u000a<p>Q300型機のキャビンは小さいため、お持ち込みいただけるお手荷物の規定も通常より小さくなりますのでご注意ください（スーツカバーの規定サイズに変更はありません）。<\/p>\u000a<p style=\"float: left;\">\u000a<img width=\"282\" height=\"220\" alt=\"\" src=\"https:\/\/www.jetstar.com\/%7E\/_media\/D63A68A3BB094AC494E98322D6AB1B88.png\"\/><\/p> <br \/> <br \/> <p><strong>注意事項：<\/strong>サイズを超えた場合でも、「高さ56cm×幅36cm×奥行23cm、7kg」（通常の機内持込手荷物のサイズ・重量の規定）を超えなければ、受託手荷物として無料でお預けいただけます。チェックイン時にカウンターにてお申し出ください。<br clear=\"all\" \/> <\/p> <p><strong>ご注意事項：<\/strong><\/p> <p>規定を超えるお手荷物は、受託手荷物としてお預けいただく必要があり、料金が課されます。<\/p>"
+        },
+        {
+            "Key": "MCI-Success-NextFlightDeparts",
+            "Value": "出発 {0}"
+        },
+        {
+            "Key": "MCI-Success-SaveMBP",
+            "Value": "モバイル搭乗券を保存"
+        },
+        {
+            "Key": "MCI-Success-SuccessMsg",
+            "Value": "チェックインが完了しました"
+        },
+        {
+            "Key": "MCI-Success-UpdateiOSforBP",
+            "Value": "Please update the app to save your boarding pass to Passbook\/Wallet"
+        },
+        {
+            "Key": "MCI-TripButton",
+            "Value": "予約の確認・変更"
+        },
+        {
+            "Key": "MCI-Unassigned",
+            "Value": "未指定"
+        },
+        {
+            "Key": "MCI-UnavailableNow",
+            "Value": "現在、オンラインチェックインをご利用いただけません。"
+        }
+    ],
+    "Promotions": null
+}

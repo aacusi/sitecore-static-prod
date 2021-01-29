@@ -1,0 +1,65 @@
+{
+  "informationCenter": [
+    {
+      "ColumnName": "Agent tools",
+      "Links": [
+        {
+          "Label": "Agent Hub new look user guide",
+          "URL": "http://www.jetstar.com/_/media/files/agenthub/Agent-Hub-new-look-user-guide-POS-AU",
+          "Updated": "False"
+        },
+        {
+          "Label": "Manage your agency profile",
+          "URL": "http://www.jetstar.com/_/media/Files/Agenthub/Manage_Agency_Profile_EN",
+          "Updated": "False"
+        },
+        {
+          "Label": "Manage your bookings",
+          "URL": "http://www.jetstar.com/_/media/Files/Agenthub/Manage-Bookings",
+          "Updated": "False"
+        },
+        {
+          "Label": "For more information visit the Travel Agent Information Centre",
+          "URL": "http://www.jetstar.com/au/en/travel-agents/information-centre",
+          "Updated": "False"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "Label": "Contact us",
+      "URL": "http://www.jetstar.comhttp://www.jetstar.com/au/en/contact-us"
+    },
+    {
+      "Label": "Customer Guarantee",
+      "URL": "http://www.jetstar.com"
+    },
+    {
+      "Label": "Privacy policy",
+      "URL": "http://www.jetstar.com"
+    },
+    {
+      "Label": "Website Terms of use",
+      "URL": "http://www.jetstar.com"
+    },
+    {
+      "Label": "Terms & Conditions of Carriage",
+      "URL": "http://www.jetstar.com"
+    }
+  ],
+  "banners": [
+    {
+      "Name": "MREC",
+      "Image": "//www.jetstar.com/au/en/agentinfo//~/_media/Tradesite/Banners/flex_bundle_7kg_edited.png?bc=White",
+      "Caption": "Banner",
+      "URL": "//www.jetstar.com/au/en/flights/baggage/7kg-carry-on-baggage"
+    },
+    {
+      "Name": "VIDEO",
+      "Image": "//www.jetstar.com/au/en/agentinfo//~/_media/Tradesite/Banners/jetstarbusiness.jpg?bc=White",
+      "Caption": "Banner",
+      "URL": ""
+    }
+  ]
+}

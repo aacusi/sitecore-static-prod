@@ -1,0 +1,18 @@
+[
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/Avis-Budget.jpg",
+    "ShortDescription": "Sewalah mobil dengan Avis/Budget & dapatkan poin Frequent Flyer Qantas. Pesanlah sekarang juga! Anda dapat menyewa mobil, 4WD, truk, ute atau bus di Australia dari Avis/Budget. Pesanlah sewa mobil internasional di bandara atau dari kota.",
+    "ButtonLabel": "Syarat Penggunaan",
+    "DropDownField": "Anda akan diarahkan ke situs web Avis Budget Group oleh Jetstar. Situs web ini dimiliki dan dioperasikan oleh Avis Budget Group. Setiap transaksi Anda dengan Avis Budget Group adalah semata-mata antara Anda dan Avis Budget Group. Jetstar tidak bertanggung jawab atas isi dari materi atau promosi pihak ketiga dan tidak bertanggung jawab atas kerugian langsung atau tidak langsung atau kerusakan yang diderita oleh Anda (atau pihak lain) akibat dari tindakan mengakses, menggunakan, mengandalkan atau bertransaksi dengan pihak ketiga. Dimasukkannya tautan, materi promosi atau periklanan Avis Budget Group setelah pengalihan oleh Jetstar ke situs web tersebut tidak berarti merupakan dukungan Jetstar atau keterlibatan lain dengan pihak ketiga tersebut.",
+    "LinkURL": "https://book1.carrental.com/dcweb/app?service=page/MOBILEStep1&pid=Jetstar&locale=en&inited=false&mobile=true",
+    "ShowThirdPartyAlert": true
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/AgodaLogo.jpg",
+    "ShortDescription": "Agoda Company Pte Ltd (www.agoda.com) merupakan perusahaan pemesanan hotel secara online yang terkemuka di Asia, yang mengkhususkan diri dalam mendapatkan harga diskon hotel yang terendah. Agoda.com merupakan bagian dari Priceline Group (Nasdaq: PCLN). jaringan Agoda mencakup lebih dari 170.000 hotel di seluruh dunia. Staf multinasional mereka terdiri dari lebih dari 1.000 profesional di seluruh dunia, yang menyediakan layanan pemesanan berkualitas tinggi yang secara unik dapat menggabungkan pengetahuan lokal dan jaringan lokal untuk memberikan penawaran hotel terbaik bagi pelancong bisnis maupun liburan.",
+    "ButtonLabel": "Ketentuan berlaku",
+    "DropDownField": "Anda akan diarahkan ke situs web Agoda oleh Jetstar. Situs web ini dimiliki dan dioperasikan oleh Agoda. Setiap transaksi Anda dengan Agoda adalah semata-mata antara Anda dan Agoda. Jetstar tidak bertanggung jawab atas isi dari materi atau promosi pihak ketiga dan tidak bertanggung jawab atas kerugian langsung atau tidak langsung atau kerusakan yang diderita oleh Anda (atau pihak lain) akibat dari tindakan mengakses, menggunakan, mengandalkan atau bertransaksi dengan pihak ketiga. Dimasukkannya tautan, materi promosi atau periklanan Agoda setelah pengalihan oleh Jetstar ke situs web tersebut tidak berarti merupakan dukungan Jetstar atau keterlibatan lain dengan pihak ketiga tersebut.",
+    "LinkURL": "http://www.agoda.com/en-sg/index.html?cid=1649664",
+    "ShowThirdPartyAlert": true
+  }
+]

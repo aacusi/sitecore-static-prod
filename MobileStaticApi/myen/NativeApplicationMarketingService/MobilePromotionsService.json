@@ -1,0 +1,16 @@
+[
+  {
+    "HasLandingPage": false,
+    "LandingPageCTAText": "",
+    "LandingPageCTAURL": "",
+    "LandingPageImage": "",
+    "LandingPageText": "",
+    "LandingPageTitle": "",
+    "PromotionEndDate": "0001-01-01T00:00:00+00:00",
+    "PromotionStartDate": "0001-01-01T00:00:00+00:00",
+    "PromotionalPanelImage": "https://www.jetstar.com/MobileStaticApi/myen/NativeApplicationMarketingService/MobilePromotionsService-PromotionalPanelImage-L2/iphone_widget_stg.jpg?bc=White",
+    "PromotionalPanelImageCTAText": "Find out more",
+    "PromotionalPanelImageTermsAndConditions": "",
+    "PromotionalPanelURL": "http:\/\/www.jetstar.com\/my\/en\/planning-and-booking\/checking-in\/intra-asia#gate"
+  }
+] 

@@ -1,0 +1,881 @@
+{
+    "MobileSiteContent": [
+        {
+            "Key": "BFAIR-ADL",
+            "Value": "Adelaide"
+        },
+        {
+            "Key": "BFAIR-AKL",
+            "Value": "Auckland"
+        },
+        {
+            "Key": "BFAIR-AU",
+            "Value": "Úc"
+        },
+        {
+            "Key": "BFAIR-AVV",
+            "Value": "Melbourne (Avalon)"
+        },
+        {
+            "Key": "BFAIR-AYQ",
+            "Value": "Ayers Rock"
+        },
+        {
+            "Key": "BFAIR-BKK",
+            "Value": "Bangkok"
+        },
+        {
+            "Key": "BFAIR-BLR",
+            "Value": "Bengaluru"
+        },
+        {
+            "Key": "BFAIR-BMV",
+            "Value": "Buon Ma Thuot"
+        },
+        {
+            "Key": "BFAIR-BNE",
+            "Value": "Brisbane"
+        },
+        {
+            "Key": "BFAIR-BNK",
+            "Value": "Ballina Byron"
+        },
+        {
+            "Key": "BFAIR-BOM",
+            "Value": "Mumbai"
+        },
+        {
+            "Key": "BFAIR-BQB",
+            "Value": "Busselton Margaret River"
+        },
+        {
+            "Key": "BFAIR-CAN",
+            "Value": "Quản Châu"
+        },
+        {
+            "Key": "BFAIR-CBR",
+            "Value": "Canberra"
+        },
+        {
+            "Key": "BFAIR-CCU",
+            "Value": "Kolkata"
+        },
+        {
+            "Key": "BFAIR-CGK",
+            "Value": "Jakarta"
+        },
+        {
+            "Key": "BFAIR-CGO",
+            "Value": "Zhengzhou"
+        },
+        {
+            "Key": "BFAIR-CHC",
+            "Value": "Christchurch"
+        },
+        {
+            "Key": "BFAIR-CK",
+            "Value": "Đảo Cook"
+        },
+        {
+            "Key": "BFAIR-CMB",
+            "Value": "Colombo"
+        },
+        {
+            "Key": "BFAIR-CN",
+            "Value": "Trung Quốc"
+        },
+        {
+            "Key": "BFAIR-CNS",
+            "Value": "Cairns"
+        },
+        {
+            "Key": "BFAIR-CNX",
+            "Value": "Chiang Mai"
+        },
+        {
+            "Key": "BFAIR-CRK",
+            "Value": "Clark"
+        },
+        {
+            "Key": "BFAIR-CSX",
+            "Value": "Changsha"
+        },
+        {
+            "Key": "BFAIR-CTS",
+            "Value": "Sapporo (New Chitose)"
+        },
+        {
+            "Key": "BFAIR-CXR",
+            "Value": "Nha Trang"
+        },
+        {
+            "Key": "BFAIR-DAD",
+            "Value": "Đà Nẵng"
+        },
+        {
+            "Key": "BFAIR-DDI",
+            "Value": "Đảo Daydream"
+        },
+        {
+            "Key": "BFAIR-DEL",
+            "Value": "Delhi"
+        },
+        {
+            "Key": "BFAIR-DLI",
+            "Value": "Da Lat"
+        },
+        {
+            "Key": "BFAIR-DPS",
+            "Value": "Bali (Denpasar)"
+        },
+        {
+            "Key": "BFAIR-DRW",
+            "Value": "Darwin"
+        },
+        {
+            "Key": "BFAIR-DUD",
+            "Value": "Dunedin"
+        },
+        {
+            "Key": "BFAIR-FJ",
+            "Value": "Fiji"
+        },
+        {
+            "Key": "BFAIR-FUK",
+            "Value": "Fukuoka"
+        },
+        {
+            "Key": "BFAIR-HAK",
+            "Value": "Haikou"
+        },
+        {
+            "Key": "BFAIR-HAN",
+            "Value": "Hà Nội"
+        },
+        {
+            "Key": "BFAIR-HAP",
+            "Value": "Đảo Long"
+        },
+        {
+            "Key": "BFAIR-HBA",
+            "Value": "Hobart"
+        },
+        {
+            "Key": "BFAIR-HDY",
+            "Value": "Hat Yai"
+        },
+        {
+            "Key": "BFAIR-HFE",
+            "Value": "Hợp Phì"
+        },
+        {
+            "Key": "BFAIR-HGH",
+            "Value": "Hàng Châu (Thượng Hải)"
+        },
+        {
+            "Key": "BFAIR-HIS",
+            "Value": "Đảo Hayman"
+        },
+        {
+            "Key": "BFAIR-HK",
+            "Value": "Hong Kong SAR, Trung Quốc"
+        },
+        {
+            "Key": "BFAIR-HKG",
+            "Value": "Hong Kong"
+        },
+        {
+            "Key": "BFAIR-HKT",
+            "Value": "Phuket"
+        },
+        {
+            "Key": "BFAIR-HNL",
+            "Value": "Honolulu"
+        },
+        {
+            "Key": "BFAIR-HPH",
+            "Value": "Hải Phòng"
+        },
+        {
+            "Key": "BFAIR-HTI",
+            "Value": "Đảo Hamilton"
+        },
+        {
+            "Key": "BFAIR-HUI",
+            "Value": "Huế"
+        },
+        {
+            "Key": "BFAIR-HVB",
+            "Value": "Vịnh Hervey"
+        },
+        {
+            "Key": "BFAIR-ICN",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-ID",
+            "Value": "Indonesia"
+        },
+        {
+            "Key": "BFAIR-IN",
+            "Value": "Republic of India"
+        },
+        {
+            "Key": "BFAIR-JLM",
+            "Value": "Canberra (Jolimont Bus Station)"
+        },
+        {
+            "Key": "BFAIR-JP",
+            "Value": "Nhật Bản"
+        },
+        {
+            "Key": "BFAIR-KCZ",
+            "Value": "Kochi"
+        },
+        {
+            "Key": "BFAIR-KH",
+            "Value": "Campuchia"
+        },
+        {
+            "Key": "BFAIR-KHH",
+            "Value": "Cao Hùng"
+        },
+        {
+            "Key": "BFAIR-KIX",
+            "Value": "Osaka (Kansai)"
+        },
+        {
+            "Key": "BFAIR-KMI",
+            "Value": "Miyazaki"
+        },
+        {
+            "Key": "BFAIR-KMJ",
+            "Value": "Kumamoto"
+        },
+        {
+            "Key": "BFAIR-KNO",
+            "Value": "Medan (Sân bay Quốc tế Namu)"
+        },
+        {
+            "Key": "BFAIR-KOJ",
+            "Value": "Kagoshima"
+        },
+        {
+            "Key": "BFAIR-KR",
+            "Value": ""
+        },
+        {
+            "Key": "BFAIR-KUL",
+            "Value": "Kuala Lumpur"
+        },
+        {
+            "Key": "BFAIR-KWE",
+            "Value": "Guiyang"
+        },
+        {
+            "Key": "BFAIR-LK",
+            "Value": "Sri Lanka"
+        },
+        {
+            "Key": "BFAIR-LOP",
+            "Value": "Lombok"
+        },
+        {
+            "Key": "BFAIR-LST",
+            "Value": "Launceston"
+        },
+        {
+            "Key": "BFAIR-MAA",
+            "Value": "Chennai"
+        },
+        {
+            "Key": "BFAIR-MCY",
+            "Value": "Sunshine Coast"
+        },
+        {
+            "Key": "BFAIR-MEL",
+            "Value": "Melbourne (Tullamarine)"
+        },
+        {
+            "Key": "BFAIR-MES",
+            "Value": "Medan"
+        },
+        {
+            "Key": "BFAIR-MFM",
+            "Value": "Ma Cao"
+        },
+        {
+            "Key": "BFAIR-MKY",
+            "Value": "Mackay"
+        },
+        {
+            "Key": "BFAIR-MM",
+            "Value": "Myanmar"
+        },
+        {
+            "Key": "BFAIR-MNL",
+            "Value": "Manila"
+        },
+        {
+            "Key": "BFAIR-MO",
+            "Value": "Macau SAR, Trung Quốc"
+        },
+        {
+            "Key": "BFAIR-MY",
+            "Value": "Malaysia"
+        },
+        {
+            "Key": "BFAIR-MYJ",
+            "Value": "Matsuyama"
+        },
+        {
+            "Key": "BFAIR-NAN",
+            "Value": "Nadi"
+        },
+        {
+            "Key": "BFAIR-NGB",
+            "Value": "Ningbo"
+        },
+        {
+            "Key": "BFAIR-NGO",
+            "Value": "Nagoya (Chubu)"
+        },
+        {
+            "Key": "BFAIR-NGS",
+            "Value": "Nagasaki"
+        },
+        {
+            "Key": "BFAIR-NPE",
+            "Value": "Napier"
+        },
+        {
+            "Key": "BFAIR-NPL",
+            "Value": "New Plymouth"
+        },
+        {
+            "Key": "BFAIR-NRT",
+            "Value": "Tokyo (Narita)"
+        },
+        {
+            "Key": "BFAIR-NSN",
+            "Value": "Nelson"
+        },
+        {
+            "Key": "BFAIR-NTL",
+            "Value": "Newcastle"
+        },
+        {
+            "Key": "BFAIR-NZ",
+            "Value": "New Zealand"
+        },
+        {
+            "Key": "BFAIR-OIT",
+            "Value": "Oita"
+        },
+        {
+            "Key": "BFAIR-OKA",
+            "Value": "Okinawa (Naha)"
+        },
+        {
+            "Key": "BFAIR-OOL",
+            "Value": "Gold Coast"
+        },
+        {
+            "Key": "BFAIR-PEK",
+            "Value": "Bắc Kinh"
+        },
+        {
+            "Key": "BFAIR-PEN",
+            "Value": "Penang"
+        },
+        {
+            "Key": "BFAIR-PER",
+            "Value": "Perth"
+        },
+        {
+            "Key": "BFAIR-PH",
+            "Value": "Phi-líp-pin"
+        },
+        {
+            "Key": "BFAIR-PKU",
+            "Value": "Pekanbaru"
+        },
+        {
+            "Key": "BFAIR-PLM",
+            "Value": "Palembang"
+        },
+        {
+            "Key": "BFAIR-PMR",
+            "Value": "Palmerston North"
+        },
+        {
+            "Key": "BFAIR-PNH",
+            "Value": "Phnom Penh"
+        },
+        {
+            "Key": "BFAIR-PPP",
+            "Value": "Whitsunday Coast"
+        },
+        {
+            "Key": "BFAIR-PQC",
+            "Value": "Phú Quốc"
+        },
+        {
+            "Key": "BFAIR-PVG",
+            "Value": "Shanghai"
+        },
+        {
+            "Key": "BFAIR-PXU",
+            "Value": "Pleiku"
+        },
+        {
+            "Key": "BFAIR-RAR",
+            "Value": "Rarotonga"
+        },
+        {
+            "Key": "BFAIR-REP",
+            "Value": "Siem Reap"
+        },
+        {
+            "Key": "BFAIR-RGN",
+            "Value": "Yangon"
+        },
+        {
+            "Key": "BFAIR-SG",
+            "Value": "Singapore"
+        },
+        {
+            "Key": "BFAIR-SGN",
+            "Value": "TP. Hồ Chí Minh"
+        },
+        {
+            "Key": "BFAIR-SHI",
+            "Value": "Miyako (Shimojishima)"
+        },
+        {
+            "Key": "BFAIR-SIN",
+            "Value": "Singapore"
+        },
+        {
+            "Key": "BFAIR-SUB",
+            "Value": "Surabaya"
+        },
+        {
+            "Key": "BFAIR-SWA",
+            "Value": "Sán Đầu \/ Yết Dương"
+        },
+        {
+            "Key": "BFAIR-SYD",
+            "Value": "Sydney"
+        },
+        {
+            "Key": "BFAIR-SYO",
+            "Value": "Shonai"
+        },
+        {
+            "Key": "BFAIR-SYX",
+            "Value": "Sanya"
+        },
+        {
+            "Key": "BFAIR-TAK",
+            "Value": "Takamatsu"
+        },
+        {
+            "Key": "BFAIR-TBB",
+            "Value": "Tuy H&ograve;a"
+        },
+        {
+            "Key": "BFAIR-TH",
+            "Value": "Thái Lan"
+        },
+        {
+            "Key": "BFAIR-THD",
+            "Value": "Thanh Hóa"
+        },
+        {
+            "Key": "BFAIR-TJQ",
+            "Value": "Belitung<br \/>"
+        },
+        {
+            "Key": "BFAIR-TPE",
+            "Value": "Đài Bắc"
+        },
+        {
+            "Key": "BFAIR-TRZ",
+            "Value": "Tiruchirappalli"
+        },
+        {
+            "Key": "BFAIR-TSV",
+            "Value": "Townsville"
+        },
+        {
+            "Key": "BFAIR-TW",
+            "Value": "Đài Loan, Trung Quốc"
+        },
+        {
+            "Key": "BFAIR-UIH",
+            "Value": "Quy Nhơn"
+        },
+        {
+            "Key": "BFAIR-US",
+            "Value": "Hoa Kỳ"
+        },
+        {
+            "Key": "BFAIR-VCA",
+            "Value": "Cần Thơ"
+        },
+        {
+            "Key": "BFAIR-VCL",
+            "Value": "Chu Lai"
+        },
+        {
+            "Key": "BFAIR-VDH",
+            "Value": "Đồng Hới"
+        },
+        {
+            "Key": "BFAIR-VII",
+            "Value": "Vinh"
+        },
+        {
+            "Key": "BFAIR-VIZ",
+            "Value": "Melbourne"
+        },
+        {
+            "Key": "BFAIR-VN",
+            "Value": "Việt Nam"
+        },
+        {
+            "Key": "BFAIR-WLG",
+            "Value": "Wellington"
+        },
+        {
+            "Key": "BFAIR-WSY",
+            "Value": "Whitsunday Coast - Airlie Beach"
+        },
+        {
+            "Key": "BFAIR-WUH",
+            "Value": "Wuhan"
+        },
+        {
+            "Key": "BFAIR-XUZ",
+            "Value": "Từ Châu"
+        },
+        {
+            "Key": "BFAIR-ZQN",
+            "Value": "Queenstown"
+        },
+        {
+            "Key": "terminalInfo-ADL-1",
+            "Value": "Ga Nội Địa"
+        },
+        {
+            "Key": "terminalInfo-ADL-1-short",
+            "Value": "Nội địa"
+        },
+        {
+            "Key": "terminalInfo-ADL-D",
+            "Value": "Ga Nội Địa"
+        },
+        {
+            "Key": "terminalInfo-ADL-D-short",
+            "Value": "Nội địa"
+        },
+        {
+            "Key": "terminalInfo-ADL-I",
+            "Value": "Ga Quốc Tế"
+        },
+        {
+            "Key": "terminalInfo-ADL-I-short",
+            "Value": "Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-AKL-D",
+            "Value": "Ga Nội Địa"
+        },
+        {
+            "Key": "terminalInfo-AKL-D-short",
+            "Value": "Nội địa"
+        },
+        {
+            "Key": "terminalInfo-AKL-I",
+            "Value": "Ga Quốc Tế"
+        },
+        {
+            "Key": "terminalInfo-AKL-I-short",
+            "Value": "Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-BKK-I",
+            "Value": "Ga Quốc Tế"
+        },
+        {
+            "Key": "terminalInfo-BKK-I-short",
+            "Value": "Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-BNE-D",
+            "Value": "Nhà ga Nội địa"
+        },
+        {
+            "Key": "terminalInfo-BNE-D-short",
+            "Value": "Nội địa"
+        },
+        {
+            "Key": "terminalInfo-BNE-I",
+            "Value": "Nhà ga Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-BNE-I-short",
+            "Value": "Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-CNS-D",
+            "Value": "Nhà ga Nội địa"
+        },
+        {
+            "Key": "terminalInfo-CNS-D-short",
+            "Value": "Nội địa"
+        },
+        {
+            "Key": "terminalInfo-CNS-I",
+            "Value": "Nhà ga Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-CNS-I-short",
+            "Value": "Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-DPS-I",
+            "Value": "Ga Quốc Tế"
+        },
+        {
+            "Key": "terminalInfo-DPS-I-short",
+            "Value": "Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-DRW-D",
+            "Value": "Nhà ga Nội địa"
+        },
+        {
+            "Key": "terminalInfo-DRW-D-short",
+            "Value": "Nội địa"
+        },
+        {
+            "Key": "terminalInfo-DRW-I",
+            "Value": "Nhà ga Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-DRW-I-short",
+            "Value": "Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-HKG-2",
+            "Value": "Ga số 2"
+        },
+        {
+            "Key": "terminalInfo-HKG-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-HKT-1",
+            "Value": "Ga số 1"
+        },
+        {
+            "Key": "terminalInfo-HKT-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-HKT-I",
+            "Value": "Ga số 1"
+        },
+        {
+            "Key": "terminalInfo-HKT-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-HNL-M",
+            "Value": "Ga Chính"
+        },
+        {
+            "Key": "terminalInfo-HNL-M-short",
+            "Value": "Chính"
+        },
+        {
+            "Key": "terminalInfo-KIX-1",
+            "Value": "Ga số 1"
+        },
+        {
+            "Key": "terminalInfo-KIX-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-KIX-I",
+            "Value": "Ga số 1"
+        },
+        {
+            "Key": "terminalInfo-KIX-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1",
+            "Value": "Nhà ga Nội địa T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-MEL-2",
+            "Value": "Nhà ga Quốc tế T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-4",
+            "Value": "Nhà ga Nội địa T4"
+        },
+        {
+            "Key": "terminalInfo-MEL-4-short",
+            "Value": "T4"
+        },
+        {
+            "Key": "terminalInfo-MEL-D",
+            "Value": "Nhà ga Nội địa T2"
+        },
+        {
+            "Key": "terminalInfo-MEL-D-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-MNL-I",
+            "Value": "Ga số 1"
+        },
+        {
+            "Key": "terminalInfo-MNL-I-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-NRT-2",
+            "Value": "Ga số 2"
+        },
+        {
+            "Key": "terminalInfo-NRT-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-NRT-3",
+            "Value": "Ga số 3"
+        },
+        {
+            "Key": "terminalInfo-NRT-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-OOL-D",
+            "Value": "Nhà ga Nội địa T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-D-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-OOL-I",
+            "Value": "Nhà ga Quốc tế T2"
+        },
+        {
+            "Key": "terminalInfo-OOL-I-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-PER-1",
+            "Value": "Nhà ga Quốc tế T1"
+        },
+        {
+            "Key": "terminalInfo-PER-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-PER-2",
+            "Value": "Nhà ga nội địa T4"
+        },
+        {
+            "Key": "terminalInfo-PER-2-short",
+            "Value": "T4"
+        },
+        {
+            "Key": "terminalInfo-PER-3",
+            "Value": "Nhà ga Nội địa T3"
+        },
+        {
+            "Key": "terminalInfo-PER-3-short",
+            "Value": "T3"
+        },
+        {
+            "Key": "terminalInfo-PER-4",
+            "Value": "Nhà ga Nội địa T4"
+        },
+        {
+            "Key": "terminalInfo-PER-4-short",
+            "Value": "T4"
+        },
+        {
+            "Key": "terminalInfo-SGN-D",
+            "Value": "Ga số 1"
+        },
+        {
+            "Key": "terminalInfo-SGN-D-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SGN-I",
+            "Value": "Nhà ga Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-SGN-I-short",
+            "Value": "Quốc tế"
+        },
+        {
+            "Key": "terminalInfo-SIN-1",
+            "Value": "Ga số 1"
+        },
+        {
+            "Key": "terminalInfo-SIN-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SUB-2",
+            "Value": "Ga số 2"
+        },
+        {
+            "Key": "terminalInfo-SUB-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-1",
+            "Value": "Nhà ga Quốc tế T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-1-short",
+            "Value": "T1"
+        },
+        {
+            "Key": "terminalInfo-SYD-2",
+            "Value": "Nhà ga Nội địa T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-2-short",
+            "Value": "T2"
+        },
+        {
+            "Key": "terminalInfo-SYD-3",
+            "Value": "Nhà ga Nội địa T3"
+        },
+        {
+            "Key": "terminalInfo-SYD-3-short",
+            "Value": "T3"
+        }
+    ],
+    "Promotions": null
+}

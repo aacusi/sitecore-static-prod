@@ -1,0 +1,18 @@
+﻿[
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/Avis-Budget.jpg",
+    "ShortDescription": "에비스/버젯에서 자동차를 렌트하고 콴타스 프리퀀트 플라이어 포인트를 받으세요. 지금 예약하세요. 오스트레일리아에서 에비스/버젯 를 통해 승용차, 4WD, 트럭, 트레일러 또는 버스를 렌트하세요. 공항이나 도시에서 국제 렌트카를 예약하세요.",
+    "ButtonLabel": "이용약관",
+    "DropDownField": "젯스타에서 에비스 버젯 그룹 웹사이트로 리디렉션됩니다. 이 웹사이트는 에비스 버젯 그룹에서 소유 및 운영합니다. 에비스 버젯 그룹과의 거래는 고객과 에비스 버젯 그룹 사이에서만 이루어집니다. 젯스타는 제3자의 컨텐츠, 자료 또는 홍보에 대해 책임을 지지 않으며 이에 대한 액세스, 사용, 이용 및 거래로 인해 발생하는 사용자(또는 기타 관련자)의 직접 또는 간접적인 손해나 부상에 대해 책임을 지지 않습니다. 젯스타의 에비스 버젯 그룹 링크 포함이나 리디렉션 시 표시되는 광고 또는 홍보 자료는 젯스타와 제3자 사이의 보장 또는 기타 연관 관계를 의미하지 않습니다.",
+    "LinkURL": "https://book1.carrental.com/dcweb/app?service=page/MOBILEStep1&pid=Jetstar&locale=en&inited=false&mobile=true",
+    "ShowThirdPartyAlert": true
+  },
+  {
+    "ImageURL": "https://www.jetstar.com/MobileStaticApi/auen/CHE-auen-Image-L2/AgodaLogo.jpg",
+    "ShortDescription": "Agoda Company Pte Ltd(www.agoda.com)는 아시아에 본사를 두고 있으며 초저가 할인 호텔 분야를 전문적으로 취급하는 온라인 호텔 예약 회사입니다. Agoda.com은 Priceline Group(Nasdaq:PCLN)에 속해 있습니다. 아고다의 네트워크에는 세계 170,000개 이상의 호텔이 포함되어 있습니다. 세계 전역에 퍼진 여러 국가 출신의 직원 1,000명 이상이 현지 지식과 현지 기반을 결합하여 출장 및 레저 여행 모두에 최적의 호텔을 제안하는 특급 예약 서비스를 제공합니다.",
+    "ButtonLabel": "조건이 적용됨",
+    "DropDownField": "젯스타에서 아고다 웹사이트로 리디렉션됩니다. 이 웹사이트는 아고다에서 소유 및 운영합니다. 아고다와의 거래는 고객과 아고다 사이에서만 이루어집니다. 젯스타는 제3자의 컨텐츠, 자료 또는 홍보에 대해 책임을 지지 않으며 이에 대한 액세스, 사용, 이용 및 거래로 인해 발생하는 사용자(또는 기타 관련자)의 직접 또는 간접적인 손해나 부상에 대해 책임을 지지 않습니다. 젯스타의 아고다 링크 포함이나 리디렉션 시 표시되는 광고 또는 홍보 자료는 젯스타와 제3자 사이의 보장 또는 기타 연관 관계를 의미하지 않습니다.",
+    "LinkURL": "http://www.agoda.com/ko-kr/index.html?cid=1649675",
+    "ShowThirdPartyAlert": true
+  }
+]
